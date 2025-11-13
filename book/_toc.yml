@@ -4,8 +4,7 @@ root: intro.md
 parts:
   - caption: Dictaten
     chapters:
-      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-      title: Dictaat Def D
+    - file: leerdoelen/ontwerpen.md
       - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
       title: Dictaat Def D
 

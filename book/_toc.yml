@@ -4,16 +4,16 @@ root: intro.md
 parts:
   - caption: Dictaten
     chapters:
-    - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
+      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
       title: Dictaat Def D
-    - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
+      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
       title: Dictaat Def D
 
   - caption: test
     chapters:
-    - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
+      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
       title: Dictaat 1
-    - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
+      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
       title: Dictaat 2
 
   - caption: Theoretische Leerdoelen

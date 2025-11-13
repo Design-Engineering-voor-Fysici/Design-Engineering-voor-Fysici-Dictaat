@@ -46,6 +46,20 @@ parts:
       sections:
       - file: ontwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpopdracht6MaakEenMicroscoopInvulTemplate.ipynb
 
+  - caption: Electromagnetisme project
+    chapters:
+    - file: electromagnetisme_project/project_1/project_1.md
+      sections:
+      - file: electromagnetisme_project/project_1/project_1.ipynb
+    - file: electromagnetisme_project/project_2/project_2.md
+      sections:
+        - file: electromagnetisme_project/project_2/project_2.ipynb
+    - file: electromagnetisme_project/project_3/project_3.md
+      sections:
+        - file: electromagnetisme_project/project_3/project_3.ipynb
+
+
+
 
   - caption: Overig
     chapters:

@@ -11,8 +11,8 @@ parts:
 
   - caption: test
     chapters:
-      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-      title: Dictaat 1
+      - file: electromagnetisme_project/project_1/project_1.md
+      title: Electromagnetisme Project 1
       - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
       title: Dictaat 2
 

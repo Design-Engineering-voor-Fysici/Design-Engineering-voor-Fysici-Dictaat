@@ -33,8 +33,6 @@ parts:
       - file: PraktischeLeerdoelen/Arduino/ArduinoProgrammeren3.md
       - file: PraktischeLeerdoelen/Arduino/ArduinoOpdr6.md
 
-  - caption: Electromagnetisme project
-
 
   - caption: Ontwerpopdrachten
     chapters:
@@ -67,11 +65,14 @@ parts:
       sections:
         - file: electromagnetisme_project/project_3/project_3.ipynb
 
-
-
-
   - caption: Overig
     chapters:
     - file: ontwerpopdrachten/0kickOffDag/kickoffdagTestAssignment.ipynb
     - file: references.md
     - file: credits.md
+
+  - caption: Overig
+    chapters:
+      - file: ontwerpopdrachten/0kickOffDag/kickoffdagTestAssignment.ipynb
+      - file: references.md
+      - file: credits.md

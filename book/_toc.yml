@@ -2,7 +2,7 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Extra Links
+  - caption: Dictaten
     chapters:
     - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
       title: Dictaat Def D
@@ -32,6 +32,8 @@ parts:
       - file: PraktischeLeerdoelen/Arduino/ArduinoOpdr5.md
       - file: PraktischeLeerdoelen/Arduino/ArduinoProgrammeren3.md
       - file: PraktischeLeerdoelen/Arduino/ArduinoOpdr6.md
+
+  - caption: Electromagnetisme project
 
 
   - caption: Ontwerpopdrachten

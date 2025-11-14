@@ -11,12 +11,13 @@ parts:
 
   - caption: test
     chapters:
+      - file: leerdoelen/ontwerpen.md
       - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
         title: Dictaat Def D
 
   - caption: Theoretische Leerdoelen
     chapters:
-    - file: leerdoelen/ontwerpen.md
+
     - file: leerdoelen/schattendRekenen.md
     - file: leerdoelen/onzekerheidToleranties.md
       sections:

@@ -11,18 +11,18 @@ parts:
 
   - caption: test
     chapters:
-      - file: leerdoelen/Test.md
+      - file: electromagnetisme_project/Test.md
       - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-        title: Dictaat Def DEF
+        title: Dictaat Def D
 
   - caption: Theoretische Leerdoelen
     chapters:
-      - file: leerdoelen/Test.md
-      - file: leerdoelen/schattendRekenen.md
-      - file: leerdoelen/onzekerheidToleranties.md
-    sections:
+    - file: leerdoelen/ontwerpen.md
+    - file: leerdoelen/schattendRekenen.md
+    - file: leerdoelen/onzekerheidToleranties.md
+      sections:
       - file: leerdoelen/OnzekerheidOefenopgaves.md
-      - file: leerdoelen/lifeCycleAnalysis.md
+    - file: leerdoelen/lifeCycleAnalysis.md
 
   - caption: Praktische Leerdoelen
     chapters:

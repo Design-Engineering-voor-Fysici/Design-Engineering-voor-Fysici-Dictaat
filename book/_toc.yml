@@ -13,6 +13,7 @@ parts:
     chapters:
       - url: https://github.com
         title: Dictaat 2
+      - file: leerdoelen/ontwerpen.md
 
   - caption: Theoretische Leerdoelen
     chapters:

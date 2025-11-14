@@ -17,12 +17,12 @@ parts:
 
   - caption: Theoretische Leerdoelen
     chapters:
-    - file: leerdoelen/Test.md
-    - file: leerdoelen/schattendRekenen.md
-    - file: leerdoelen/onzekerheidToleranties.md
-      sections:
+      - file: leerdoelen/Test.md
+      - file: leerdoelen/schattendRekenen.md
+      - file: leerdoelen/onzekerheidToleranties.md
+    sections:
       - file: leerdoelen/OnzekerheidOefenopgaves.md
-    - file: leerdoelen/lifeCycleAnalysis.md
+      - file: leerdoelen/lifeCycleAnalysis.md
 
   - caption: Praktische Leerdoelen
     chapters:

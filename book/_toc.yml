@@ -11,8 +11,6 @@ parts:
 
   - caption: test
     chapters:
-      - url: https://github.com
-        title: Dictaat 2
       - file: electromagnetisme_project/project_3/project_3.md
 
   - caption: Theoretische Leerdoelen

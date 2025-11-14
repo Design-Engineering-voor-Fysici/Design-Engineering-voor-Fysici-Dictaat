@@ -11,7 +11,7 @@ parts:
 
   - caption: test
     chapters:
-    - file: book/electromagnetisme_project/project_3/project_3.ipynb
+    - file: project_3/project_3.ipynb
 
   - caption: Theoretische Leerdoelen
     chapters:

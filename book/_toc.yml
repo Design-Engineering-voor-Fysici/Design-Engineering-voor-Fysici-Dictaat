@@ -13,7 +13,7 @@ parts:
     chapters:
       - url: https://github.com
         title: Dictaat 2
-      - file: leerdoelen/ontwerpen.md
+      - file: electromagnetisme_project/project_3/project_3.md
 
   - caption: Theoretische Leerdoelen
     chapters:
@@ -67,9 +67,6 @@ parts:
     - file: electromagnetisme_project/project_2/project_2.md
       sections:
         - file: electromagnetisme_project/project_2/project_2.ipynb
-    - file: electromagnetisme_project/project_3/project_3.md
-      sections:
-        - file: electromagnetisme_project/project_3/project_3.ipynb
 
   - caption: Overig
     chapters:

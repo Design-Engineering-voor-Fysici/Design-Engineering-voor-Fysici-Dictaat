@@ -11,7 +11,7 @@ parts:
 
   - caption: test
     chapters:
-    - file: project_3/project_3.ipynb
+    - file: project_3.md
 
   - caption: Theoretische Leerdoelen
     chapters:

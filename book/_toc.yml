@@ -11,7 +11,7 @@ parts:
 
   - caption: test
     chapters:
-      - file: electromagnetisme_project/Test.md
+    - file: electromagnetisme_project/Test.md
       - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
         title: Dictaat Def DEF
 

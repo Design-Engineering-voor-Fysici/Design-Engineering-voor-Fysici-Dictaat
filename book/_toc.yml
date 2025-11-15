@@ -5,9 +5,9 @@ parts:
   - caption: Dictaten
     chapters:
       - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-        title: Dictaat Def E
+        title: Dictaat DEF E
       - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-        title: Dictaat Def F
+        title: Dictaat DEF F
 
 
 

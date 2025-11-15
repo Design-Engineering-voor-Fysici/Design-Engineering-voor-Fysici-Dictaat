@@ -11,9 +11,9 @@ parts:
 
   - caption: test
     chapters:
-      - file: electromagnetisme_project/ontwerpen1.md
+      - file: electromagnetisme_project/condensator.md
       - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-        title: Dictaat Def D
+        title: Dictaat Def DEF
 
   - caption: Theoretische Leerdoelen
     chapters:

@@ -17,7 +17,7 @@ parts:
 
   - caption: Theoretische Leerdoelen
     chapters:
-    - file: book/leerdoelen/test_leerdoelen.md
+    - file: leerdoelen/ontwerpen1.md
     - file: leerdoelen/ontwerpen.md
     - file: leerdoelen/schattendRekenen.md
     - file: leerdoelen/onzekerheidToleranties.md

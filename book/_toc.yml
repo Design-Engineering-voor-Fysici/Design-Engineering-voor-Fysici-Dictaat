@@ -13,7 +13,7 @@ parts:
     chapters:
       - file: book/electromagnetisme_project/ontwerpen1.md
       - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-        title: Dictaat Def D
+        title: Dictaat Def DEFq
 
   - caption: Theoretische Leerdoelen
     chapters:

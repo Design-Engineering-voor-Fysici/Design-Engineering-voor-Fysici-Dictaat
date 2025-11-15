@@ -5,17 +5,12 @@ parts:
   - caption: Dictaten
     chapters:
       - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-        title: Dictaat Def D
+        title: Dictaat Def E
       - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-        title: Dictaat Def DE
+        title: Dictaat Def F
 
-  - caption: electromagnetisme opdrachten
-    chapters:
-      - file: electromagnetisme_project/condensator.md
-      - file: electromagnetisme_project/project_2.md
-      - file: electromagnetisme_project/project_3.md
-      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-        title: Dictaat Def D
+
+
 
   - caption: Theoretische Leerdoelen
     chapters:
@@ -61,6 +56,11 @@ parts:
       sections:
       - file: ontwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpopdracht6MaakEenMicroscoopInvulTemplate.ipynb
 
+  - caption: Electromagnetisme opdrachten
+    chapters:
+      - file: electromagnetisme_project/condensator.md
+      - file: electromagnetisme_project/project_2.md
+      - file: electromagnetisme_project/project_3.md
 
   - caption: Overig
     chapters:

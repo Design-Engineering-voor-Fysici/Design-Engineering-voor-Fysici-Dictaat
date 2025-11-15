@@ -1,4 +1,4 @@
-# Ontwerp theorie1
+# Condensator ontwerpopdracht
 Er zijn veel verschillende visies op wat ontwerpen "is". Een mogelijke manier om naar ontwerpen te kijken is te kijken naar de rol die ontwerpen als activiteit heeft: waarom ontwerpen mensen?
 
 1. Ontwerpen als vormgeving. De vraag die beantwoord wordt is: "Hoe moet iets eruit zien?". Dit is het soort "ontwerpen" dat vaak (ten onrechte) met 'design' wordt aangeduid. Bijvoorbeeld: de vorm van een opvallende (kunstzinnige?) stoel.

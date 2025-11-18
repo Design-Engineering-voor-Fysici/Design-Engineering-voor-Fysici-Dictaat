@@ -10,7 +10,7 @@ Bij Design Engineering voor Fysici focussen we op de laatste categorie en voegen
 ## De ontwerpcyclus
 Er zijn veel manieren om je werk als ontwerper (of, zie hierboven: oplossing-bedenker) gestructureerd in te richten. Als je gaat zoeken kom je vele ontwerpmethodes tegen zoals *Agile*, *design thinking*, *ontwerpcyclus* en vele andere. Deze termen zijn vaak erg vakgebied specifiek (vaak zonder te expliciet te noemen!). Zo is *agile* een methodiek die ontwikkeld is om teams van programmeurs zo snel mogelijk een bestaand stuk software beter te laten maken. Ontwerpmethodes zijn (vaak) tegenstrijdig: wat de één zegt is vaak strijdig met wat een ander zegt. Dat is geen probleem: verschillende ontwerpmethodes zijn ontwordpen voor verschillende toepassingen / deelgebieden en wat voor (bijvoorbeeld) software engineering van een klimaatmodel geldt, geldt niet per se voor het ontwerpen en bouwen van een kernreactor.
 
-Bij DEF gebruiken we de ontwerpcyclus van Roozenburg & Eekels [insert ref]. Zie de Delft Design Guide [insert ref], een boek met verschillende ontwerpmethodes dat in de opleiding Industrieel Ontwerpen veel gebruikt wordt, voor meer ontwerpmethodes. 
+Bij DEF gebruiken we de ontwerpcyclus van Roozenburg & Eekels {cite:t}`EEKELS1991197`. Zie de Delft Design Guide [insert ref], een boek met verschillende ontwerpmethodes dat in de opleiding Industrieel Ontwerpen veel gebruikt wordt, voor meer ontwerpmethodes. 
 
 ```{figure} ../figures/ontwerpcyclus.png
 ---

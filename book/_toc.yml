@@ -2,15 +2,6 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Dictaten
-    chapters:
-      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-        title: Dictaat DEF E
-      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-        title: Dictaat DEF F
-
-
-
 
   - caption: Theoretische Leerdoelen
     chapters:
@@ -61,6 +52,13 @@ parts:
       - file: electromagnetisme_project/condensator.md
       - file: electromagnetisme_project/project_2.md
       - file: electromagnetisme_project/project_3.md
+
+  - caption: Dictaten
+    chapters:
+      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
+        title: Dictaat DEF E
+      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
+        title: Dictaat DEF F
 
   - caption: Overig
     chapters:

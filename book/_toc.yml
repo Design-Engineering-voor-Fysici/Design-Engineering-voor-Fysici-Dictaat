@@ -2,6 +2,7 @@ format: jb-book
 root: intro.md
 
 parts:
+
   - caption: Theoretische Leerdoelen
     chapters:
     - file: leerdoelen/ontwerpen.md
@@ -46,6 +47,18 @@ parts:
       sections:
       - file: ontwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpopdracht6MaakEenMicroscoopInvulTemplate.ipynb
 
+  - caption: Electromagnetisme opdrachten
+    chapters:
+      - file: electromagnetisme_project/condensator.md
+      - file: electromagnetisme_project/project_2.md
+      - file: electromagnetisme_project/project_3.md
+
+  - caption: Dictaten
+    chapters:
+      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
+        title: Dictaat DEF E
+      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
+        title: Dictaat DEF F
 
   - caption: Overig
     chapters:

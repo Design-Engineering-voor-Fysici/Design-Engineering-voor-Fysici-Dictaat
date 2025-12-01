@@ -7,7 +7,7 @@ gewenste nauwkeurigheid van het experiment.
 ## Aanvullende literatuur
 De materie die hier behandeld wordt herhaald wat in {cite:t}`pols_NP` behandeld is. Voor verdere verdieping verwijzen we naar {cite:t}`Hughes_Hase`
 
-## Enkele belangrijke zaken die behandeld zijn in TN1405-P Introductie tot experimenteren
+## Enkele belangrijke zaken die behandeld zijn in TN13010 Introductie tot experimenteren
 * Het resultaat van een fysische meting is pas zinvol als de meet-onzekerheid gekwantificeerd en
 gerapporteerd is.
 * De nauwkeurigheid van een (wetenschappelijk) meetinstrument wordt gespecificeerd door de

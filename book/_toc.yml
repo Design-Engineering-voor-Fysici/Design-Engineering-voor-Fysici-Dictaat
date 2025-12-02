@@ -50,6 +50,9 @@ parts:
   - caption: Electromagnetisme opdrachten
     chapters:
       - file: electromagnetisme_project/condensator.md
+        sections:
+          - file: electromagnetisme_project/condensator_a.ipynb
+          - file: electromagnetisme_project/condensator_b.ipynb
       - file: electromagnetisme_project/project_2.md
       - file: electromagnetisme_project/project_3.md
 

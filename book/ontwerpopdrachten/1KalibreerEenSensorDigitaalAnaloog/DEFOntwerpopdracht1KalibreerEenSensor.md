@@ -16,7 +16,7 @@ Deze opdracht doe je in groepen van 3 studenten. Je kan je groepsnummer en je me
 
 **Laat het aan je TA weten zodra je succesvol het notebook heb geopend en jouw groepsgenoten heb uitgenodigd.**
 
-Als jouw groep om 10.55 niet compleet is, trek dan aan de bel bij de TA (vinger opsteken). Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
+Als jouw groep om 10.55 niet compleet is, trek dan aan de bel bij de TA (stoplicht op rood). Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
 
 
 ### Samenwerken

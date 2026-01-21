@@ -70,7 +70,7 @@ parts:
       - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/2_dependencies.md
       - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/3_features.md
       - title: GitHub documentation
-        children:
+        sections:
           - url: https://book.the-turing-way.org/collaboration/github-novice/github-novice-motivation
             title: Motivation for Using GitHub
           - url: https://teachbooks.io/learn-programming/version_control/version_control

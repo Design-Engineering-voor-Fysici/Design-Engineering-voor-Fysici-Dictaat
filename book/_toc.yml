@@ -63,6 +63,26 @@ parts:
       - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
         title: Dictaat DEF F
 
+  - caption: GitHub
+    chapters:
+      - file: git_extra/git_intro.md
+        sections:
+          - external: https://github.com/FreekPols/the-turing-way/blob/main/book/website/collaboration/github-novice/github-novice-motivation.md
+          - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/version_control/version_control.md
+          - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/intro.md
+            sections:
+              - external: https://github.com/FreekPols/the-turing-way/blob/main/book/website/collaboration/github-novice/github-novice-firststeps.md
+              - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/github.md
+              - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/commits_remote.md
+              - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/commits_local.md
+              - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/cloning.md
+              - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/vscode.md
+      - file: git_extra/git_fork.md
+      - file: git_extra/git_branch.md
+      - file: git_extra/git_push.md
+      - file: git_extra/git_pr.md
+      - file: git_extra/git_recap.md
+
   - caption: Overig
     chapters:
     - file: ontwerpopdrachten/0kickOffDag/kickoffdagTestAssignment.ipynb

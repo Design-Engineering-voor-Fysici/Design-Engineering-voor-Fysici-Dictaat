@@ -67,8 +67,8 @@ parts:
     chapters:
       - file: git_extra/git_intro.md
       - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/1_intro.md
-      - external: https://github.com/Contemporary-Physicslab/thermolab/blob/mainContent/Github/2_dependencies.md
-      - external: https://github.com/Contemporary-Physicslab/thermolab/blob/mainContent/Github/3_features.md
+      - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/2_dependencies.md
+      - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/3_features.md
       - title: GitHub documentation
         children:
           - title: Motivation for Using GitHub

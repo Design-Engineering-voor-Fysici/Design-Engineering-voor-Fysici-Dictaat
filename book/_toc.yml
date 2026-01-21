@@ -66,11 +66,11 @@ parts:
   - caption: GitHub
     chapters:
       - file: git_extra/git_intro.md
-      - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/1_intro.md
-      - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/2_dependencies.md
-      - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/3_features.md
-      - title: GitHub documentation
+#      - title: GitHub documentation
         sections:
+          - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/1_intro.md
+          - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/2_dependencies.md
+          - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/3_features.md
           - external: https://github.com/FreekPols/the-turing-way/blob/main/book/website/collaboration/github-novice/github-novice-motivation.md
           - external: https://github.com/TeachBooks/learn-programming/blob/main/book/version_control/version_control.md
           - external: https://github.com/TeachBooks/learn-programming/blob/main/book/workflows/git/intro.md

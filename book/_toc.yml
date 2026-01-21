@@ -71,10 +71,10 @@ parts:
       - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/3_features.md
       - title: GitHub documentation
         sections:
-          - external: https://book.the-turing-way.org/collaboration/github-novice/github-novice-motivation.md
+          - external: https://github.com/FreekPols/the-turing-way/blob/main/book/website/collaboration/github-novice/github-novice-motivation.md
           - external: https://github.com/TeachBooks/learn-programming/blob/main/book/version_control/version_control.md
           - external: https://github.com/TeachBooks/learn-programming/blob/main/book/workflows/git/intro.md
-          - external: https://book.the-turing-way.org/collaboration/github-novice/github-novice-firststeps.md
+          - external: https://github.com/FreekPols/the-turing-way/blob/main/book/website/collaboration/github-novice/github-novice-firststeps.md
           - external: https://github.com/TeachBooks/learn-programming/blob/main/book/workflows/git/github.md
           - external: https://github.com/TeachBooks/learn-programming/blob/main/book/workflows/git/commits_remote.md
           - external: https://github.com/TeachBooks/learn-programming/blob/main/book/workflows/git/commits_local.md

@@ -66,9 +66,9 @@ parts:
   - caption: GitHub
     chapters:
       - file: git_extra/git_intro.md
-#      - title: GitHub documentation
         sections:
           - url: https://contemporary-physicslab.github.io/thermolab/uitleg/
+            title: Git van IP
       - file: git_extra/git_fork.md
       - file: git_extra/git_branch.md
       - file: git_extra/git_push.md

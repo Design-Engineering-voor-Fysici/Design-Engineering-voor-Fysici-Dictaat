@@ -68,18 +68,7 @@ parts:
       - file: git_extra/git_intro.md
 #      - title: GitHub documentation
         sections:
-          - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/1_intro.md
-          - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/2_dependencies.md
-          - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/3_features.md
-          - external: https://github.com/FreekPols/the-turing-way/blob/main/book/website/collaboration/github-novice/github-novice-motivation.md
-          - external: https://github.com/TeachBooks/learn-programming/blob/main/book/version_control/version_control.md
-          - external: https://github.com/TeachBooks/learn-programming/blob/main/book/workflows/git/intro.md
-          - external: https://github.com/FreekPols/the-turing-way/blob/main/book/website/collaboration/github-novice/github-novice-firststeps.md
-          - external: https://github.com/TeachBooks/learn-programming/blob/main/book/workflows/git/github.md
-          - external: https://github.com/TeachBooks/learn-programming/blob/main/book/workflows/git/commits_remote.md
-          - external: https://github.com/TeachBooks/learn-programming/blob/main/book/workflows/git/commits_local.md
-          - external: https://github.com/TeachBooks/learn-programming/blob/main/book/workflows/git/cloning.md
-          - external: https://github.com/TeachBooks/learn-programming/blob/main/book/git/vscode.md
+          - url: https://contemporary-physicslab.github.io/thermolab/uitleg/
       - file: git_extra/git_fork.md
       - file: git_extra/git_branch.md
       - file: git_extra/git_push.md

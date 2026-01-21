@@ -71,23 +71,23 @@ parts:
       - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/3_features.md
       - title: GitHub documentation
         sections:
-          - url: https://book.the-turing-way.org/collaboration/github-novice/github-novice-motivation
+          - external: https://book.the-turing-way.org/collaboration/github-novice/github-novice-motivation.md
             title: Motivation for Using GitHub
-          - url: https://teachbooks.io/learn-programming/version_control/version_control
+          - external: https://teachbooks.io/learn-programming/version_control/version_control.md
             title: Version control
-          - url: https://teachbooks.io/learn-programming/workflows/git/intro
+          - external: https://teachbooks.io/learn-programming/workflows/git/intro.md
             title: Intro to Git
-          - url: https://book.the-turing-way.org/collaboration/github-novice/github-novice-firststeps
+          - external: https://book.the-turing-way.org/collaboration/github-novice/github-novice-firststeps.md
             title: first steps
-          - url: https://teachbooks.io/learn-programming/workflows/git/github
+          - external: https://teachbooks.io/learn-programming/workflows/git/github.md
             title: GitHub
-          - url: https://teachbooks.io/learn-programming/workflows/git/commits_remote
+          - external: https://teachbooks.io/learn-programming/workflows/git/commits_remote.md
             title: Commits remote
-          - url: https://teachbooks.io/learn-programming/workflows/git/commits_local
+          - external: https://teachbooks.io/learn-programming/workflows/git/commits_local.md
             title: Commits local
-          - url: https://teachbooks.io/learn-programming/workflows/git/cloning
+          - external: https://teachbooks.io/learn-programming/workflows/git/cloning.md
             title: Cloning
-          - url: https://teachbooks.io/learn-programming/workflows/git/vscode
+          - external: https://teachbooks.io/learn-programming/workflows/git/vscode.md
             title: VSC
       - file: git_extra/git_fork.md
       - file: git_extra/git_branch.md

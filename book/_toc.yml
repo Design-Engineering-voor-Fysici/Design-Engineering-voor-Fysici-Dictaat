@@ -66,17 +66,29 @@ parts:
   - caption: GitHub
     chapters:
       - file: git_extra/git_intro.md
-        sections:
-          - external: https://github.com/FreekPols/the-turing-way/blob/main/book/website/collaboration/github-novice/github-novice-motivation.md
-          - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/version_control/version_control.md
-          - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/intro.md
-            sections:
-              - external: https://github.com/FreekPols/the-turing-way/blob/main/book/website/collaboration/github-novice/github-novice-firststeps.md
-              - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/github.md
-              - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/commits_remote.md
-              - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/commits_local.md
-              - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/cloning.md
-              - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/vscode.md
+      - external: https://github.com/Contemporary-Physicslab/thermolab/tree/main/Content/Github/1_intro.md
+      - external: https://github.com/Contemporary-Physicslab/thermolab/tree/mainContent/Github/2_dependencies.md
+      - external: https://github.com/Contemporary-Physicslab/thermolab/tree/mainContent/Github/3_features.md
+      - title: GitHub documentation
+        children:
+          - title: Motivation for Using GitHub
+            url: https://book.the-turing-way.org/collaboration/github-novice/github-novice-motivation
+          - title: Version control
+            url: https://teachbooks.io/learn-programming/version_control/version_control
+          - title: Intro to Git
+            url: https://teachbooks.io/learn-programming/workflows/git/intro
+          - title: first steps
+            url: https://book.the-turing-way.org/collaboration/github-novice/github-novice-firststeps
+          - title: GitHub
+            url: https://teachbooks.io/learn-programming/workflows/git/github
+          - title: Commits remote
+            url: https://teachbooks.io/learn-programming/workflows/git/commits_remote
+          - title: Commits local
+            url: https://teachbooks.io/learn-programming/workflows/git/commits_local
+          - title: Cloning
+            url: https://teachbooks.io/learn-programming/workflows/git/cloning
+          - title: VSC
+            url: https://teachbooks.io/learn-programming/workflows/git/vscode
       - file: git_extra/git_fork.md
       - file: git_extra/git_branch.md
       - file: git_extra/git_push.md

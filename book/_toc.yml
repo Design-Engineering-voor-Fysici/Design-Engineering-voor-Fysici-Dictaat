@@ -71,24 +71,24 @@ parts:
       - external: https://github.com/Contemporary-Physicslab/thermolab/blob/main/Content/Github/3_features.md
       - title: GitHub documentation
         children:
-          - title: Motivation for Using GitHub
-            url: https://book.the-turing-way.org/collaboration/github-novice/github-novice-motivation
-          - title: Version control
-            url: https://teachbooks.io/learn-programming/version_control/version_control
-          - title: Intro to Git
-            url: https://teachbooks.io/learn-programming/workflows/git/intro
-          - title: first steps
-            url: https://book.the-turing-way.org/collaboration/github-novice/github-novice-firststeps
-          - title: GitHub
-            url: https://teachbooks.io/learn-programming/workflows/git/github
-          - title: Commits remote
-            url: https://teachbooks.io/learn-programming/workflows/git/commits_remote
-          - title: Commits local
-            url: https://teachbooks.io/learn-programming/workflows/git/commits_local
-          - title: Cloning
-            url: https://teachbooks.io/learn-programming/workflows/git/cloning
-          - title: VSC
-            url: https://teachbooks.io/learn-programming/workflows/git/vscode
+          - url: https://book.the-turing-way.org/collaboration/github-novice/github-novice-motivation
+            title: Motivation for Using GitHub
+          - url: https://teachbooks.io/learn-programming/version_control/version_control
+            title: Version control
+          - url: https://teachbooks.io/learn-programming/workflows/git/intro
+            title: Intro to Git
+          - url: https://book.the-turing-way.org/collaboration/github-novice/github-novice-firststeps
+            title: first steps
+          - url: https://teachbooks.io/learn-programming/workflows/git/github
+            title: GitHub
+          - url: https://teachbooks.io/learn-programming/workflows/git/commits_remote
+            title: Commits remote
+          - url: https://teachbooks.io/learn-programming/workflows/git/commits_local
+            title: Commits local
+          - url: https://teachbooks.io/learn-programming/workflows/git/cloning
+            title: Cloning
+          - url: https://teachbooks.io/learn-programming/workflows/git/vscode
+            title: VSC
       - file: git_extra/git_fork.md
       - file: git_extra/git_branch.md
       - file: git_extra/git_push.md

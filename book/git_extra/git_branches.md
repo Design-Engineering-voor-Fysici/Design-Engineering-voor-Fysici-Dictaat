@@ -12,7 +12,7 @@ Jullie eerste branch zou iets zijn als: opdracht1.
 
 *Voorbeeld opdracht voor studenten opdr1* 
 
-### Terminal
+### Terminal (extra info)
 
 Branch maken en meteen ernaar toe switchen:
 `git checkout -b name_of_your_new_branch`

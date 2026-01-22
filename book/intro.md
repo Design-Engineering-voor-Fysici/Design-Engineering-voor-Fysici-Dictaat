@@ -7,7 +7,8 @@ Net als alle ingenieurs wordt van natuurkundig ingenieurs gevraagd om oplossinge
 
 Binnen de opleiding tot technisch natuurkundig ingenieur in Delft leer je in de leerlijn Design Engineering voor Fysici hoe je op een gestructureerde manier efficient je kennis van natuurkunde inzet om (ontwerp)problemen op te lossen. 
 
-Dit interactieve boek vormt samen met de studie-handleiding, het materiaal op Brightspace, de notebooks op Vocareum en wat er in de colleges verteld wordt het studie-materiaal voor het eerstejaars vak Design Engineering voor Fysici: Design (DEF D, TU Delft vakcode TN13020). Het eerste vak in een reeks ontwerpvakken dat in deze bachelor gegeven wordt.
+Dit interactieve boek vormt samen met de studie-handleiding, het materiaal op Brightspace, de notebooks op Vocareum en wat er in de colleges verteld wordt het studie-materiaal voor het eerstejaars vak Design Engineering voor Fysici: Design (DEF-D, TU Delft vakcode TN13020). 
+Het eerste vak in een reeks ontwerpvakken dat in deze bachelor gegeven wordt.
 
 Vooralsnog is deze interactieve syllabus werk in ontwikkeling en een aanvulling op het materiaal dat op Brightspace staat. 
 Als eerste zijn de hoofdstukken 'leerdoelen' ingevuld. Daar is (onder andere) de theorie te vinden die gedurende de ontwerpopdrachten getoets zullen worden. 

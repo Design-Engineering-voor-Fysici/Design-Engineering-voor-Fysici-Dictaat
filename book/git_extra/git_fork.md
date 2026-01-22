@@ -9,6 +9,7 @@ Het is natuurlijk niet de bedoeling dat jullie jullie werk pushen naar de DEF re
 
 ## Voorbeeld
 
-*eerste opd*
+We beginnen op de [DEF repo](https://github.com/Design-Engineering-voor-Fysici/Design-Engineering-voor-Fysici-Dictaat), deze gaan jullie forken.
+
 
 

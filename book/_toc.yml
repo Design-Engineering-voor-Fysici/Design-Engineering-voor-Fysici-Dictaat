@@ -47,14 +47,13 @@ parts:
       sections:
       - file: ontwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpopdracht6MaakEenMicroscoopInvulTemplate.ipynb
 
-  - caption: Electromagnetisme opdrachten 5
+  - caption: Electromagnetisme opdrachten
     chapters:
       - file: electromagnetisme_project/condensator.md
         sections:
           - file: electromagnetisme_project/condensator_a.ipynb
           - file: electromagnetisme_project/condensator_b.ipynb
-          - file: electromagnetisme_project/Condensator_opdracht/electrostatics.ipynb
-          - file: electromagnetisme_project/Condensator_opdracht/electrostatics_to_def_d_20_1_26.ipynb
+          - file: electromagnetisme_project/Condensator_opdracht/electrostatics_to_def_d_23_1_26.ipynb
       - file: electromagnetisme_project/project_2.md
       - file: electromagnetisme_project/project_3.md
 

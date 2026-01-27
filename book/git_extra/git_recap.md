@@ -1,6 +1,6 @@
 # De Recap
 
-1. Fork de DEF D repo naar je eigen github account.
+1. Fork de DEF-D repo naar je eigen github account.
 2. Maak een branch van main naar je huidige opdracht.
    - werk aan opdracht (in de juiste branch!) totdat je klaar bent met commits tussendoor.
 3. Push je werk naar GitHub

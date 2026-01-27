@@ -8,5 +8,5 @@ Namelijk:
 - Committen en pushen
 - Branches mergen: pull requests
 
-Ook hebben we hier wat jullie hebben geleerd bij Inleidend Practicum, daar gaan we op verder bouwen.
-Elk onderdeel gaat ook een voorbeeld hebben van de eerste opdracht.
+Ook hebben we hier een link met wat jullie hebben geleerd bij Inleidend Practicum, daar gaan we op verder bouwen.
+Elk onderdeel gaat ook een voorbeeld hebben van de introductie opdracht.

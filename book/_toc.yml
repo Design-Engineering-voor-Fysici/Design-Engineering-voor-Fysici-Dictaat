@@ -72,6 +72,8 @@ parts:
       - file: git_extra/git_fork.md
       - file: git_extra/git_branch.md
       - file: git_extra/git_push.md
+      - file: git_extra/git_cooperation.md
+      - file: git_extra/git_conflicts.md
       - file: git_extra/git_pr.md
       - file: git_extra/git_recap.md
 

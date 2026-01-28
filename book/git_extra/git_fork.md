@@ -14,7 +14,7 @@ Forken staat rechtsbovenin aangegeven:
 ![fork_image](../figures/git/1_start_fork.png)
 Klik op `Fork` dan kom je hier.
 ![gaan_forken](../figures/git/2_create_fork.png)
-Let op dat je alleen de main branch forked naar jouw account, hou de repo naam civiel en `Create fork`.
+Let op dat je **alleen** de main branch forked naar jouw account, hou de repo naam civiel en `Create fork`.
 
 Nice, je hebt nu de DEF repo op je eigen account!
 Het zou er nu zo uit moeten zien, dan kan je door naar het volgende onderdeel.

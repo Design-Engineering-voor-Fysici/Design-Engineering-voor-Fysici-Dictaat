@@ -1,6 +1,6 @@
 # Git Branches
 
-Als je de repo met de opdracht hebt geforkt dan krijg je normaliter ook alle branches mee, voor DEF-D heb je alleen de branch main.
+Als je de repo met de opdracht hebt geforkt dan kan je ook ook alle branches mee krijgen, voor DEF-D heb je alleen de branch main.
 Een branch is een kopie van de repo, dit kan een kopie zijn van main, maar ook weer van een andere branch.
 Jullie gaan een kopie van main maken.
 Een branch wordt gebruikt om aan verschillende functionaliteiten te werken, voor ons betekent dat: een branch voor elke opdracht!

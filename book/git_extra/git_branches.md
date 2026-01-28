@@ -4,7 +4,7 @@ Als je de repo met de opdracht hebt geforkt dan kan je ook ook alle branches mee
 Een branch is een kopie van de repo, dit kan een kopie zijn van main, maar ook weer van een andere branch.
 Jullie gaan een kopie van main maken.
 Een branch wordt gebruikt om aan verschillende functionaliteiten te werken, voor ons betekent dat: een branch voor elke opdracht!
-Jullie eerste branch zou iets zijn als: opdracht1.
+Jullie eerste branch zou iets zijn als: `introductie`.
 
 ![branche](../figures/git/branches.png)
 
@@ -17,6 +17,8 @@ Dan om de nieuwe `opdracht` branch aan te maken typen we in de dropdown: 'opdrac
 In hetzelfde dropdown menu als eerst kan je nu switchen tussen de branches.
 
 ## Voorbeeld: naar je branch switchen in VSCode
+
+Om dit in VSCode te doen, gaan we eerst jullie repo clonen naar VSCode en dan de goeie branch in.
 
 ### Terminal (extra info)
 

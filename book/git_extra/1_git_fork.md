@@ -20,5 +20,6 @@ Nice, je hebt nu de DEF repo op je eigen account!
 Het zou er nu zo uit moeten zien, dan kan je door naar het volgende onderdeel.
 ![forken_gelukt](../figures/git/3_forken_succeeded.png)
 
-
-
+Nodig nu je groepsgenoot uit voor jouw repo, of accepteer die van je groepsgenoot.
+**Nodig ook je TA uit**, dit is belangrijk voor nakijken later!
+Hoe dit moet staat [hier](https://contemporary-physicslab.github.io/thermolab/intro-1/#je-partner-s-uitnodigen)

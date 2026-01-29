@@ -14,4 +14,9 @@ Zodra je alles hebt verbeterd, vraag je opnieuw de review aan van je TA.
 
 ## Voorbeeld
 
+Nu alles is gesynct op mijn GitHub account ga ik een pull request doen van mijn `opdracht` branch naar `main`.
+1. Ik klik op 'Compare & pull request': ![pr](../figures/git/11_compare.png)
+2. Nu zijn we in het pull request menu: ![pr menu](../figures/git/12_in_pr.png)
+3. Verander de base repository naar die van jezelf! ![change_base](../figures/git/13_verander_base_repo.png)
+
 ## Voorbeeld: nagekeken

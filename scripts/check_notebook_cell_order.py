@@ -46,7 +46,7 @@ def main() -> int:
             print(err)
         return 1
 
-    print("All notebooks have strictly consecutive execution counts.")
+    print("All notebooks have used 'restart & run all'.")
     return 0
 
 

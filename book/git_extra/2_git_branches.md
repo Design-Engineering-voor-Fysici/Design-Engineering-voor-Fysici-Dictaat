@@ -19,6 +19,13 @@ In hetzelfde dropdown menu als eerst kan je nu switchen tussen de branches.
 ## Voorbeeld: naar je branch switchen in VSCode
 
 Om dit in VSCode te doen, gaan we eerst jullie repo clonen naar VSCode en dan de goeie branch in.
+In de terminal kan je dit typen nadat je gecloned hebt: `git checkout <opdracht>`.
+
+Het kan ook via deze manier:
+1. ga naar het menu van de repo in VSCode: ![switch to branch](../figures/git/6_howto_switch_to_branch.png)
+2. klik dan op de nieuwe `opdracht` branch: ![switch branch](../figures/git/7_switch_branch.png)
+
+Pas als je in de goede branch zit, ga je werken aan je opdracht!
 
 ### Terminal (extra info)
 

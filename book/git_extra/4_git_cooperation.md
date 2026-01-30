@@ -9,6 +9,3 @@ Maar het is ook prima om aan [pair programming](https://www.youtube.com/watch?v=
 Dan hoef je ook niet aparte branches aan te maken voor ieder account, maar werk je op de branch van de opdracht.
 
 Laat dus in je commits ook weten hoe je een sub-opdracht hebt gemaakt!
-
-## Voorbeeld
-

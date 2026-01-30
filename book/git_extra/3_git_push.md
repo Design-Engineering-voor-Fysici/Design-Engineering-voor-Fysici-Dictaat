@@ -12,9 +12,9 @@ LET OP, voordat je inlevert, moet je `restart & run all` hebben gedaan inde note
 
 Ik heb hier de kickoff opdracht gedaan:
 
-1. stage al mijn verandering, dus een foto en de geupdate notebook: ![stage](../figures/git/3_1_staging.png)
-2. ik schrijf de commit message: ![commit](../figures/git/3_2_commit.png)
-3. dan sync (push) ik mijn VSCode naar github, dat ziet er nu zo uit: ![github gepusht](../figures/git/3_3_gepusht.png)
+1. stage al mijn verandering, dus een foto en de geupdate notebook: ![stage](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_1_staging.png)
+2. ik schrijf de commit message: ![commit](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_2_commit.png)
+3. dan sync (push) ik mijn VSCode naar github, dat ziet er nu zo uit: ![github gepusht](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_3_gepusht.png)
 
 
 ### Terminal

@@ -16,15 +16,15 @@ Zodra je alles hebt verbeterd, vraag je opnieuw de review aan van je TA.
 
 Nu alles is gesynct op mijn GitHub account ga ik een pull request doen van mijn `opdracht` branch naar `main`.
 
-1. Ik klik op 'Compare & pull request': ![pr](../figures/git/6_1_compare.png)
-2. Nu zijn we in het pull request menu: ![pr menu](../figures/git/6_2_in_pr.png)
-   - **Als je de fork niet bent geleaved** Verander de base repository naar die van jezelf! ![change_base](../figures/git/6_3_verander_base_repo.png)
+1. Ik klik op 'Compare & pull request': ![pr](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_1_compare.png)
+2. Nu zijn we in het pull request menu: ![pr menu](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_2_in_pr.png)
+   - **Als je de fork niet bent geleaved** Verander de base repository naar die van jezelf! ![change_base](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_3_verander_base_repo.png)
 3. Bij reviewers moet je jouw nakijker toevoegen, in mijn geval is dit MartijnSonneveld
-4. Martijn heeft nagekeken en was niet tevreden: ![niet goed](../figures/git/6_4_review_niet_geaccepteerd.png)
-5. Ik maak veranderingen en commit en push die, daarna kan ik nog een review aanvragen van Martijn: ![nieuwe review](../figures/git/6_5_rerequest_review.png)
+4. Martijn heeft nagekeken en was niet tevreden: ![niet goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_4_review_niet_geaccepteerd.png)
+5. Ik maak veranderingen en commit en push die, daarna kan ik nog een review aanvragen van Martijn: ![nieuwe review](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_5_rerequest_review.png)
 6. Deze keer vond Martijn het goed! Nu willen we mergen met de `main` branch, squash en merge om precies te zijn!
-   - ![merge](../figures/git/6_6_merge.png)
-   - ![squashmerge](../figures/git/6_7_squash_merge1.png)
-   - ![squashmerge2](../figures/git/6_8_squash_merge2.png)
-   - Dan deleten we de branch: ![delete](../figures/git/6_9_delete_branch.png)
+   - ![merge](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_6_merge.png)
+   - ![squashmerge](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_7_squash_merge1.png)
+   - ![squashmerge2](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_8_squash_merge2.png)
+   - Dan deleten we de branch: ![delete](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_9_delete_branch.png)
  

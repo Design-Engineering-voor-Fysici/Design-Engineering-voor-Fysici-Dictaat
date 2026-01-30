@@ -21,6 +21,7 @@ Het zou er nu zo uit moeten zien, dan kan je door naar het volgende onderdeel.
 ![forken_gelukt](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/1_3_forken_succeeded.png)
 
 We moeten ook de fork even leaven: ![leave_fork](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/1_4_fork_leaven.png)
+
 Dit is een andere manier om de repo te clonen van wat je eerder hebt geleerd.
 
 Nodig nu je groepsgenoot uit voor jouw repo, of accepteer die van je groepsgenoot.

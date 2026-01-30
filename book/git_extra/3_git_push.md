@@ -12,6 +12,14 @@ LET OP, voordat je inlevert, moet je `restart & run all` hebben gedaan inde note
 
 Ik heb hier de kickoff opdracht gedaan:
 
-1. stage al mijn verandering, dus een foto en de geupdate notebook: ![stage](../figures/git/8_staging.png)
-2. ik schrijf de commit message: ![commit](../figures/git/9_commit.png)
-3. dan sync (push) ik mijn VSCode naar github, dat ziet er nu zo uit: ![github gepusht](../figures/git/10_gepusht.png)
+1. stage al mijn verandering, dus een foto en de geupdate notebook: ![stage](../figures/git/3_1_staging.png)
+2. ik schrijf de commit message: ![commit](../figures/git/3_2_commit.png)
+3. dan sync (push) ik mijn VSCode naar github, dat ziet er nu zo uit: ![github gepusht](../figures/git/3_3_gepusht.png)
+
+
+### Terminal
+
+- Gebruik `git status` om te zien of er files zijn die moeten worden toegevoegd aan je staging.
+- `git add <file>` staged de file die je hebt aangepast, dit hoef je niet altijd zelf te doen!
+- Dan wordt het `git commit -m <jouw commit message>` om alle staged files te committen.
+- Daarna: `git push`

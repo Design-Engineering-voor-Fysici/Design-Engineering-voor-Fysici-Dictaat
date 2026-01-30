@@ -11,16 +11,17 @@ Het is natuurlijk niet de bedoeling dat jullie jullie werk pushen naar de DEF re
 
 We beginnen op de [DEF repo](https://github.com/Design-Engineering-voor-Fysici/Design-Engineering-voor-Fysici-Dictaat), deze gaan jullie forken.
 Forken staat rechtsbovenin aangegeven:
-![fork_image](../figures/git/1_start_fork.png)
+![fork_image](../figures/git/1_1_start_fork.png)
 Klik op `Fork` dan kom je hier.
-![gaan_forken](../figures/git/2_create_fork.png)
+![gaan_forken](../figures/git/1_2_create_fork.png)
 Let op dat je **alleen** de main branch forked naar jouw account, hou de repo naam civiel en `Create fork`, ik noem hem DEF.
 
 Nice, je hebt nu de DEF repo op je eigen account!
 Het zou er nu zo uit moeten zien, dan kan je door naar het volgende onderdeel.
-![forken_gelukt](../figures/git/3_forken_succeeded.png)
+![forken_gelukt](../figures/git/1_3_forken_succeeded.png)
 
-We moeten ook de fork even leaven: ![leave_fork](../figures/git/3_1_fork_leaven.png)
+We moeten ook de fork even leaven: ![leave_fork](../figures/git/1_4_fork_leaven.png)
+Dit is een andere manier om de repo te clonen van wat je eerder hebt geleerd.
 
 Nodig nu je groepsgenoot uit voor jouw repo, of accepteer die van je groepsgenoot.
 **Nodig ook je TA uit**, dit is belangrijk voor nakijken later!

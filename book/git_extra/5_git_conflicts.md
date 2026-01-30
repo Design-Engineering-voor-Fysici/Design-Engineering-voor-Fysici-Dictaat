@@ -6,4 +6,7 @@ Conflicts kunnen best tricky zijn, dus als je er niet uitkomt vraag het aan je T
 Een conflict gebeurd als 2 pushes dezelfde regels hebben aangepast.
 Git vraagt dan om een keuze te maken tussen de versies.
 
+**Belangrijk** al kom je er niet uit, vraag hulp aan je TA.
+
 ## Voorbeeld
+

@@ -228,7 +228,7 @@ def calculate_V_disk_at_origin_uniform_surface_charge_density(z_disk,charge_one_
     #ax.view_init(60, 35)
     # Set specific Z-axis ticks
     ax.set_zticks([-1, 0, 1])
-    ax.plot([0, 0], [-1, 1], 'k', linewidth=2)
+    ax.plot([0, 0], [-1, 1], 'k', linewidth=2) # Vierkante haken om 0,0 toegevoegd
     #ax.set_zlim(-1, 1)
     ax.legend(['point charges','disk axis'])
     # Labels

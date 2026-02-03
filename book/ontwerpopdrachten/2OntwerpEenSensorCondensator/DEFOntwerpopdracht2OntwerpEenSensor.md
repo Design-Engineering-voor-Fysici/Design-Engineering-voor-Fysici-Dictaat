@@ -7,7 +7,7 @@ Vandaag ga je een sensor maken op basis van verandering van capaciteit. Wat de s
 ### Groep vormen
 
 Deze opdracht doe je in groepen van 3 studenten. Je kan jouw groepsnummer en jouw medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 2: ontwerp een sensor. Als eerste moet je je voorstellen aan jouw teamgenoten en zeker weten dat je met de juiste studenten aan de juiste tafel zit. Vervolgens download je [dit template notebook](DEFOntwerpopdracht2OntwerpEenSensorInvulTemplate.ipynb). Dit template moet aan het eind van de dag ingeleverd worden via Vocareum.
-Als je groep om 10.50 niet compleet is, trek dan aan de bel door je TA erbij te roepen. Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
+Als je groep om 10.50 niet compleet is, zet je stoplicht op rood. Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
 
 ### Leerdoelen
 De leerdoelen voor vandaag zijn (deze lijst komt uit de studiehandleiding):
@@ -58,11 +58,9 @@ Als je beide formules hebt, dan sluit je vervolgens het plankje aan zoals uitgel
 **Laat je opstelling en je berekening op papier aan je TA zien, die tekent dit af!**
     
 ### Sanity check 3: Plaat condensator meten
-Nu je de meetopstelling hebt getest doen we een laatste sanity check: kunnen we de waarde van een plaatcondensator voorspellen (berekenen) en daarna meten? Kijk welke materialen je beschikbaar hebt en ontwerp (op papier!) een plaatcondensator die een capaciteit heeft **van meer dan 50 pF**. Geef in je schets de belangrijke dimensies (maten) aan. Gebruik de plaatcondensator formule die in het college behandeld is om te voorspellen wat de capaciteit van jullie condensator wordt:
+Nu je de meetopstelling hebt getest doen we een laatste sanity check: kunnen we de waarde van een plaatcondensator voorspellen (berekenen) en daarna meten? Kijk welke materialen je beschikbaar hebt en ontwerp (op papier!) een plaatcondensator die een capaciteit heeft **van meer dan 50 pF**. Geef in je schets de belangrijke dimensies (maten) aan. Gebruik de plaatcondensator formule die jullie voor de online ontwerpopdracht condensator a afgeleid hebben wat de capaciteit van jullie condensator wordt:
 
-$$ C = \epsilon_{0}\epsilon_{r}\frac{A}{d}$$
-    
-waarbij $A$ de overlappende oppervlakte van je platen is, $d$ de afstand tussen je platen, $\epsilon_{0}$ de diëlektrische constante van vacuum ( $8.8 \times 10^{-12}$ Farad ) en $\epsilon_{r}$ de diëlektrische waarde voor het materiaal tussen de platen ($1.0$ voor vacuum). Zet je berekening op hetzelfde papier als je ontwerpschets. Bouw vervolgens je plaatcondensator en sluit deze aan zoals de referentie condensator bij sanity check 2. Bereken de amplitude van $V_{out}$ die je op de osciloscoop verwacht te gaan zien. 
+Zet je berekening op hetzelfde papier als je ontwerpschets. Bouw vervolgens je plaatcondensator en sluit deze aan zoals de referentie condensator bij sanity check 2. Bereken de amplitude van $V_{out}$ die je op de osciloscoop verwacht te gaan zien. 
     
 Meet op de oscilloscoop en gebruik de formules die je bij santiy check 2 afgeleidt hebt om de daadwerkelijke capaciteit van je plaatcondensator te bepalen.
 

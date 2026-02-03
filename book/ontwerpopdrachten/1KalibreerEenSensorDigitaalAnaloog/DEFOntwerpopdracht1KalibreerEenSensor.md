@@ -12,7 +12,12 @@ De leerdoelen voor vandaag zijn (deze lijst komt uit de studiehandleiding):
 3.	voor een gegeven sensor & analoog-digitaal convertor en gegeven (of zelf gekozen) toepassing een kalibratie meting ontwerpen, inclusief het circuit om de sensor aan te sluiten op de analoog-digitaal convertor, de opstelling bouwen, en meetresultaten verwerken en concluderen of de combinatie van sensor en analoog-digitaal conversie geschikt is voor de toepassing.
 
 ### Groep aanmelden 
-Deze opdracht doe je in groepen van 3 studenten. Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 1: Kalibreer een sensor. Allereerst moet je aan de juiste tafel zitten: check of je met de juiste teamgenoten aan tafel zit! Je hebt als het goed is allemaal het github repo geforked van het vak. Daarin vind je het invul-notebook. Open dat op één laptop. 
+Deze opdracht doe je in groepen van 3 studenten. 
+Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 1: Kalibreer een sensor. 
+Allereerst moet je aan de juiste tafel zitten: check of je met de juiste teamgenoten aan tafel zit! 
+Je hebt als het goed is allemaal het github repo geforked van het vak. 
+Maak een nieuwe branch aan voor deze opdracht.
+Daarin vind je het invul-notebook. Open dat op één laptop. 
 
 **Laat het aan je TA weten zodra je succesvol het notebook heb geopend en jullie namen hebt ingevuld.**
 
@@ -107,16 +112,16 @@ Je hebt vandaag gewerkt aan het onder de knie krijgen van de volgende leerdoelen
 
 Als het goed is laat je werk in het template zien dat je deze leerdoelen nu beheert. Het is aan jullie om zelf aan te geven welke cellen van het template bij welk leerdoel horen. Lees het template door, kijk goed naar de cellen met LEERDOEL in de titel. Kopieer deze cellen en zet ze bij het juiste leerdoel in het template bij *Opdracht 9*.
 
-## Inleveren op Vocareum
+## Inleveren op Brightspace
 Je bent nu klaar met het invul template en kan deze op Github en Brightspace inleveren. 
 
 - **Klik bovenin je notebook op Kernel -> Restart and Run all**
 - Check of er geen errors zijn en alle afbeeldingen zichtbaar zijn.
-- save je notebook (klik op save icoon).
-- commit je werk naar Github
-- maak een Pull request op Github aan van je huidige branch naar je main branch
-- nodig (in github) je TA uit om deze pull request te reviewen
-- kopieer de link (URL) van je pull request en plak deze op brightspace bij de assignment voor de ontwerpopdracht van vandaag.
+- Save je notebook (klik op save icoon).
+- Commit en push je werk naar Github.
+- Maak een Pull request op Github aan van je huidige branch naar je main branch.
+- Nodig (in github) je TA uit om deze pull request te reviewen.
+- Kopieer de link (URL) van je pull request en plak deze op brightspace bij de assignment voor de ontwerpopdracht van vandaag.
 **Wanneer je klaar bent, roep je de TA. Laat je Pull Request binnen Github aan de TA zien. Je TA tekent dit af**
 
 ## Evalueren groepswerk

@@ -12,14 +12,9 @@ De leerdoelen voor vandaag zijn (deze lijst komt uit de studiehandleiding):
 3.	voor een gegeven sensor & analoog-digitaal convertor en gegeven (of zelf gekozen) toepassing een kalibratie meting ontwerpen, inclusief het circuit om de sensor aan te sluiten op de analoog-digitaal convertor, de opstelling bouwen, en meetresultaten verwerken en concluderen of de combinatie van sensor en analoog-digitaal conversie geschikt is voor de toepassing.
 
 ### Groep aanmelden 
-Deze opdracht doe je in groepen van 3 studenten. 
-Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 1: Kalibreer een sensor. 
-Allereerst moet je aan de juiste tafel zitten: check of je met de juiste teamgenoten aan tafel zit! 
-Je hebt als het goed is allemaal het github repo geforked van het vak. 
-Maak een nieuwe branch aan voor deze opdracht.
-Daarin vind je het invul-notebook. Open dat op één laptop. 
+Deze opdracht doe je in groepen van 3 studenten. Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 1: Kalibreer een sensor. Allereerst moet je aan de juiste tafel zitten: check of je met de juiste teamgenoten aan tafel zit! ga je naar het juiste notebook in vocareum (link op Brightspace) en geef je hier met de knop 'Send Invite' je groepsgenoten aan zodat jullie gezamelijk in dezelfde notebook kunnen werken. 
 
-**Laat het aan je TA weten zodra je succesvol het notebook heb geopend en jullie namen hebt ingevuld.**
+**Laat het aan je TA weten zodra je succesvol het notebook heb geopend en jouw groepsgenoten heb uitgenodigd.**
 
 Als jouw groep om 10.55 niet compleet is, trek dan aan de bel bij de TA (stoplicht op rood). Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
 
@@ -112,17 +107,18 @@ Je hebt vandaag gewerkt aan het onder de knie krijgen van de volgende leerdoelen
 
 Als het goed is laat je werk in het template zien dat je deze leerdoelen nu beheert. Het is aan jullie om zelf aan te geven welke cellen van het template bij welk leerdoel horen. Lees het template door, kijk goed naar de cellen met LEERDOEL in de titel. Kopieer deze cellen en zet ze bij het juiste leerdoel in het template bij *Opdracht 9*.
 
-## Inleveren op Brightspace
-Je bent nu klaar met het invul template en kan deze op Github en Brightspace inleveren. 
+## Inleveren op Vocareum
+Je bent nu klaar met het invul template en kan deze op vocareum inleveren. 
 
-- **Klik bovenin je notebook op Kernel -> Restart and Run all**
+- Open Vocareum via de link op Brightspace. 
+- Nodig je groepsgenoten uit
+- Upload je notebook en alle foto's naar vocareum via de 'upload' knop.
+- Open je notebook in Vocareum
+- **Klik boven op Kernel -> Restart and Run all**
 - Check of er geen errors zijn en alle afbeeldingen zichtbaar zijn.
-- Save je notebook (klik op save icoon).
-- Commit en push je werk naar Github.
-- Maak een Pull request op Github aan van je huidige branch naar je main branch.
-- Nodig (in github) je TA uit om deze pull request te reviewen.
-- Kopieer de link (URL) van je pull request en plak deze op brightspace bij de assignment voor de ontwerpopdracht van vandaag.
-**Wanneer je klaar bent, roep je de TA. Laat je Pull Request binnen Github aan de TA zien. Je TA tekent dit af**
+- Als je helemaal klaar bent kan het notebook worden ingeleverd door bovenaan op **submit** te klikken. Je kan meerdere keren iets inleveren en alleen de laatste versie wordt bewaard. Na de deadline is het niet meer mogelijk om in te leveren.
+
+**Wanneer je klaar bent, roep je de TA. Laat je notebook binnen Vocareum aan de TA zien. Je TA tekent dit af**
 
 ## Evalueren groepswerk
 Voordat je het uiteindelijke resultaat inlevert geef je binnen je groep feedback op hoe het samenwerken vandaag ging. Kijk eerst allemaal deze youtube video: https://www.youtube.com/watch?v=16uW1kPoiww. Lees daarna het PDF document 'instructie feedback geven' dat op Brightspace staat. Geef ten slotte elkaar feedback. Noteer de feedback die je krijgt in het 'logboek ontvangen feedback' dat ook op Brightspace staat. Bewaar dit logboek goed: je moet het elke week aanvullen met de feedback die je die week krijgt.

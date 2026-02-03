@@ -51,10 +51,8 @@ parts:
     chapters:
       - file: electromagnetisme_project/condensator.md
         sections:
-          - file: electromagnetisme_project/condensator_a.ipynb
-          - file: electromagnetisme_project/condensator_b.ipynb
+          - file: electromagnetisme_project/Condensator_opdracht/electrostatics_def_d.ipynb
       - file: electromagnetisme_project/project_2.md
-      - file: electromagnetisme_project/project_3.md
 
   - caption: Dictaten
     chapters:

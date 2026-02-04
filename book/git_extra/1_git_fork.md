@@ -22,6 +22,8 @@ Het zou er nu zo uit moeten zien, dan kan je door naar het volgende onderdeel.
 
 Dit is een andere manier om de *repo* te *clonen* van wat je [eerder hebt geleerd](https://contemporary-physicslab.github.io/thermolab/intro-1/).
 
+**LEAVE NOOIT DE FORK**
+
 ### Collaborators toevoegen
 
 Nodig nu je groepsgenoot uit voor jouw *repo*, of accepteer die van je groepsgenoot, mits dit nodig is.

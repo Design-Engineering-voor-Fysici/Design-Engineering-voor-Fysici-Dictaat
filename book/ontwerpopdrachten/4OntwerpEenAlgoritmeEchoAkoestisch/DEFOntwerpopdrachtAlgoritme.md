@@ -9,8 +9,8 @@ Lees dit vooraf goed door zodat je weet wat er vandaag van je verwacht wordt.
 ### Leerdoel
 De leerdoelen van vandaag zijn: 
 
-- Inzien dat het maken van een algoritme een ontwerpproces
-- De ontwerpcyclus optimaal inrichten op de randvoorwaarden van de ontwerpopdracht
+- Inzien dat het maken van een algoritme een ontwerpproces.
+- De ontwerpcyclus optimaal inrichten op de randvoorwaarden van de ontwerpopdracht.
 
 Aan het einde van de dag laat je zien dat je dit leerdoel onder de knie hebt door relevant zaken aan te leveren. Daarbij gebruik je [dit](DEFOntwerpopdrachtAlgoritmeInvulTemplate.ipynb) template wat je gedurende de dag invult.
 

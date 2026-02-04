@@ -118,7 +118,7 @@ Doe metingen met je bron en ontvanger op de volgende posities. Noteer de totaal 
 
 Dit moet nu een uitkomst opleveren dichtbij de verwachte waarden: x0=20 cm y0=20 cm alpha=0 graden, beta=0 graden met kleine std. dev.
 
-Laat dit zien aan je TA. **De deadline hiervoor is 12.00 PM. Als het voor die tijd niet gelukt is komen we kijken wat er mis gaat en hoe we jullie kunnen helpen.**
+Laat dit zien aan je TA. **De deadline hiervoor is 12:00. Als het voor die tijd niet gelukt is komen we kijken wat er mis gaat en hoe we jullie kunnen helpen.**
  
 ## Ontwerp individueel algoritme
 

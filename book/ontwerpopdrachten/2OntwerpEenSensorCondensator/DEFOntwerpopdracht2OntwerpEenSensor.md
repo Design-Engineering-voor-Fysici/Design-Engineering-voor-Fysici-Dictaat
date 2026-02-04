@@ -154,7 +154,7 @@ Dit pakket simuleert het gedrag van elektrische schakelingen.
 **Ieder groepslid opent op de eigen laptop LTSpice.**
     
 - Open het bestand ```LTSpiceTemplateCapacitor.asc``` in LTSpice. (staat op Brightspace en [hier](LTSpiceTemplateCapacitor.asc)). 
-- Run de simulatie (klik op rennende persoon icoon)
+- Run de simulatie (klik op het groene pijltje icoon)
 - Klik met rechtermuisknop in de lege grafiek die verschijnt en kies \add trace\ (of druk op A)
 - Kies V(vin) en V(vout) en druk op ok. Je zou nu twee grafieken moeten zien.
 - Verander de waarde van de condensator door er met de rechtermuisknop op te klikken. Een van de groepsleden kiest als waarde het midden van het verwachte bereik aan capaciteit (midden van je grafiek hierboven). De andere twee groepsleden kiezen het maximum en het minimum. 

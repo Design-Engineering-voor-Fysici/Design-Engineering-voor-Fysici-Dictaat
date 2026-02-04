@@ -34,4 +34,4 @@ Nu alles is gesynct op mijn GitHub account ga ik een *pull request* doen van mij
 Wij hebben een paar automatische checks toegevoegd, de TA's kijken pas na als al die checks zijn goed gegaan.
 Vraag dus ook pas voor een review als de checks goed zijn gekeurd.
 - ![check niet goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/automatische_check_niet_blij.png)
-- - ![check goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/automatische_check_wel_blij.png)
+- ![check goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/automatische_check_wel_blij.png)

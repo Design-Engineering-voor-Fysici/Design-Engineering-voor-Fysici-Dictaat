@@ -1,12 +1,13 @@
 # De Recap
 
 1. *Fork* de DEF-D *repo* naar je eigen github account.
-2. Maak een *branch* van `main` naar je huidige opdracht.
+2. Nodig de hoofdTA's uit als *collaborators*.
+3. Maak een *branch* van `main` naar je huidige opdracht.
    - werk aan opdracht (in de juiste *branch*!) totdat je klaar bent met *commits* tussendoor.
-3. *Push* je werk naar GitHub
-4. Vraag een *Pull Request* aan van jouw huidige opdracht *branch* naar `main` en laat jouw hoofdTA de *reviewer* zijn
+4. *Push* je werk naar GitHub
+5. Vraag een *Pull Request* aan van jouw huidige opdracht *branch* naar `main` en laat jouw hoofdTA (dit verschilt per opdracht) de *reviewer* zijn
    - Verbeter eventueel nog je werk met nieuwe *commits/pushes* en vraag weer een *review* aan!
-5. De opdracht is goedgekeurd: 
+6. De opdracht is goedgekeurd: 
    - *Squash en merge* je huidige *branch* met `main` en verwijder de huidige opdracht *branch*.
 
 

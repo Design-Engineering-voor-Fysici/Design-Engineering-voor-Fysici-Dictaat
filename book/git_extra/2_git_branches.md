@@ -24,7 +24,7 @@ In de terminal kan je dit typen nadat je *gecloned* hebt: `git checkout <opdrach
 
 Het kan ook via deze manier:
 1. ga naar het menu van de *repo* in VSCode: ![switch to branch](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/2_4_howto_switch_to_branch.png)
-2. klik dan op de nieuwe `opdracht` branch: ![switch branch](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/2_5_switch_branch.png)
+2. klik dan op de nieuwe `opdracht` branch.
 
 Pas als je in de goede *branch* zit, ga je werken aan je opdracht!
 

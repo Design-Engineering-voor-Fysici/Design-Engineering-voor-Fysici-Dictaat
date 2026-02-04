@@ -23,20 +23,28 @@ Het zou er nu zo uit moeten zien, dan kan je door naar het volgende onderdeel.
 Dit is een andere manier om de *repo* te *clonen* van wat je [eerder hebt geleerd](https://contemporary-physicslab.github.io/thermolab/intro-1/).
 
 Nodig nu je groepsgenoot uit voor jouw *repo*, of accepteer die van je groepsgenoot, mits dit nodig is.
-**Nodig ook je TA uit**, dit is belangrijk voor nakijken later!
+**Nodig ook de 3 hoofdTA's uit**, dit is belangrijk voor nakijken later!
 Hoe dit moet staat [hier](https://contemporary-physicslab.github.io/thermolab/intro-1/#je-partner-s-uitnodigen)
+
+### 3 hoofdTA GitHub accounts
+
+- Martijn Sonneveld: MartijnSonneveld
+- Emma Nielen: Enielen
+- Sjoerd Hoogeman: MrBBrightside
+
+Als je het niet zeker weet, dan kan je [hier](https://github.com/orgs/Design-Engineering-voor-Fysici/teams/hoofd-ta/members) de hoofd TA's zien.
 
 ### Protecting main
 
 Een goede eigenschap is om je main *branch* te *protecten*.
 Dit zorgt er ook voor dat je met *branches* moet werken!
 Hiervoor gaan we op de GitHub page naar `settings --> branches --> Add branch rule`.
-![protecting main 1](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protecting_main_1.png)
+![protecting main 1](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protect_main_1.png)
 
 Druk op `Add branch rule`, geef de goede 'Ruleset Name', zet hem op active en geef de juiste branch targeting criteria, zet deze op default:
-![protecting main 2](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protecting_main_2.png)
+![protecting main 2](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protect_main_2.png)
 
 Scroll dan naar beneden en vink aan: 'Require a pull request before merging' en zet Required approvals op 1:
-![protecting main 3](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protecting_main_3.png)
+![protecting main 3](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protect_main_3.png)
 
 Druk dan op `save changes`!

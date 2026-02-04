@@ -5,6 +5,7 @@ We gaan nu echt werken met *version control*; dit betekent dat er een aantal nie
 Namelijk:
 - Een *repository forken*
 - *Branch* aanmaken
+- *Collaborators* toevoegen
 - *Committen* en *pushen*
 - *Branches* *mergen*: *pull requests*
 

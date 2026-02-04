@@ -4,6 +4,7 @@ Dit is iets wat jullie waarschijnlijk gaan meemaken, hier leggen we uit hoe je e
 *Conflicts* kunnen best tricky zijn, al kom je er niet uit, vraag het aan je TA!
 
 Een *conflict* gebeurd als 2 *pushes* dezelfde regels hebben aangepast.
+Het voorbeeld dat volgt, is alleen voor als je *branch* en je *target branch* aan dezelfde file hebben gewerkt.
 Git vraagt dan om een keuze te maken tussen de versies.
 
 **Belangrijk** al kom je er niet uit, vraag hulp aan je TA.

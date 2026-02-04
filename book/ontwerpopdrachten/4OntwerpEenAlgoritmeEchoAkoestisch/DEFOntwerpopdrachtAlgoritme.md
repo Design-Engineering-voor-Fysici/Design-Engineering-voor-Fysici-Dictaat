@@ -36,7 +36,7 @@ Maak nu samen een planning waarin je aangeeft
 - Op welke tijden je als team niet met de opdracht bezig gaat zijn (je pauzes, plan deze in! continue werken is niet effectief)
 
 Vul de planning tabel in bij *opdracht 1* in het template. 
-*Laat de planning aan je TA zien om deze te controleren. De planning moet uiterlijk om 11.00 gezien zijn*.
+**Laat de planning aan je TA zien om deze te controleren. De planning moet uiterlijk om 11.00 gezien zijn**.
 
 ### Schermen: max twee laptops, geen AI (chat-GPT)
 

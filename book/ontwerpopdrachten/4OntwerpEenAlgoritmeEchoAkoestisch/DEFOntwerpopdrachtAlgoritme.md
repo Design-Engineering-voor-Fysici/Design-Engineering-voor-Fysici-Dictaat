@@ -141,8 +141,8 @@ Beschrijf bij *opdracht 5* in de template jullie algoritmes. Voeg foto's van gem
 ### Simulatie 
 
 Overleg als groep welke algoritme je kansrijk acht om goed te gaan werken. 
-Kies minstens twee, mogelijk alle drie, de algoritme om te testen. 
-Hou er rekening mee dat metingen doen en verwerken tijd kost, dus werk snel. 
+Kies minstens twee van de algoritmes, mogelijk alle drie, om te testen. 
+Houd er rekening mee dat metingen doen en verwerken tijd kost, dus werk snel. 
 Kies als groep zelf een combinatie van x0, y0, alpha en beta. 
 Zet het reflectie-paper op deze zelf gekozen positie en voer één voor één minimaal twee van de drie algoritmes uit. 
 Dat levert een hele reeks aan meetgegevens op die je bij *opdracht 6* in de template invult.

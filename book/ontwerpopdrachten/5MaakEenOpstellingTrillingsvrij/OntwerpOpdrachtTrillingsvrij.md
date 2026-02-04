@@ -11,7 +11,7 @@ Om die leerdoelen onder de knie te krijgen gaan jullie een opstelling maken die 
 - laat zien dat je de Arduino werkend aangesloten hebt.
 
 ##### voor einde van de dag (ontwerpopdracht)
-- Het invul-notebook. Je hebt als het goed is allemaal de github repo geforked van het vak. Maak een nieuwe branch aan voor deze opdracht. Daarin vind je het invul-notebook. Open dat op één laptop.
+- Het invul-notebook. Maak een nieuwe branch aan voor deze opdracht. Daarin vind je het invul-notebook. Open dat op één laptop.
 - Een video bestand (liefst gif!) met een video die laat zien dat je opstelling 'werkt', op Brightspace
 - je samenwerken feedback logboek op brightspace.
 

@@ -93,7 +93,7 @@ Als je beide formules hebt, dan sluit je vervolgens het plankje aan zoals uitgel
 
 Nu je de meetopstelling hebt getest doen we een laatste sanity check: kunnen we de waarde van een plaatcondensator voorspellen (berekenen) en daarna meten? 
 Kijk welke materialen je beschikbaar hebt en ontwerp (op papier!) een plaatcondensator die een capaciteit heeft **van meer dan 50 pF**. 
-Geef in je schets de belangrijke dimensies (maten) aan. Gebruik de plaatcondensator formule die jullie voor de online ontwerpopdracht condensator a afgeleid hebben wat de capaciteit van jullie condensator wordt:
+Geef in je schets de belangrijke dimensies (maten) aan. Gebruik de plaatcondensator formule die jullie voor de online ontwerpopdracht condensator A afgeleid hebben wat de capaciteit van jullie condensator wordt:
 
 Zet je berekening op hetzelfde papier als je ontwerpschets. 
 Bouw vervolgens je plaatcondensator en sluit deze aan zoals de referentie condensator bij sanity check 2. 

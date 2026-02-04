@@ -71,9 +71,12 @@ Plot bij opdracht 3 in de template een grafiek voor de door jouw berekende $\Del
 In jullie plot kan je zelf zien wat je moet doen om een hogere $\Delta x$ te bereiken en zo dus een lagere kantelfrequentie en dus een lagere amplitude overdracht bij een gegeven verstoringsfrequentie te halen. Je kan twee dingen veranderen om je $\Delta x$ te verhogen. Geef die aan bij opdracht 4 in de template.
 
 ## Schattend rekenen
-Nu jullie de veerconstante van jullie veer bepaald hebben, gaan we de youngs-modulus schatten van deze veer. De youngs-modulus (ookwel elasticiteitsmodulus genoemd) is een materiaaleigenschap die aangeeft hoe stijf het materiaal is onder uitrekking/indrukking ervan. De youngs-modulus is afhankelijk van drie parameters: de veerconstante **C**, de rustlengte **L** en het dwarsoppervlak **A** (het oppervlak loodrecht op de trek/compressie richting). Hieruit komt de volgende vergelijking voor de youns-modulus:
+Nu jullie de veerconstante van jullie veer bepaald hebben, gaan we de youngs-modulus schatten van deze veer. De youngs-modulus (ookwel elasticiteitsmodulus genoemd) is een materiaaleigenschap die aangeeft hoe stijf het materiaal is onder uitrekking/indrukking ervan. De youngs-modulus is afhankelijk van drie parameters: de veerconstante **C**, de rustlengte **L** en het dwarsoppervlak **A** (het oppervlak loodrecht op de trek/compressie richting). Hieruit komt de volgende vergelijking voor de youngs-modulus:
 
 **E = $\frac{CL}{A}$**
+
+De veerconstante hebben jullie zojuist berekend en de rustlengte van de veer hebben jullie ook al bepaald. De oppervlakte van de veer gaan jullie nu schatten volgens de methode van het college van Chris Kleijn van afgelopen maandag (23 maart). Het is nadrukkelijk niet de bedoeling om deze oppervlakte (of de dimensies ervan) te meten. Hiermee kunnen jullie nu de youngs-modulus bepalen van de veer. Vergelijk dit met wat de daadwerkelijke youngs-modulus is van het materiaal van jullie veer (voor de meest voorkomende materialen te vinden op de wikipedia pagina van de youngs-modulus).
+**Laat de schatting en het eindresultaat zien aan jullie TA, die tekent dit af!**
 
 ## Groepsoverleg en laten zien sanity check
 Als je jullie twee taken hebt uitgevoerd kom je als groep samen om te beslissen op welke $\Delta x$ je gaat mikken in jullie ontwerp. Eerst presenteer je aan elkaar kort je bevindingen van je individuele taak. Daarna neem je als groep een beslissing: op welke $\Delta x$ ga je mikken in je ontwerp. Noteer hieronder je beslissing en **laat aan je TA zien**:

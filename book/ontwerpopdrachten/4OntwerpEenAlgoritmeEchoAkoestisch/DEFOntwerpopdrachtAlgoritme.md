@@ -12,8 +12,7 @@ De leerdoelen van vandaag zijn:
 - Inzien dat het maken van een algoritme een ontwerpproces.
 - De ontwerpcyclus optimaal inrichten op de randvoorwaarden van de ontwerpopdracht.
 
-Aan het einde van de dag laat je zien dat je dit leerdoel onder de knie hebt door relevant zaken aan te leveren. Daarbij gebruik je [dit](DEFOntwerpopdrachtAlgoritmeInvulTemplate.ipynb) template wat je gedurende de dag invult.
-
+Aan het einde van de dag laat je zien dat je dit leerdoel onder de knie hebt door relevant zaken aan te leveren. Je hebt als het goed is allemaal de github repo geforked van het vak. Maak een nieuwe branch aan voor deze opdracht. Daarin vind je het invul-notebook. Open dat op één laptop.
 ### Groep aanmelden 
 Deze opdracht doe je in groepen van 3 studenten. 
 Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 4: maak een algoritme. 

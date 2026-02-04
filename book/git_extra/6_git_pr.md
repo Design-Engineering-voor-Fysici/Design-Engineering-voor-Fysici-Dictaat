@@ -24,9 +24,14 @@ Nu alles is gesynct op mijn GitHub account ga ik een *pull request* doen van mij
 3. Bij *reviewers* moet je jouw nakijker toevoegen, in mijn geval is dit hoofdTA: MartijnSonneveld.
 4. Martijn heeft nagekeken en was niet tevreden: ![niet goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_4_review_niet_geaccepteerd.png)
 5. Ik maak veranderingen en commit en push die, daarna kan ik nog een review aanvragen van Martijn: ![nieuwe review](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_5_rerequest_review.png)
-6. Deze keer vond Martijn het goed! Nu willen we mergen met de `main` *branch*, *squash & merge* om precies te zijn!
-   - ![merge](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_6_merge.png)
-   - ![squashmerge](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_7_squash_merge1.png)
-   - ![squashmerge2](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_8_squash_merge2.png)
+6. Deze keer vond Martijn het goed! ![feedback goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_6_feedback_verwerkt.png) Nu willen we mergen met de `main` *branch*, *squash & merge* om precies te zijn!
+   - ![merge](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_7_merge.png)
+   - ![squashmerge](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_8_squash_merge.png)
    - Dan deleten we de branch: ![delete](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_9_delete_branch.png)
  
+### Automatische Checks
+
+Wij hebben een paar automatische checks toegevoegd, de TA's kijken pas na als al die checks zijn goed gegaan.
+Vraag dus ook pas voor een review als de checks goed zijn gekeurd.
+- ![check niet goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/automatische_check_niet_blij.png)
+- - ![check goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/automatische_check_wel_blij.png)

@@ -15,7 +15,7 @@ De leerdoelen voor vandaag zijn (deze lijst komt uit de studiehandleiding):
 Deze opdracht doe je in groepen van 3 studenten. 
 Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 1: Kalibreer een sensor. 
 Allereerst moet je aan de juiste tafel zitten: check of je met de juiste teamgenoten aan tafel zit! 
-Je hebt als het goed is allemaal het github repo geforked van het vak. 
+Je hebt als het goed is allemaal de github repo geforked van het vak. 
 Maak een nieuwe branch aan voor deze opdracht.
 Daarin vind je het invul-notebook. Open dat op één laptop. 
 
@@ -47,7 +47,7 @@ Het aansluiten van deze sensoren gaat precies zoals je maandag gedaan hebt in he
 **Laat aan je TA zien dat alle drie de sensoren werken. Je TA tekent dit af.** 
 
 ## Ontwerpstap Analyse
-Als eerste gaan we verzinnen wat je met deze sensoren zou kunnen doen. **LET OP: JE GAAT DEZE OPSTELLING NIET BOUWEN: JE VERZINT HIER WAT ER MOGELIJK KAN MET DEZE SENSOR** Bijvoorbeeld: met een geluidsensor kan je de geluidsoverlast van een overkomend vliegtuig meten. Schets individueel op een papier (liefst A3) per sensor drie verschillende toepassingen van de sensor die je op jouw Arduino hebt aangesloten (dus als groep 9 toepassingen per sensor in totaal). Leg je schetsen naast elkaar, maak één foto en upload die bij *Opdracht 1* van het invul template.
+Als eerste gaan we verzinnen wat je met deze sensoren zou kunnen doen. **LET OP: JE GAAT DEZE OPSTELLING NIET BOUWEN: JE VERZINT HIER WAT ER MOGELIJK KAN MET DEZE SENSOR** Bijvoorbeeld: met een geluidsensor kan je de geluidsoverlast van een overkomend vliegtuig meten. Schets individueel op een papier (liefst A3) per sensor drie verschillende toepassingen van de sensor die je op jouw Arduino hebt aangesloten (dus als groep **9 toepassingen per sensor** in totaal). Leg je schetsen naast elkaar, maak één foto en upload die bij *Opdracht 1* van het invul template.
 
 ## Ontwerpstap Criteria
 Bepaal voor de bedachte toepassingen de criteria waarbij de sensor geschikt is. Definieer je criteria als een harde grens. Gebruik natuurkundige eenheden. Denk aan **SM**a**R**t uit het college. Het kunnen per toepassing meerdere criteria zijn. Kies vervolgens één van de drie sensoren uit om de rest van de dag mee verder te gaan. Vul je criteria en keuze in bij *Opdracht 2* van het template. 

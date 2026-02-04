@@ -18,9 +18,11 @@ Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen
 ### Leerdoelen
 De leerdoelen voor vandaag zijn (deze lijst komt uit de studiehandleiding):
 
-1. Kennis hebben van gedrag van elektrische componenten en meetopstellingen
+1. Kennis hebben van gedrag van elektrische componenten en meetopstellingen.
 2. Het kunnen gebruiken van de eigenschappen van een elektrische component in een ontwerpproces om een fysische grootheid te meten.
-3. Onderdelen van een datasheet zoals een kalibratiegrafiek (= grafiek op basis van testmetingen met een fit, die aangeeft welke waarde een sensor voor een bepaalde concentratie of temperatuur meet) opstellen, gevoeligheid en onzekerheid beschrijven
+3. Onderdelen van een datasheet zoals een kalibratiegrafiek (= grafiek op basis van testmetingen met een fit, die aangeeft welke waarde een sensor voor een bepaalde concentratie of temperatuur meet) opstellen, gevoeligheid en onzekerheid beschrijven.
+
+
 In tegenstelling tot vorige week geven we deze week niet expliciet aan welke cellen bij welke leerdoelen horen. 
 Aan het einde van de dag kies je zelf welke cellen volgens jullie laat zien dat jullie bovenstaande leerdoelen onder de knie hebben.
 

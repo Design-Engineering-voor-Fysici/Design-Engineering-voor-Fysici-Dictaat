@@ -119,8 +119,6 @@ In both versions of the assignment (described below) you will have to consider t
 
 First, using what you learned in the lecture on tolerances last Monday and the equations given above, we will look at the uncertainty in designing the resistor. A source of variation in our process is the sheet resistance ($R_s$­) of the resistor, which strongly depends on the implantation dose and annealing temperature. In our process, the sheet resistance can vary ±10%. Suppose we want the make sure the uncertainty in the value of $R_{Chip}$ is less than 11%: how accurate (as a percentage) do we have to count the number of 'blocks' we design on the chip? 
 
-Since the uncertainty in $R_{Chip}$ will be at least 10%, an additional uncertainty in $R_{Transistor}$ of less than 5% is neglectable on the final output $V_{out}$. Use that any dimensions on the chip can vary due to fluctuations in the exposure energy or resist thickness. For the The maximum absolute variation this can give is ± 200 nm of the designed dimensions. This holds for both W and L of the transistor. Use the equation for the lineair regime. Derive what the minimal values of W and L are to make sure that the uncertainty in $R_{Transistor}$ is less than 5%. 
-
 ### Thinking physics
 On the sheet your TA gave you is a table with “problem -> cause -> solution”, where problem is already filled in. Given all the above information you should be able to analyse what you should do if you encounter these problems. **Fill in this table and show it to your TA.**
 

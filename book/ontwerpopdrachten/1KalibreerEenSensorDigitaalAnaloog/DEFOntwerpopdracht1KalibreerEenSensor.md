@@ -113,16 +113,18 @@ Je hebt vandaag gewerkt aan het onder de knie krijgen van de volgende leerdoelen
 Als het goed is laat je werk in het template zien dat je deze leerdoelen nu beheert. Het is aan jullie om zelf aan te geven welke cellen van het template bij welk leerdoel horen. Lees het template door, kijk goed naar de cellen met LEERDOEL in de titel. Kopieer deze cellen en zet ze bij het juiste leerdoel in het template bij *Opdracht 9*.
 
 ## Inleveren op Brightspace
+
 Je bent nu klaar met het invul template en kan deze op Github en Brightspace inleveren. 
 
 - **Klik bovenin je notebook op Kernel -> Restart and Run all**
 - Check of er geen errors zijn en alle afbeeldingen zichtbaar zijn.
 - Save je notebook (klik op save icoon).
 - Commit en push je werk naar Github.
-- Maak een Pull request op Github aan van je huidige branch naar je main branch.
-- Nodig (in github) je TA uit om deze pull request te reviewen.
+- Maak een pull request op Github aan van je huidige branch naar je main branch.
+- Nodig (in GitHub) je TA uit om deze pull request te reviewen.
 - Kopieer de link (URL) van je pull request en plak deze op brightspace bij de assignment voor de ontwerpopdracht van vandaag.
-**Wanneer je klaar bent, roep je de TA. Laat je Pull Request binnen Github aan de TA zien. Je TA tekent dit af**
+
+**Wanneer je klaar bent, zet je je stoplicht op rood voor de TA. Laat je Pull Request binnen Github aan de TA zien. Je TA tekent dit af**
 
 ## Evalueren groepswerk
 Voordat je het uiteindelijke resultaat inlevert geef je binnen je groep feedback op hoe het samenwerken vandaag ging. Kijk eerst allemaal deze youtube video: https://www.youtube.com/watch?v=16uW1kPoiww. Lees daarna het PDF document 'instructie feedback geven' dat op Brightspace staat. Geef ten slotte elkaar feedback. Noteer de feedback die je krijgt in het 'logboek ontvangen feedback' dat ook op Brightspace staat. Bewaar dit logboek goed: je moet het elke week aanvullen met de feedback die je die week krijgt.

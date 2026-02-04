@@ -11,17 +11,24 @@ Om die leerdoelen onder de knie te krijgen gaan jullie een opstelling maken die 
 - laat zien dat je de Arduino werkend aangesloten hebt.
 
 ##### voor einde van de dag (ontwerpopdracht)
-- het [invul template ](OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb) op vocareum
+- het [invul template ](OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb) via pull request op brightspace.
 - Een video bestand (liefst gif!) met een video die laat zien dat je opstelling 'werkt', op Brightspace
-- je samenwerken feedback logboek op Brightspace.
+- je samenwerken feedback logboek op brightspace.
 
 ### Groep vormen 
-Deze opdracht doe je in groepen van 3 studenten. Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 5: Maak een meetopstelling trillingsvrij. Net als in vorige weken hebben we [een invultemplate notebook](OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb) dat je gedurende de dag bij houdt. Aan het einde van de dag ga je via de link op Brightspace naar Vocareum. Dat staat aan het einde van dit document uitgelegd. 
 
-**Als je groep om 11.00 niet compleet is, trek dan aan de bel door je TA erbij te roepen.** Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
+Deze opdracht doe je in groepen van 3 studenten. 
+Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 5: Maak een meetopstelling trillingsvrij. 
+Net als in vorige weken hebben we [een invultemplate notebook](OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb) dat je gedurende de dag bij houdt. 
+
+**Als je groep om 11.00 niet compleet is, trek dan aan de bel door je TA erbij te roepen.** 
+Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
 
 ### Laptops 
-Net als vorige week werk je met twee laptops en één fysiek notebook. Op een van de notebooks open je de Arduino software en Processing. Op de andere laptop open je [het invultemplate notebook](OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb). We willen, net als vorige week, geen andere applicaties of websites open zien staan (met uitzondering van de youtube video hieronder).
+Net als vorige week werk je met twee laptops en één fysiek notebook. 
+Op een van de notebooks open je de Arduino software en Processing. 
+Op de andere laptop open je [het invultemplate notebook](OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb). 
+We willen, net als vorige week, geen andere applicaties of websites open zien staan (met uitzondering van de youtube video hieronder).
 
 ### Samenwerken
 Overleg bij alles wat je in het notebook invult met je team: wat je inlevert is van jullie alle drie. Je zal dus goed moeten samenwerken. Jullie hebben allemaal als het goed is het hele notebook doorgelezen. Maak nu samen een planning waarin je aangeeft

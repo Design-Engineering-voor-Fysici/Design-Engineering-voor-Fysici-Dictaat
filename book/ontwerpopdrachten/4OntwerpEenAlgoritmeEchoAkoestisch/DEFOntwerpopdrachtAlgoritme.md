@@ -48,7 +48,7 @@ Vandaag werk je op als team van drie met twee laptops en één fysiek notebook.
 
 We willen geen enkele andere applicatie of website op de laptop (of telefoon) schermen zien vandaag: dat leidt af van de opdracht. 
 Bij deze opdracht is het gebruik van AI zoals chat-GPT nadrukkelijk verboden. 
-Ten eerste omdat je bij deze opdracht het leerdoel is te laten zien dat je zelf een algoritme kan ontwerpen. 
+Ten eerste omdat je bij deze opdracht het leerdoel is: laten zien dat je zelf een algoritme kan ontwerpen. 
 Ten tweede omdat de ervaring leert dat chat-GPT bij deze opdracht hele verkeerde antwoorden geeft die teams urenlang de verkeerde kant op kunnen sturen. 
 Mochten we chat-GPT of een andere AI tool op je scherm actief zien dan beschouwen we dat als *afkijken*, dus niet zelf de leerdoelen willen leren, met de standaard bijbehorende gevolgen: niet meer aan DEF deelnemen.
 

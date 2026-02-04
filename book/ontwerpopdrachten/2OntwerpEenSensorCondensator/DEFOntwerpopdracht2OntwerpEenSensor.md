@@ -226,7 +226,7 @@ Je hebt vandaag gewerkt aan het onder de knie krijgen van de volgende leerdoelen
 2. Kennis hebben van gedrag van elektrische componenten en meetopstellingen.
 3. Onderdelen van een datasheet zoals een kalibratiegrafiek opstellen, gevoeligheid en onzekerheid beschrijven.
 
-Als het goed is laat je werk in het template zien dat je deze leerdoelen nu beheert. Het is aan jullie om zelf aan te geven welke cellen van de template bij welk leerdoel horen. Kopier deze cellen bij opdracht 11. Lees het template door, kijk goed naar de cellen met LEERDOEL in de titel. Kopieer deze cellen en zet ze bij het juiste leerdoel in het template bij *..*.
+Als het goed is laat je werk in het template zien dat je deze leerdoelen nu beheert. Het is aan jullie om zelf aan te geven welke cellen van de template bij welk leerdoel horen.*..*.
 
 ## Inleveren op Brightspace
 Je bent nu klaar met het invul template en kan deze op Github en Brightspace inleveren. 

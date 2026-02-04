@@ -32,26 +32,26 @@ parts:
     chapters:
     - file: ontwerpopdrachten/1KalibreerEenSensorDigitaalAnaloog/DEFOntwerpopdracht1KalibreerEenSensor.md
       sections:
-      - file: ontwerpopdrachten/1KalibreerEenSensorDigitaalAnaloog/DEFOntwerpopdracht1KalibreerEenSensorInvulTemplate.ipynb
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/1KalibreerEenSensorDigitaalAnaloog/DEFOntwerpopdracht1KalibreerEenSensorInvulTemplate.ipynb
     - file: ontwerpopdrachten/2OntwerpEenSensorCondensator/DEFOntwerpopdracht2OntwerpEenSensor.md
       sections:
-      - file: ontwerpopdrachten/2OntwerpEenSensorCondensator/DEFOntwerpopdracht2OntwerpEenSensorInvulTemplate.ipynb
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/2OntwerpEenSensorCondensator/DEFOntwerpopdracht2OntwerpEenSensorInvulTemplate.ipynb
     - file: ontwerpopdrachten/3OntwerpEenTransistor/DEFontwerpopdracht3OntwerpEenTransistor.md
     - file: ontwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritme.md
       sections:
-      - file: ontwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritmeInvulTemplate.ipynb
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritmeInvulTemplate.ipynb
     - file: ontwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpOpdrachtTrillingsvrij.md
       sections:
-      - file: ontwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb
     - file: ontwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpOpdrachtMicroscoop.md
       sections:
-      - file: ontwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpopdracht6MaakEenMicroscoopInvulTemplate.ipynb
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpopdracht6MaakEenMicroscoopInvulTemplate.ipynb
 
   - caption: Electromagnetisme opdrachten
     chapters:
       - file: electromagnetisme_project/condensator.md
         sections:
-          - file: electromagnetisme_project/Condensator_opdracht/electrostatics_def_d.ipynb
+          - external:https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/electromagnetisme_project/Condensator_opdracht/electrostatics_def_d.ipynb
       - file: electromagnetisme_project/project_2.md
 
   - caption: Dictaten
@@ -63,6 +63,6 @@ parts:
 
   - caption: Overig
     chapters:
-    - file: ontwerpopdrachten/0kickOffDag/kickoffdagTestAssignment.ipynb
+    - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/0kickOffDag/kickoffdagTestAssignment.ipynb
     - file: references.md
     - file: credits.md

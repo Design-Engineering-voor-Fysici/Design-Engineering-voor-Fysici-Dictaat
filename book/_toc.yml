@@ -51,7 +51,7 @@ parts:
     chapters:
       - file: electromagnetisme_project/condensator.md
         sections:
-          - external:https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/electromagnetisme_project/Condensator_opdracht/electrostatics_def_d.ipynb
+          - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/electromagnetisme_project/Condensator_opdracht/electrostatics_def_d.ipynb
       - file: electromagnetisme_project/project_2.md
 
   - caption: Dictaten

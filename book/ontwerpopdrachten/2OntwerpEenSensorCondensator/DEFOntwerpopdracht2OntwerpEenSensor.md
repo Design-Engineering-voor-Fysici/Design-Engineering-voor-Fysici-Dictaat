@@ -40,9 +40,9 @@ Er ligt een lijst met wat erin zou moeten zitten bovenop je caddy.
 
 Overleg bij alles wat je in het template invult met je team: wat je inlevert, is van jullie alle drie. 
 Je zal dus goed moeten samenwerken. 
-Jullie hebben allemaal als het goed is de gehele opdracht doorgelezen. Maak nu samen een planning waarin je aangeeft
+Jullie hebben allemaal als het goed is de gehele opdracht doorgelezen. Maak nu samen een planning waarin je aangeeft:
     
-- hoe laat je bij de mijlpalen verwacht te zijn. Als je een mijlpaal niet haalt omdat je vast zit is het een goed idee om een TA om hulp te vragen
+- hoe laat je bij de mijlpalen verwacht te zijn. Als je een mijlpaal niet haalt omdat je vast zit, is het een goed idee om een TA om hulp te vragen.
 - Op welke tijden je als team je pauzes neemt: plan deze in! continue werken is niet effectief.
     
 In de template staat een tabel. 
@@ -52,8 +52,8 @@ De planning moet uiterlijk om **11.15** binnen zijn.
 
 
 Hieronder begint de opdracht. 
-Jullie keuzes in de ontwerpcyclus kunnen betekenen dat je zelf cellen toevoegd of verwijderd in de template. 
-Dat is prima, zolang je ons maar laat zien welke ontwerpstappen je genomen hebt.
+Jullie keuzes in de ontwerpcyclus kunnen betekenen dat je zelf cellen toevoegt of verwijdert in de template. 
+Dit is prima, zolang je ons maar laat zien welke ontwerpstappen je genomen hebt.
     
 ### Zo veel mogelijk laptops weg 
 

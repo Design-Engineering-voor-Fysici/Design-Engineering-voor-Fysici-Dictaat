@@ -22,17 +22,27 @@ Het zou er nu zo uit moeten zien, dan kan je door naar het volgende onderdeel.
 
 Dit is een andere manier om de *repo* te *clonen* van wat je [eerder hebt geleerd](https://contemporary-physicslab.github.io/thermolab/intro-1/).
 
+### Collaborators toevoegen
+
 Nodig nu je groepsgenoot uit voor jouw *repo*, of accepteer die van je groepsgenoot, mits dit nodig is.
 **Nodig ook de 3 hoofdTA's uit**, dit is belangrijk voor nakijken later!
 Hoe dit moet staat [hier](https://contemporary-physicslab.github.io/thermolab/intro-1/#je-partner-s-uitnodigen)
 
-### 3 hoofdTA GitHub accounts
+
+#### 3 hoofdTA GitHub accounts
 
 - Martijn Sonneveld: MartijnSonneveld
 - Emma Nielen: Enielen
 - Sjoerd Hoogeman: MrBBrightside
 
 Als je het niet zeker weet, dan kan je [hier](https://github.com/orgs/Design-Engineering-voor-Fysici/teams/hoofd-ta/members) de hoofd TA's zien.
+
+
+### Actions aanzetten
+
+We moeten ook op ons eigen GitHub page de actions aanzetten:
+![actions](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/1_4_actions.png)
+
 
 ### Protecting main
 

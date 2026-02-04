@@ -139,7 +139,7 @@ Vul nu bij Opdracht 3 in welke sensor jullie gaan maken.
 Het is belangrijk om van tevoren te weten of de sensor die je gaat maken zijn capaciteit in een groot genoeg meetbaar bereik veranderd. 
 Werk je schets van je gekozen sensor verder uit. Zet daar in ieder geval goed alle afmetingen bij. 
     
-Als je schets klaar is, bepaal dan (schat, of leidt af) hoe de te meten variabele de variabele van de plaatcondensator beïnvloedt. 
+Als je schets klaar is, bepaal dan (schat, of leidt af) hoe de te meten variabele, de variabele van de plaatcondensator beïnvloedt. 
     
 Bijvoorbeeld: een stuk pvc tussen twee metalen platen van 10 cm bij 10 cm zal bij een temperatuur verandering van 20 naar 30 graden lineair uitzetten van 3 naar 3.002 millimeter. 
 Hierdoor verandert de capaciteit van 117.33 pF naar 117.25 pF. (ik heb expres een slecht voorbeeld gekozen, dit verschil is niet meetbaar).

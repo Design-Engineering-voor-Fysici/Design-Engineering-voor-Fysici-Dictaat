@@ -30,6 +30,9 @@ Pas als je in de goede *branch* zit, ga je werken aan je opdracht!
 
 ### Terminal (optioneel)
 
+Je kan als je dat wilt ook werken met de command line (ook wel terminal genoemd). 
+In dat geval zijn dit de commando's die je gebruikt:
+
 Branch maken en meteen ernaar toe switchen:
 `git checkout -b <naam van je nieuwe branch>`.
 

@@ -2,9 +2,12 @@
 
 Een *repository* (*repo*) *clonen* is handig om er zelf op jouw laptop aan te werken, maar hoe deel je nu wat jij hebt gedaan met je groepsgenoot?
 Dit gaan we oplossen door de opdrachten eerst te *forken* naar je eigen GitHub account.
-In essentie kopiëer je dus eerst de *repo* naar jouw account en van daar *clone* je hem naar je eigen omgeving (VSCode of jouw editor). 
+In essentie kopiëer je dus eerst de *repo* naar jouw account en van daar *clone* je hem naar je eigen laptop. 
+Dit betekent dat een kopie van de *repo*, met alle notebooks, daadwerkelijk op de harde schijf van jouw laptop staat en je eraan kan werken als je laptop niet met internet verbonden is. 
+Je kan er dan aan werken in welke omgeving je wilt, veel van jullie gebruiken daarvoor VSCode.
 
-Waarom? Nu kan je samen met je groepsgenoot werken aan de opdracht en heb je een plek om je werk te delen, namelijk jouw eigen GitHub *repo*!
+Waarom? Nu kan je samen met je groepsgenoot werken aan de opdracht. Jullie hebben dezelfde *fork*, maar werken in je eigen *clone*. 
+Zodra je een stuk werk af hebt kan je dat via GitHub makkelijk delen, want de github.com website houdt een versie van jullie *fork* bij. 
 Het is natuurlijk niet de bedoeling dat jullie jullie werk *pushen* naar de DEF *repo* ;)
 
 ***Forken* doen we maar 1 keer!**
@@ -45,13 +48,17 @@ Als je het niet zeker weet, dan kan je [hier](https://github.com/orgs/Design-Eng
 
 ### Actions aanzetten
 
-We moeten ook op ons eigen GitHub page de actions aanzetten:
+We hebben een aantal GitHub *actions* gemaakt die jullie gaan helpen: automatische checks. 
+Deze moet je wel even aanzetten op je eigen Github page, zie dit screenshot:
 ![actions](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/1_4_actions.png)
-
+En enable de workflows.
 
 ### Protecting main
 
 Een goede eigenschap is om je main *branch* te *protecten*.
+Zo bescherm je je werk waarvan je zeker weet dat het werkt! (Denk aan AWS die laatst omviel...)
+Ook helpt het om kleine foutjes te spotten die jou zijn ontgaan.
+
 Dit zorgt er ook voor dat je met *branches* moet werken!
 Hiervoor gaan we op de GitHub page naar `settings --> branches --> Add branch rule`.
 ![protecting main 1](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protect_main_1.png)

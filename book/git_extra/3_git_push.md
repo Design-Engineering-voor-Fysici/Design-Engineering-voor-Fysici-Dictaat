@@ -15,10 +15,15 @@ Ik heb hier de kickoff opdracht gedaan:
 
 1. *stage* mijn verandering, dus eerst de vernieuwde notebook: ![stage](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_1_staging.png)
 2. Dan stage ik ook de foto en dan schrijf ik de *commit message*: ![commit](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_2_commit.png)
-3. dan *sync (push)* ik mijn VSCode naar github, dat ziet er nu zo uit: ![github gepusht](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_3_gepusht.png)
+   - Hoe je dit deed staat [hier](https://teachbooks.io/learn-programming/workflows/git/commits_local#a-closer-look-at-our-commits).
+3. Dan *sync (push)* ik mijn VSCode naar github: ![sync](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_4_syncing.png)
+4. Dat ziet er nu zo uit: ![github gepusht](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_3_gepusht.png)
 
 
 ### Terminal (optioneel)
+
+Je kan als je dat wilt ook werken met de command line (ook wel terminal genoemd). 
+In dat geval zijn dit de commando's die je gebruikt:
 
 - Gebruik `git status` om te zien of er files zijn die moeten worden toegevoegd aan je *staging*.
 - `git add <file>` *staged* de file die je hebt aangepast, dit hoef je niet altijd zelf te doen!

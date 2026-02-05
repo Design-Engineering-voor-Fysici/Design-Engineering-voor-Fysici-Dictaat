@@ -7,6 +7,9 @@ In essentie kopiëer je dus eerst de *repo* naar jouw account en van daar *clone
 Waarom? Nu kan je samen met je groepsgenoot werken aan de opdracht en heb je een plek om je werk te delen, namelijk jouw eigen GitHub *repo*!
 Het is natuurlijk niet de bedoeling dat jullie jullie werk *pushen* naar de DEF *repo* ;)
 
+***Forken* doen we maar 1 keer!**
+Dit zal voor de meeste op de kickoff dag gebeuren.
+
 ## Voorbeeld
 
 We beginnen op de [DEF-D opdracht repo](https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D), deze gaan jullie *forken*.

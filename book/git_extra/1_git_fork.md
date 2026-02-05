@@ -41,7 +41,7 @@ Hoe dit moet staat [hier](https://contemporary-physicslab.github.io/thermolab/in
 
 - Martijn Sonneveld: MartijnSonneveld
 - Emma Nielen: Enielen
-- Sjoerd Hoogeman: MrBBrightside
+- Sjoerd Hoogeman: SHoogeman
 
 Als je het niet zeker weet, dan kan je [hier](https://github.com/orgs/Design-Engineering-voor-Fysici/teams/hoofd-ta/members) de hoofd TA's zien.
 

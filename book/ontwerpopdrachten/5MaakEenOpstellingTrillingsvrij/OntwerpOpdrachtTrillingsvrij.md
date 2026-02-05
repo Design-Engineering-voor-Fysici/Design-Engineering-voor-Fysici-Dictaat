@@ -75,7 +75,7 @@ Nu jullie de veerconstante van jullie veer bepaald hebben, gaan we de youngs-mod
 
 **E = $\frac{CL}{A}$**
 
-De veerconstante hebben jullie zojuist berekend en de rustlengte van de veer hebben jullie ook al bepaald. De oppervlakte van de veer gaan jullie nu schatten volgens de methode van het college van Chris Kleijn van afgelopen maandag (23 maart). Het is nadrukkelijk niet de bedoeling om deze oppervlakte (of de dimensies ervan) te meten. Hiermee kunnen jullie nu de youngs-modulus bepalen van de veer. Vergelijk dit met wat de daadwerkelijke youngs-modulus is van het materiaal van jullie veer (voor de meest voorkomende materialen te vinden op de wikipedia pagina van de youngs-modulus).
+De veerconstante hebben jullie zojuist berekend en de rustlengte van de veer hebben jullie ook al bepaald. De oppervlakte van de veer gaan jullie nu schatten volgens de methode die jullie geleerd hebben in het college van afgelopen maandag (23 maart). Het is nadrukkelijk niet de bedoeling om deze oppervlakte (of de dimensies ervan) te meten. Hiermee kunnen jullie nu de youngs-modulus bepalen van de veer. Vergelijk dit met wat de daadwerkelijke youngs-modulus is van het materiaal van jullie veer (voor de meest voorkomende materialen te vinden op de wikipedia pagina van de youngs-modulus).
 **Laat de schatting en het eindresultaat zien aan jullie TA, die tekent dit af!**
 
 ## Groepsoverleg en laten zien sanity check

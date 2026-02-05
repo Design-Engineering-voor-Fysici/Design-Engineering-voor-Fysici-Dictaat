@@ -42,3 +42,10 @@ Vraag dus ook pas voor een review als de checks goed zijn gekeurd.
 Als de checks niet goed zijn, lees goed wat er mis is, pas dat aan in je opdracht, *commit & push* opnieuw, dan gaan de checks opnieuw kijken of het nu wel in orde is.
 - ![check niet goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/automatische_check_niet_blij.png)
 - ![check goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/automatische_check_wel_blij.png)
+
+### Deel je werk met je groepsgenoot
+
+Als je je werk wilt delen met je groepsgenoten, zodat hun *repo* ook geupdate is met jullie opdracht, kan dit ook via een *PR*.
+Maak dus nog een *PR* aan vanuit jouw *branch* waar je in hebt gewerkt, naar de `main` branch van de forks van je groepsgenoten.
+1. Maak dus nog een *PR* aan en kies hier je groepsgenoten: ![werk delen](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_10_deel_met_medestudenten.png)
+2. Mijn groepsgenoot is Danielle, ik push mijn `opdracht` *branch* naar haar `main` *branch*: ![pr medestudent](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_11_pr_groepsgenoot.png)

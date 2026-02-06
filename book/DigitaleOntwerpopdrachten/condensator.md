@@ -10,6 +10,7 @@ Deze online ontwerpopdracht hangt nauw samen met de tweede fysieke ontwerpopdrac
 
 ## Opdracht 
 
-Jullie gaan een regenmeter maken met een condensator. 
-In deel A gaan jullie focussen op het ontwerpen en simuleren van een regen sensor. 
-Daarna gaan jullie in deel B verder in op waar de verschillen liggen tussen het ontwerp dat jullie hebben bedacht en de werkelijkheid.
+In deze simulatie-ontwerpopdracht voor DEF-D werk je in teams aan het simuleren en interpreteren van elektrostatica-situaties die aansluiten bij het vak elektromagnetisme en de tweede fysieke ontwerpopdracht. 
+Het grootste deel van de simulaties (zoals puntladingen, geladen schijven en platen op potentiaal) moet vóór de fysieke ontwerpopdracht in week 3.3 worden afgerond en dient als voorbereiding daarop. 
+Na de fysieke ontwerpopdracht maak je een reflectieopdracht waarin je verschillen tussen theorie, simulatie en metingen analyseert. 
+De opdracht wordt volledig online uitgevoerd en moet in week 3.4 worden ingeleverd.

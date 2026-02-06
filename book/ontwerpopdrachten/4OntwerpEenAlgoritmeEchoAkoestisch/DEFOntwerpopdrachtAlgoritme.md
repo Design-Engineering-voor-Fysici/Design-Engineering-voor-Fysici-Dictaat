@@ -9,11 +9,10 @@ Lees dit vooraf goed door zodat je weet wat er vandaag van je verwacht wordt.
 ### Leerdoel
 De leerdoelen van vandaag zijn: 
 
-- Inzien dat het maken van een algoritme een ontwerpproces
-- De ontwerpcyclus optimaal inrichten op de randvoorwaarden van de ontwerpopdracht
+- Inzien dat het maken van een algoritme een ontwerpproces.
+- De ontwerpcyclus optimaal inrichten op de randvoorwaarden van de ontwerpopdracht.
 
-Aan het einde van de dag laat je zien dat je dit leerdoel onder de knie hebt door relevant zaken aan te leveren. Daarbij gebruik je [dit](DEFOntwerpopdrachtAlgoritmeInvulTemplate.ipynb) template wat je gedurende de dag invult.
-
+Aan het einde van de dag laat je zien dat je dit leerdoel onder de knie hebt door relevant zaken aan te leveren. Je hebt als het goed is allemaal de github repo geforked van het vak. Maak een nieuwe branch aan voor deze opdracht. Daarin vind je het invul-notebook. Open dat op één laptop.
 ### Groep aanmelden 
 Deze opdracht doe je in groepen van 3 studenten. 
 Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 4: maak een algoritme. 
@@ -36,7 +35,7 @@ Maak nu samen een planning waarin je aangeeft
 - Op welke tijden je als team niet met de opdracht bezig gaat zijn (je pauzes, plan deze in! continue werken is niet effectief)
 
 Vul de planning tabel in bij *opdracht 1* in het template. 
-*Laat de planning aan je TA zien om deze te controleren. De planning moet uiterlijk om 11.00 gezien zijn*.
+**Laat de planning aan je TA zien om deze te controleren. De planning moet uiterlijk om 11.00 gezien zijn**.
 
 ### Schermen: max twee laptops, geen AI (chat-GPT)
 
@@ -48,7 +47,7 @@ Vandaag werk je op als team van drie met twee laptops en één fysiek notebook.
 
 We willen geen enkele andere applicatie of website op de laptop (of telefoon) schermen zien vandaag: dat leidt af van de opdracht. 
 Bij deze opdracht is het gebruik van AI zoals chat-GPT nadrukkelijk verboden. 
-Ten eerste omdat je bij deze opdracht het leerdoel is te laten zien dat je zelf een algoritme kan ontwerpen. 
+Ten eerste omdat je bij deze opdracht het leerdoel is: laten zien dat je zelf een algoritme kan ontwerpen. 
 Ten tweede omdat de ervaring leert dat chat-GPT bij deze opdracht hele verkeerde antwoorden geeft die teams urenlang de verkeerde kant op kunnen sturen. 
 Mochten we chat-GPT of een andere AI tool op je scherm actief zien dan beschouwen we dat als *afkijken*, dus niet zelf de leerdoelen willen leren, met de standaard bijbehorende gevolgen: niet meer aan DEF deelnemen.
 
@@ -118,7 +117,7 @@ Doe metingen met je bron en ontvanger op de volgende posities. Noteer de totaal 
 
 Dit moet nu een uitkomst opleveren dichtbij de verwachte waarden: x0=20 cm y0=20 cm alpha=0 graden, beta=0 graden met kleine std. dev.
 
-Laat dit zien aan je TA. **De deadline hiervoor is 12.00 PM. Als het voor die tijd niet gelukt is komen we kijken wat er mis gaat en hoe we jullie kunnen helpen.**
+Laat dit zien aan je TA. **De deadline hiervoor is 12:00. Als het voor die tijd niet gelukt is komen we kijken wat er mis gaat en hoe we jullie kunnen helpen.**
  
 ## Ontwerp individueel algoritme
 
@@ -141,8 +140,8 @@ Beschrijf bij *opdracht 5* in de template jullie algoritmes. Voeg foto's van gem
 ### Simulatie 
 
 Overleg als groep welke algoritme je kansrijk acht om goed te gaan werken. 
-Kies minstens twee, mogelijk alle drie, de algoritme om te testen. 
-Hou er rekening mee dat metingen doen en verwerken tijd kost, dus werk snel. 
+Kies minstens twee van de algoritmes, mogelijk alle drie, om te testen. 
+Houd er rekening mee dat metingen doen en verwerken tijd kost, dus werk snel. 
 Kies als groep zelf een combinatie van x0, y0, alpha en beta. 
 Zet het reflectie-paper op deze zelf gekozen positie en voer één voor één minimaal twee van de drie algoritmes uit. 
 Dat levert een hele reeks aan meetgegevens op die je bij *opdracht 6* in de template invult.

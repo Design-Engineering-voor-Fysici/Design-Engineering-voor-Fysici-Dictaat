@@ -11,16 +11,18 @@ Aan het einde van de dag moet je een (filmpje van een) werkende sensor laten zie
 Deze opdracht doe je in groepen van 3 studenten. 
 Je kan jouw groepsnummer en jouw medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 2: ontwerp een sensor. 
 Als eerste moet je je voorstellen aan jouw teamgenoten en zeker weten dat je met de juiste studenten aan de juiste tafel zit. 
-Vervolgens werk je in [dit template notebook](DEFOntwerpopdracht2OntwerpEenSensorInvulTemplate.ipynb).
-Als je groep om 10.50 niet compleet is, zet je stoplicht op rood. 
+Je hebt als het goed is allemaal de github repo geforked van het vak. Maak een nieuwe branch aan voor deze opdracht. Daarin vind je het invul-notebook. Open dat op één laptop.
+Als je groep om 11:00 niet compleet is, zet je stoplicht op rood. 
 Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
 
 ### Leerdoelen
 De leerdoelen voor vandaag zijn (deze lijst komt uit de studiehandleiding):
 
-1. Kennis hebben van gedrag van elektrische componenten en meetopstellingen
+1. Kennis hebben van gedrag van elektrische componenten en meetopstellingen.
 2. Het kunnen gebruiken van de eigenschappen van een elektrische component in een ontwerpproces om een fysische grootheid te meten.
-3. Onderdelen van een datasheet zoals een kalibratiegrafiek (= grafiek op basis van testmetingen met een fit, die aangeeft welke waarde een sensor voor een bepaalde concentratie of temperatuur meet) opstellen, gevoeligheid en onzekerheid beschrijven
+3. Onderdelen van een datasheet zoals een kalibratiegrafiek (= grafiek op basis van testmetingen met een fit, die aangeeft welke waarde een sensor voor een bepaalde concentratie of temperatuur meet) opstellen, gevoeligheid en onzekerheid beschrijven.
+
+
 In tegenstelling tot vorige week geven we deze week niet expliciet aan welke cellen bij welke leerdoelen horen. 
 Aan het einde van de dag kies je zelf welke cellen volgens jullie laat zien dat jullie bovenstaande leerdoelen onder de knie hebben.
 
@@ -38,9 +40,9 @@ Er ligt een lijst met wat erin zou moeten zitten bovenop je caddy.
 
 Overleg bij alles wat je in het template invult met je team: wat je inlevert, is van jullie alle drie. 
 Je zal dus goed moeten samenwerken. 
-Jullie hebben allemaal als het goed is de gehele opdracht doorgelezen. Maak nu samen een planning waarin je aangeeft
+Jullie hebben allemaal als het goed is de gehele opdracht doorgelezen. Maak nu samen een planning waarin je aangeeft:
     
-- hoe laat je bij de mijlpalen verwacht te zijn. Als je een mijlpaal niet haalt omdat je vast zit is het een goed idee om een TA om hulp te vragen
+- hoe laat je bij de mijlpalen verwacht te zijn. Als je een mijlpaal niet haalt omdat je vast zit, is het een goed idee om een TA om hulp te vragen.
 - Op welke tijden je als team je pauzes neemt: plan deze in! continue werken is niet effectief.
     
 In de template staat een tabel. 
@@ -50,8 +52,8 @@ De planning moet uiterlijk om **11.15** binnen zijn.
 
 
 Hieronder begint de opdracht. 
-Jullie keuzes in de ontwerpcyclus kunnen betekenen dat je zelf cellen toevoegd of verwijderd in de template. 
-Dat is prima, zolang je ons maar laat zien welke ontwerpstappen je genomen hebt.
+Jullie keuzes in de ontwerpcyclus kunnen betekenen dat je zelf cellen toevoegt of verwijdert in de template. 
+Dit is prima, zolang je ons maar laat zien welke ontwerpstappen je genomen hebt.
     
 ### Zo veel mogelijk laptops weg 
 
@@ -91,7 +93,7 @@ Als je beide formules hebt, dan sluit je vervolgens het plankje aan zoals uitgel
 
 Nu je de meetopstelling hebt getest doen we een laatste sanity check: kunnen we de waarde van een plaatcondensator voorspellen (berekenen) en daarna meten? 
 Kijk welke materialen je beschikbaar hebt en ontwerp (op papier!) een plaatcondensator die een capaciteit heeft **van meer dan 50 pF**. 
-Geef in je schets de belangrijke dimensies (maten) aan. Gebruik de plaatcondensator formule die jullie voor de online ontwerpopdracht condensator a afgeleid hebben wat de capaciteit van jullie condensator wordt:
+Geef in je schets de belangrijke dimensies (maten) aan. Gebruik de plaatcondensator formule die jullie voor de online ontwerpopdracht condensator A afgeleid hebben wat de capaciteit van jullie condensator wordt:
 
 Zet je berekening op hetzelfde papier als je ontwerpschets. 
 Bouw vervolgens je plaatcondensator en sluit deze aan zoals de referentie condensator bij sanity check 2. 
@@ -137,7 +139,7 @@ Vul nu bij Opdracht 3 in welke sensor jullie gaan maken.
 Het is belangrijk om van tevoren te weten of de sensor die je gaat maken zijn capaciteit in een groot genoeg meetbaar bereik veranderd. 
 Werk je schets van je gekozen sensor verder uit. Zet daar in ieder geval goed alle afmetingen bij. 
     
-Als je schets klaar is, bepaal dan (schat, of leidt af) hoe de te meten variabele de variabele van de plaatcondensator beïnvloedt. 
+Als je schets klaar is, bepaal dan (schat, of leidt af) hoe de te meten variabele, de variabele van de plaatcondensator beïnvloedt. 
     
 Bijvoorbeeld: een stuk pvc tussen twee metalen platen van 10 cm bij 10 cm zal bij een temperatuur verandering van 20 naar 30 graden lineair uitzetten van 3 naar 3.002 millimeter. 
 Hierdoor verandert de capaciteit van 117.33 pF naar 117.25 pF. (ik heb expres een slecht voorbeeld gekozen, dit verschil is niet meetbaar).
@@ -152,7 +154,7 @@ Dit pakket simuleert het gedrag van elektrische schakelingen.
 **Ieder groepslid opent op de eigen laptop LTSpice.**
     
 - Open het bestand ```LTSpiceTemplateCapacitor.asc``` in LTSpice. (staat op Brightspace en [hier](LTSpiceTemplateCapacitor.asc)). 
-- Run de simulatie (klik op rennende persoon icoon)
+- Run de simulatie (klik op het groene pijltje icoon)
 - Klik met rechtermuisknop in de lege grafiek die verschijnt en kies \add trace\ (of druk op A)
 - Kies V(vin) en V(vout) en druk op ok. Je zou nu twee grafieken moeten zien.
 - Verander de waarde van de condensator door er met de rechtermuisknop op te klikken. Een van de groepsleden kiest als waarde het midden van het verwachte bereik aan capaciteit (midden van je grafiek hierboven). De andere twee groepsleden kiezen het maximum en het minimum. 
@@ -171,14 +173,14 @@ Maak nu je sensor.
     
 Zodra je sensor af is, maak je twee foto's van je sensor waarbij je in elke foto een andere meting doet. 
 Probeer je scope scherm in beeld te krijgen zodat we ook de meetwaarde zien. 
-Als dat door de opstelling niet kan, maar dan twee (extra) foto's van je scope die bij de metingen horen. 
+Als dat door de opstelling niet kan, maak dan twee (extra) foto's van je scope die bij de metingen horen. 
 Zet die foto's in de template bij opdracht 6. 
 Dit zijn de foto's die we gebruiken om te zien of jullie sensoren werken. 
 
 ## Kalibratiemeting met Arduino
 
 Sluit vervolgens je sensor aan op je Arduino (zie de schakeling hieronder) en upload de code die op Brightspace, of [hier](CapMeas_UNO_1r.ino), staat naar je Arduino. 
-Je kan nu heel snel heel veel metingen doen van de capaciteit, veel sneller dan als je dat steeds op de scope moet aflezen.
+Je kan nu heel snel heel veel metingen doen van de capaciteit, veel sneller dan wanneer je dat steeds op de scope moet aflezen.
 
 <p>
   <img align="left" src="capaciteitMetArduino.png" width="40%" title="Arduino" border = "2">
@@ -224,7 +226,7 @@ Je hebt vandaag gewerkt aan het onder de knie krijgen van de volgende leerdoelen
 2. Kennis hebben van gedrag van elektrische componenten en meetopstellingen.
 3. Onderdelen van een datasheet zoals een kalibratiegrafiek opstellen, gevoeligheid en onzekerheid beschrijven.
 
-Als het goed is laat je werk in het template zien dat je deze leerdoelen nu beheert. Het is aan jullie om zelf aan te geven welke cellen van de template bij welk leerdoel horen. Kopier deze cellen bij opdracht 11. Lees het template door, kijk goed naar de cellen met LEERDOEL in de titel. Kopieer deze cellen en zet ze bij het juiste leerdoel in het template bij *..*.
+Als het goed is laat je werk in het template zien dat je deze leerdoelen nu beheert. Het is aan jullie om zelf aan te geven welke cellen van de template bij welk leerdoel horen.
 
 ## Inleveren op Brightspace
 Je bent nu klaar met het invul template en kan deze op Github en Brightspace inleveren. 

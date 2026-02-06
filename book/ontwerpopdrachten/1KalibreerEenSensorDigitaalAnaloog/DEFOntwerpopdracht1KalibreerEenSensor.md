@@ -15,7 +15,7 @@ De leerdoelen voor vandaag zijn (deze lijst komt uit de studiehandleiding):
 Deze opdracht doe je in groepen van 3 studenten. 
 Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 1: Kalibreer een sensor. 
 Allereerst moet je aan de juiste tafel zitten: check of je met de juiste teamgenoten aan tafel zit! 
-Je hebt als het goed is allemaal het github repo geforked van het vak. 
+Je hebt als het goed is allemaal de github repo geforked van het vak. 
 Maak een nieuwe branch aan voor deze opdracht.
 Daarin vind je het invul-notebook. Open dat op één laptop. 
 
@@ -25,7 +25,7 @@ Als jouw groep om 10.55 niet compleet is, trek dan aan de bel bij de TA (stoplic
 
 
 ### Samenwerken
-Overleg bij alles wat je in het notebook invult met jouw team: wat je inlevert is van jullie alle drie. Je zal dus goed moeten samenwerken. Jullie hebben allemaal als het goed is het hele notebook doorgelezen. Maak nu samen een planning waarin je aangeeft
+Overleg bij alles wat je in het notebook invult met jouw team: wat je inlevert is van jullie alle drie. Je zal dus goed moeten samenwerken. Jullie hebben allemaal als het goed is het hele notebook doorgelezen. Maak nu samen een planning waarin je aangeeft:
 
 - Hoe laat je bij de mijlpalen verwacht te zijn. Als je een mijlpaal niet haalt omdat je vast zit, dan is het een goed idee om een TA om hulp te vragen.
 - Op welke tijden je als team niet werkt: jullie pauzes, plan deze in! Continue werken is niet effectief.
@@ -47,13 +47,13 @@ Het aansluiten van deze sensoren gaat precies zoals je maandag gedaan hebt in he
 **Laat aan je TA zien dat alle drie de sensoren werken. Je TA tekent dit af.** 
 
 ## Ontwerpstap Analyse
-Als eerste gaan we verzinnen wat je met deze sensoren zou kunnen doen. **LET OP: JE GAAT DEZE OPSTELLING NIET BOUWEN: JE VERZINT HIER WAT ER MOGELIJK KAN MET DEZE SENSOR** Bijvoorbeeld: met een geluidsensor kan je de geluidsoverlast van een overkomend vliegtuig meten. Schets individueel op een papier (liefst A3) per sensor drie verschillende toepassingen van de sensor die je op jouw Arduino hebt aangesloten (dus als groep 9 toepassingen per sensor in totaal). Leg je schetsen naast elkaar, maak één foto en upload die bij *Opdracht 1* van het invul template.
+Als eerste gaan we verzinnen wat je met deze sensoren zou kunnen doen. **LET OP: JE GAAT DEZE OPSTELLING NIET BOUWEN: JE VERZINT HIER WAT ER MOGELIJK KAN MET DEZE SENSOR** Bijvoorbeeld: met een geluidsensor kan je de geluidsoverlast van een overkomend vliegtuig meten. Schets individueel op een papier (liefst A3) per sensor drie verschillende toepassingen van de sensor die je op jouw Arduino hebt aangesloten (dus als groep **9 toepassingen per sensor** in totaal). Leg je schetsen naast elkaar, maak één foto en upload die bij *Opdracht 1* van het invul template.
 
 ## Ontwerpstap Criteria
-Bepaal voor de bedachte toepassingen de criteria waarbij de sensor geschikt is. Definieer je criteria als een harde grens. Gebruik natuurkundige eenheden. Denk aan **SM**a**R**t uit het college. Het kunnen per toepassing meerdere criteria zijn. Kies vervolgens één van de drie sensoren uit om de rest van de dag mee verder te gaan. Vul je criteria en keuze in bij *Opdracht 2* van het template. 
+Bepaal voor de bedachte toepassingen de criteria waarbij de sensor geschikt is. Definieer je criteria als een harde grens. Gebruik natuurkundige eenheden. Denk aan **SMART** uit het college. Het kunnen per toepassing meerdere criteria zijn. Kies vervolgens één van de drie sensoren uit om de rest van de dag mee verder te gaan. Vul je criteria en keuze in bij *Opdracht 2* van het template. 
 
 ##  Sanity Check
-**Laat je criteria aan je TA zien. Laat ook aan je TA zien dat de gekozen sensor werkt: dat de meetwaarde wijzigt als je de sensor beinvloedt (warmer maakt, erin knijpt, etc). Je TA tekent dit af!**. Dit laat ons zien dat het jullie allemaal gelukt is in ieder geval de sensor werkend aan te sluiten. Als je niet voor 12.00 iets laat zien komen we bij jullie groep langs om te vragen wat er mis is en om jullie te helpen.
+**Laat je criteria aan je TA zien. Laat ook aan je TA zien dat de gekozen sensor werkt: dat de meetwaarde wijzigt als je de sensor beinvloedt (warmer maakt, erin knijpt, etc). Je TA tekent dit af!**. Dit laat ons zien dat het jullie allemaal gelukt is om in ieder geval de sensor werkend aan te sluiten. Als je niet voor 12.00 iets laat zien komen we bij jullie groep langs om te vragen wat er mis is en om jullie te helpen.
 
 ## Ontwerpstap simulatie en evaluatie: kalibratie opstelling maken!
 Je gaat een kalibratieopstelling ontwerpen en bouwen om je sensor mee te evalueren. Het ontwerpen van je opstelling is een aparte ontwerp ronde binnen deze evaluatie stap! 
@@ -90,7 +90,7 @@ bij *Opdracht 6* van het invul template staan Python cellen waar je zelf code ka
 
 - Zet je data in een handig formaat
 - maak een grafiek zoals je geleerd hebt bij het practicum.
-- Voeg een fit-lijn aan je grafiek toe. Denk goed na over de vorm van deze lijn.
+- Voeg een fit-lijn aan je grafiek toe. Denk goed na over de vorm van deze lijn!
 
 ### sub-ontwerpstap: iteratie nodig?
 

@@ -25,6 +25,7 @@ Nu alles is gesynct op mijn GitHub account ga ik een *pull request* doen van mij
 4. Bij *reviewers* moet je jouw nakijker toevoegen, in mijn geval is dit hoofdTA: MartijnSonneveld.
    - Je hoort op de dag zelf wie jouw nakijker is.
 5. Zet nu de link van jouw *PR* op de juiste plek in Brightspace.
+    - Voor DEF-D moet je meestal zodra je je pull request hebt aangemaakt dit op Brightspace melden in een assignment. Dat is belangrijk om voor je DEF-D onderwijs je punten te krijgen. Dat doe je door de URL/link te kopieren. Dus de link van de pagina van je *PR* to kopiëren en die te plakken in de juiste assignment op brightspace.
 6. Martijn heeft nagekeken en was niet tevreden: ![niet goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_4_review_niet_geaccepteerd.png)
 7. Ik maak veranderingen en commit en push die, daarna kan ik nog een review aanvragen van Martijn: ![nieuwe review](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_5_rerequest_review.png)
 8. Deze keer vond Martijn het goed! ![feedback goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_6_feedback_verwerkt.png) Nu willen we mergen met de `main` *branch*, *squash & merge* om precies te zijn!
@@ -49,3 +50,4 @@ Als je je werk wilt delen met je groepsgenoten, zodat hun *repo* ook geupdate is
 Maak dus nog een *PR* aan vanuit jouw *branch* waar je in hebt gewerkt, naar de `main` branch van de forks van je groepsgenoten.
 1. Maak dus nog een *PR* aan en kies hier je groepsgenoten: ![werk delen](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_10_deel_met_medestudenten.png)
 2. Mijn groepsgenoot is Danielle, ik push mijn `opdracht` *branch* naar haar `main` *branch*: ![pr medestudent](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_11_pr_groepsgenoot.png)
+3. Zij moet dan ook de reviewer zijn en de *PR* pas accepteren als de TA de normale *PR* heeft goedgekeurd.

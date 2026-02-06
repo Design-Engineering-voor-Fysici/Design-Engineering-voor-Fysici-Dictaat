@@ -8,6 +8,7 @@ Jullie eerste *branch* zou iets zijn als: `introductie`.
 Maak de *branch* voor de opdracht pas aan als je er ook echt aan gaat beginnen.
 
 ![branche](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/2_1_branches.png)
+*An illustration of branching in Git. Taken from [here](https://book.the-turing-way.org/reproducible-research/vcs/vcs-git-branches/). Illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [The Turing Way Community & Scriberia (2024)](https://zenodo.org/records/13882307).*
 
 ## Voorbeeld: Branch maken
 

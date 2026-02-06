@@ -49,10 +49,10 @@ parts:
 
   - caption: Electromagnetisme opdrachten
     chapters:
-      - file: electromagnetisme_project/condensator.md
+      - file: ElektromagnetismeProject/condensator.md
         sections:
           - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/electromagnetisme_project/Condensator_opdracht/electrostatics_def_d.ipynb
-      - file: electromagnetisme_project/project_2.md
+      - file: ElektromagnetismeProject/spoel.md
 
   - caption: Dictaten
     chapters:

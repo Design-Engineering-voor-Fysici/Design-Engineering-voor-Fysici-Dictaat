@@ -61,6 +61,21 @@ parts:
       - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
         title: Dictaat DEF F
 
+  - caption: GitHub
+    chapters:
+      - file: git_extra/0_git_intro.md
+        sections:
+          - url: https://contemporary-physicslab.github.io/thermolab/uitleg/
+            title: Git van IP
+      - file: git_extra/1_git_fork.md
+      - file: git_extra/2_git_branches.md
+      - file: git_extra/3_git_push.md
+      - file: git_extra/4_git_cooperation.md
+      - file: git_extra/5_git_pr.md
+      - file: git_extra/6_git_conflicts.md
+      - file: git_extra/7_fork_syncen.md
+      - file: git_extra/00_git_recap.md
+
   - caption: Overig
     chapters:
     - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/0kickOffDag/kickoffdagTestAssignment.ipynb

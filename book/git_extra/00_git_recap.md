@@ -1,0 +1,14 @@
+# De Recap
+
+1. *Fork* de DEF-D *repo* naar je eigen GitHub-account.
+2. Nodig de hoofdTA's uit als *collaborators*.
+3. Maak een *branch* van `main` naar je huidige opdracht.
+   - werk aan opdracht (in de juiste *branch*!) totdat je klaar bent met *commits* tussendoor.
+4. *Push* je werk naar GitHub
+5. Vraag een *Pull Request* aan van jouw huidige opdracht *branch* naar `main` en laat jouw hoofdTA (dit verschilt per opdracht) de *reviewer* zijn
+   - Verbeter eventueel nog je werk met nieuwe *commits/pushes* en vraag weer een *review* aan!
+6. De opdracht is goedgekeurd: 
+   - *Squash en merge* je huidige *branch* met `main` en verwijder de huidige opdracht *branch*.
+
+
+NOTE: als je dan via je *fork* terug naar de originele *repo* een *PR* aanmaakt is dit precies hoe grote open-source projecten werken!

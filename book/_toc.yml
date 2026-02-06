@@ -30,29 +30,27 @@ parts:
 
   - caption: Fysieke Ontwerpopdrachten
     chapters:
-    - file: ontwerpopdrachten/1KalibreerEenSensorDigitaalAnaloog/DEFOntwerpopdracht1KalibreerEenSensor.md
+    - file: FysiekeOntwerpopdrachten/1KalibreerEenSensorDigitaalAnaloog/DEFOntwerpopdracht1KalibreerEenSensor.md
       sections:
-      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/1KalibreerEenSensorDigitaalAnaloog/DEFOntwerpopdracht1KalibreerEenSensorInvulTemplate.ipynb
-    - file: ontwerpopdrachten/2OntwerpEenSensorCondensator/DEFOntwerpopdracht2OntwerpEenSensor.md
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/1KalibreerEenSensorDigitaalAnaloog/DEFOntwerpopdracht1KalibreerEenSensorInvulTemplate.ipynb
+    - file: FysiekeOntwerpopdrachten/2OntwerpEenSensorCondensator/DEFOntwerpopdracht2OntwerpEenSensor.md
       sections:
-      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/2OntwerpEenSensorCondensator/DEFOntwerpopdracht2OntwerpEenSensorInvulTemplate.ipynb
-    - file: ontwerpopdrachten/3OntwerpEenTransistor/DEFOntwerpopdracht3OntwerpEenTransistor.md
-    - file: ontwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritme.md
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/2OntwerpEenSensorCondensator/DEFOntwerpopdracht2OntwerpEenSensorInvulTemplate.ipynb
+    - file: FysiekeOntwerpopdrachten/3OntwerpEenTransistor/DEFOntwerpopdracht3OntwerpEenTransistor.md
+    - file: FysiekeOntwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritme.md
       sections:
-      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritmeInvulTemplate.ipynb
-    - file: ontwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpOpdrachtTrillingsvrij.md
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritmeInvulTemplate.ipynb
+    - file: FysiekeOntwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpOpdrachtTrillingsvrij.md
       sections:
-      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb
-    - file: ontwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpOpdrachtMicroscoop.md
-      sections:
-      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpopdracht6MaakEenMicroscoopInvulTemplate.ipynb
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb
+    - file: FysiekeOntwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpOpdrachtMicroscoop.md
 
   - caption: Digitale Ontwerpopdrachten
     chapters:
-      - file: ElektromagnetismeProject/condensator.md
+      - file: DigitaleOntwerpopdrachten/condensator.md
         sections:
-          - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/electromagnetisme_project/Condensator_opdracht/electrostatics_def_d.ipynb
-      - file: ElektromagnetismeProject/spoel.md
+          - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/DigitaleOntwerpopdrachten/1CondensatorOpdracht/CondensatorOntwerpopdracht.ipynb
+      - file: DigitaleOntwerpopdrachten/spoel.md
 
   - caption: Dictaten
     chapters:
@@ -78,6 +76,6 @@ parts:
 
   - caption: Overig
     chapters:
-    - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/0kickOffDag/kickoffdagTestAssignment.ipynb
+    - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/0KickOffDag/KickoffdagTestAssignment.ipynb
     - file: references.md
     - file: credits.md

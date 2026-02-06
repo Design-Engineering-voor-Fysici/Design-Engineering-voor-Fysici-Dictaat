@@ -25,7 +25,7 @@ Als jouw groep om 10.55 niet compleet is, trek dan aan de bel bij de TA (stoplic
 
 
 ### Samenwerken
-Overleg bij alles wat je in het notebook invult met jouw team: wat je inlevert is van jullie alle drie. Je zal dus goed moeten samenwerken. Jullie hebben allemaal als het goed is het hele notebook doorgelezen. Maak nu samen een planning waarin je aangeeft:
+Overleg bij alles wat je in het notebook invult met jouw team: wat je inlevert, is van jullie alle drie. Je zal dus goed moeten samenwerken. Jullie hebben allemaal als het goed is het hele notebook doorgelezen. Maak nu samen een planning waarin je aangeeft:
 
 - Hoe laat je bij de mijlpalen verwacht te zijn. Als je een mijlpaal niet haalt omdat je vast zit, dan is het een goed idee om een TA om hulp te vragen.
 - Op welke tijden je als team niet werkt: jullie pauzes, plan deze in! Continue werken is niet effectief.

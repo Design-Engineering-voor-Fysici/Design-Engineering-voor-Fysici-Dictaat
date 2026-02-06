@@ -1,4 +1,5 @@
-# 5. Maak een meetopstelling trillingsvrij
+# 5. Maak een Meetopstelling Trillingsvrij
+
 De leerdoelen voor vandaag zijn:
 
 - Inzien dat de parameters in een differentiaalvergelijking ontwerpparameters zijn die een ontwerpruimte opspannen.

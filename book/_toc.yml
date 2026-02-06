@@ -6,11 +6,11 @@ parts:
   - caption: Theoretische Leerdoelen
     chapters:
     - file: leerdoelen/ontwerpen.md
-    - file: leerdoelen/schattendRekenen.md
-    - file: leerdoelen/onzekerheidToleranties.md
+    - file: leerdoelen/SchattendRekenen.md
+    - file: leerdoelen/OnzekerheidToleranties.md
       sections:
       - file: leerdoelen/OnzekerheidOefenopgaves.md
-    - file: leerdoelen/lifeCycleAnalysis.md
+    - file: leerdoelen/LifeCycleAnalysis.md
 
   - caption: Praktische Leerdoelen
     chapters:
@@ -28,7 +28,7 @@ parts:
       - file: PraktischeLeerdoelen/Arduino/ArduinoOpdr6.md
 
 
-  - caption: Ontwerpopdrachten
+  - caption: Fysieke Ontwerpopdrachten
     chapters:
     - file: ontwerpopdrachten/1KalibreerEenSensorDigitaalAnaloog/DEFOntwerpopdracht1KalibreerEenSensor.md
       sections:
@@ -36,7 +36,7 @@ parts:
     - file: ontwerpopdrachten/2OntwerpEenSensorCondensator/DEFOntwerpopdracht2OntwerpEenSensor.md
       sections:
       - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/2OntwerpEenSensorCondensator/DEFOntwerpopdracht2OntwerpEenSensorInvulTemplate.ipynb
-    - file: ontwerpopdrachten/3OntwerpEenTransistor/DEFontwerpopdracht3OntwerpEenTransistor.md
+    - file: ontwerpopdrachten/3OntwerpEenTransistor/DEFOntwerpopdracht3OntwerpEenTransistor.md
     - file: ontwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritme.md
       sections:
       - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritmeInvulTemplate.ipynb
@@ -47,12 +47,12 @@ parts:
       sections:
       - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpopdracht6MaakEenMicroscoopInvulTemplate.ipynb
 
-  - caption: Electromagnetisme opdrachten
+  - caption: Digitale Ontwerpopdrachten
     chapters:
-      - file: electromagnetisme_project/condensator.md
+      - file: ElektromagnetismeProject/condensator.md
         sections:
           - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/electromagnetisme_project/Condensator_opdracht/electrostatics_def_d.ipynb
-      - file: electromagnetisme_project/project_2.md
+      - file: ElektromagnetismeProject/spoel.md
 
   - caption: Dictaten
     chapters:
@@ -63,18 +63,18 @@ parts:
 
   - caption: GitHub
     chapters:
-      - file: git_extra/0_git_intro.md
+      - file: GitExtra/0GitIntro.md
         sections:
           - url: https://contemporary-physicslab.github.io/thermolab/uitleg/
             title: Git van IP
-      - file: git_extra/1_git_fork.md
-      - file: git_extra/2_git_branches.md
-      - file: git_extra/3_git_push.md
-      - file: git_extra/4_git_cooperation.md
-      - file: git_extra/5_git_pr.md
-      - file: git_extra/6_git_conflicts.md
-      - file: git_extra/7_fork_syncen.md
-      - file: git_extra/00_git_recap.md
+      - file: GitExtra/1GitFork.md
+      - file: GitExtra/2GitBranches.md
+      - file: GitExtra/3GitPush.md
+      - file: GitExtra/4GitCooperation.md
+      - file: GitExtra/5GitPr.md
+      - file: GitExtra/6GitConflicts.md
+      - file: GitExtra/7_fork_syncen.md
+      - file: GitExtra/00GitRecap.md
 
   - caption: Overig
     chapters:

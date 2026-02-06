@@ -1,4 +1,4 @@
-# 3. Ontwerp een transistor
+# 3. Ontwerp een Transistor
 
 ## Introduction
 

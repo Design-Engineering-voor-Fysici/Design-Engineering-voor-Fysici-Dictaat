@@ -1,4 +1,5 @@
-# Oefen vraag: vermogen
+# Oefenvraag: Vermogen
+
 Studenten willen de hoeveelheid energie nodig om water te laten koken bepalen met een onzekerheid van minder dan $5$%. Ze hebben waterkoker, twee multimeters en een stopwatch tot hun beschikking. 
 Multimeters voor V en I hebben $2$% onzekerheid. Hoe nauwkeurig (in procenten) moet de stopwatch zijn?
 

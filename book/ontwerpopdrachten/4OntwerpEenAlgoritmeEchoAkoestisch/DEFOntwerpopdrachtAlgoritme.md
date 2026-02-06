@@ -1,4 +1,4 @@
-# 4. Echo akoestisch algoritme
+# 4. Echo Akoestisch Algoritme
 
 Vandaag ga je zelf een algoritme ontwerpen waarmee je de locatie van een object op basis van echo's gaat bepalen.
 Dit document helpt je daar stap voor stap doorheen. 

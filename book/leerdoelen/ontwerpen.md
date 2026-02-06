@@ -1,9 +1,10 @@
-# Ontwerp theorie
+# Ontwerp Theorie
+
 Er zijn veel verschillende visies op wat ontwerpen "is". Een mogelijke manier om naar ontwerpen te kijken is te kijken naar de rol die ontwerpen als activiteit heeft: waarom ontwerpen mensen?
 
 1. Ontwerpen als vormgeving. De vraag die beantwoord wordt is: "Hoe moet iets eruit zien?". Dit is het soort "ontwerpen" dat vaak (ten onrechte) met 'design' wordt aangeduid. Bijvoorbeeld: de vorm van een opvallende (kunstzinnige?) stoel.
 2. Ontwerpen als verkenning. De vraag die beantwoord wordt is: "wat kan er allemaal?". Dit is het soort ontwerpen dat geassocieerd wordt met 'visie'. Bij dit soort ontwerpen worden dingen (producten, toekomsten) ontworpen die nooit daadwerkelijk gemaakt (kunnen) gaan worden, maar daar gaat het niet om. Het gaat hier om een richting aangeven. Bijvoorbeeld: concept cars.
-3. Ontwerpen als oplossing. Ontwerpen als activitiet om efficient en gestructureerd een oplossing voor een gegeven probleem te kiezen en implementeren. Dit is het soort ontwerpen waarbij het probleem in grote lijnen bekend is en de kunst is om uit alle verschillende mogelijke oplossingen er één te kiezen die goed genoeg is. De kernwoorden zijn hier 'efficient' en 'gestructureerd'.
+3. Ontwerpen als oplossing. Ontwerpen als activiteit om efficient en gestructureerd een oplossing voor een gegeven probleem te kiezen en implementeren. Dit is het soort ontwerpen waarbij het probleem in grote lijnen bekend is en de kunst is om uit alle verschillende mogelijke oplossingen er één te kiezen die goed genoeg is. De kernwoorden zijn hier 'efficient' en 'gestructureerd'.
 
 Bij Design Engineering voor Fysici focussen we op de laatste categorie en voegen we daaraan toe: met gebruik van je natuurkunde kennis. Zo komen alle drie de woorden uit de titel van het vak samen: we leren je ontwerpen (design) en maken (engineering) gebruik makend van je natuurkunde kennis (fysica). 
 

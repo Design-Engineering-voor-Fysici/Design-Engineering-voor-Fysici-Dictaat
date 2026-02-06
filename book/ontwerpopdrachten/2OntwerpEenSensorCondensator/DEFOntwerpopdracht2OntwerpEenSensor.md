@@ -1,4 +1,4 @@
-# 2. Maak een sensor met condensatoren
+# 2. Maak een Sensor met Condensatoren
 
 Vandaag ga je een sensor maken op basis van verandering van capaciteit. 
 Wat de sensor gaat meten mag je als groep zelf beslissen. 

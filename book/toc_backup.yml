@@ -5,10 +5,10 @@ parts:
   - caption: Leerdoelen
     chapters:
     - file: leerdoelen/ontwerpen.md
-    - file: leerdoelen/schattendRekenen.md
+    - file: leerdoelen/SchattendRekenen.md
     - file: leerdoelen/fabricagetechnieken.md
-    - file: leerdoelen/onzekerheidToleranties.md
-    - file: leerdoelen/lifeCycleAnalysis.md
+    - file: leerdoelen/OnzekerheidToleranties.md
+    - file: leerdoelen/LifeCycleAnalysis.md
   - caption: Activiteiten
     chapters:
     - file: PraktischeLeerdoelen/activiteitenOverzicht.md

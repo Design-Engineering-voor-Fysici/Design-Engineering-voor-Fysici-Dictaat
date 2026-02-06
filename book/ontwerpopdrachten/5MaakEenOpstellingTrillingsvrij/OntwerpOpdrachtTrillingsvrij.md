@@ -1,4 +1,5 @@
-# 5. Maak een meetopstelling trillingsvrij
+# 5. Maak een Meetopstelling Trillingsvrij
+
 De leerdoelen voor vandaag zijn:
 
 - Inzien dat de parameters in een differentiaalvergelijking ontwerpparameters zijn die een ontwerpruimte opspannen.
@@ -11,22 +12,29 @@ Om die leerdoelen onder de knie te krijgen gaan jullie een opstelling maken die 
 - laat zien dat je de Arduino werkend aangesloten hebt.
 
 ##### voor einde van de dag (ontwerpopdracht)
-- het [invul template ](OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb) op vocareum
+- Het invul-notebook. Maak een nieuwe branch aan voor deze opdracht. Daarin vind je het invul-notebook. Open dat op één laptop.
 - Een video bestand (liefst gif!) met een video die laat zien dat je opstelling 'werkt', op Brightspace
-- je samenwerken feedback logboek op Brightspace.
+- je samenwerken feedback logboek op brightspace.
 
 ### Groep vormen 
-Deze opdracht doe je in groepen van 3 studenten. Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 5: Maak een meetopstelling trillingsvrij. Net als in vorige weken hebben we [een invultemplate notebook](OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb) dat je gedurende de dag bij houdt. Aan het einde van de dag ga je via de link op Brightspace naar Vocareum. Dat staat aan het einde van dit document uitgelegd. 
 
-**Als je groep om 11.00 niet compleet is, trek dan aan de bel door je TA erbij te roepen.** Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
+Deze opdracht doe je in groepen van 3 studenten. 
+Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 5: Maak een meetopstelling trillingsvrij. 
+Net als in vorige weken hebben we [een invultemplate notebook](OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb) dat je gedurende de dag bij houdt. 
+
+**Als je groep om 11.00 niet compleet is, trek dan aan de bel door je TA erbij te roepen.** 
+Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
 
 ### Laptops 
-Net als vorige week werk je met twee laptops en één fysiek notebook. Op een van de notebooks open je de Arduino software en Processing. Op de andere laptop open je [het invultemplate notebook](OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb). We willen, net als vorige week, geen andere applicaties of websites open zien staan (met uitzondering van de youtube video hieronder).
+Net als vorige week werk je met twee laptops en één fysiek notebook. 
+Op een van de notebooks open je de Arduino software en Processing. 
+Op de andere laptop open je [het invultemplate notebook](OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb). 
+We willen, net als vorige week, geen andere applicaties of websites open zien staan (met uitzondering van de youtube video hieronder).
 
 ### Samenwerken
 Overleg bij alles wat je in het notebook invult met je team: wat je inlevert is van jullie alle drie. Je zal dus goed moeten samenwerken. Jullie hebben allemaal als het goed is het hele notebook doorgelezen. Maak nu samen een planning waarin je aangeeft
 
-- Hoe laat je bij de mijlpalen verwacht te zijn. Als je een mijlpaal niet haalt omdat je vast zit is het een goed idee om je TA om hulp te vragen
+- Hoe laat je bij de mijlpalen verwacht te zijn. Als je een mijlpaal niet haalt omdat je vast zit, is het een goed idee om je TA om hulp te vragen.
 - Bij opsplitsen: wie welke actie gaat doen en hoe laat die klaar gaan zijn.
 - Op welke tijden je als team pauzes neemt. Continu werken is niet effectief.
 
@@ -51,9 +59,9 @@ De tweede en derde student gaan Het onderstaande tot 'Groepsoverleg' uitwerken b
 ## Analyse: Bepalen parameters
 In de analyse fase van ontwerpen gaat het om het uitwerken van de opdracht (of de wensen van de klant binnen een bedrijf) tot criteria waar het ontwerp aan moet voldoen. Dit dient dan als input voor de volgende fase: synthese, waarin je ideeen gaat bedenken. Bij parametrisch ontwerpen gebruik je de analyse fase om te bepalen welke parameters belangrijk zijn, hoe deze je ontwerp beinvloeden en tot slot wat de eisen aan deze parameters zijn. Dat gaan we hier ook stap voor stap doen.
 
-De parameters waar je als ontwerper invloed op hebt in dit ontwerp zijn massa (m) en veerconstante (C). Denk terug aan het college en zie eventueel deze [video over theorie op Youtube](https://www.youtube.com/watch?v=XDLgnwhsOfM). De eisen aan het ontwerp zijn dat een trilling van 5Hz gedempt wordt met een factor 3 en dat deze op het horizontale vlak stabiel is. Reken uit welke kantelfrequentie (ook wel cut-off frequency of Eigen frequency) het massa-veer-systeem dat je gaat ontwerpen moet hebben. Schrijf dit op in de template.
+De parameters waar je als ontwerper invloed op hebt in dit ontwerp zijn massa (m) en veerconstante (C). Denk terug aan het college en zie eventueel deze [video over theorie op Youtube](https://www.youtube.com/watch?v=XDLgnwhsOfM). De eisen aan het ontwerp zijn dat een trilling van 5Hz gedempt wordt met een factor 3 en dat deze op het horizontale vlak stabiel is. Reken uit welke kantelfrequentie (ook wel cut-off frequency of Eigen frequency) het massa-veer-systeem, dat je gaat ontwerpen, moet hebben. Schrijf dit op in de template.
    
-Plot vervolgens in het template hoe de amplitude overdracht ($\left|\frac{A_{out}}{A_{in}}\right|$ in het college) voor je berekende kantelfrequentie afhangt van de frequentie van de trilling van de vloer ($f_{0}$). Zorg dat de x-as uitgedrukt is in Hz en plot beide assen op een logaritmische schaal. Dit soort grafieken heet een 'Bode plot' en heb je al een keer gezien bij het vak voortgezette analyse en het Natuurkundig Practicum. 
+Plot vervolgens in het template hoe de amplitude overdracht ($\left|\frac{A_{out}}{A_{in}}\right|$ in het college) voor je berekende kantelfrequentie afhangt van de frequentie van de trilling van de vloer ($f_{0}$). Zorg dat de x-as uitgedrukt is in Hz en plot beide assen op een logaritmische schaal. Dit soort grafieken heten'Bode plots' en heb je al een keer gezien bij het vak voortgezette analyse en het Natuurkundig Practicum. 
 
 In het college hebben we laten zien dat je een gegeven kantelfrequentie ook kan omrekenen tot een $\Delta x$, het verschil in lengte van de veer tussen de situaties wanneer je de massa er volledig afhaalt en wanneer je deze terug zet. Bereken in het template wat de minimale $\Delta x$ is die je nodig hebt om aan de ontwerpeis te voldoen.
 
@@ -62,6 +70,14 @@ De berekende $\Delta x$ is het grensgeval waar je opstelling net aan de eisen vo
 Plot bij opdracht 3 in de template een grafiek voor de door jouw berekende $\Delta x$ waar je massa op de x-as en veerconstante op de y-as zet. Zet in dezelfde grafiek ook lijnen die horen bij een twee keer zo grote en vijf keer zo grote $\Delta x$. Zorg voor goede labels bij de verschillende lijnen. **Laat je grafiek aan je TA zien.**"
    
 In jullie plot kan je zelf zien wat je moet doen om een hogere $\Delta x$ te bereiken en zo dus een lagere kantelfrequentie en dus een lagere amplitude overdracht bij een gegeven verstoringsfrequentie te halen. Je kan twee dingen veranderen om je $\Delta x$ te verhogen. Geef die aan bij opdracht 4 in de template.
+
+## Schattend rekenen
+Nu jullie de veerconstante van jullie veer bepaald hebben, gaan we de youngs-modulus schatten van deze veer. De youngs-modulus (ookwel elasticiteitsmodulus genoemd) is een materiaaleigenschap die aangeeft hoe stijf het materiaal is onder uitrekking/indrukking ervan. De youngs-modulus is afhankelijk van drie parameters: de veerconstante **C**, de rustlengte **L** en het dwarsoppervlak **A** (het oppervlak loodrecht op de trek/compressie richting). Hieruit komt de volgende vergelijking voor de youngs-modulus:
+
+**E = $\frac{CL}{A}$**
+
+De veerconstante hebben jullie zojuist berekend en de rustlengte van de veer hebben jullie ook al bepaald. De oppervlakte van de veer gaan jullie nu schatten volgens de methode die jullie geleerd hebben in het college van afgelopen maandag (23 maart). Het is nadrukkelijk niet de bedoeling om deze oppervlakte (of de dimensies ervan) te meten. Hiermee kunnen jullie nu de youngs-modulus bepalen van de veer. Vergelijk dit met wat de daadwerkelijke youngs-modulus is van het materiaal van jullie veer (voor de meest voorkomende materialen te vinden op de wikipedia pagina van de youngs-modulus).
+**Laat de schatting en het eindresultaat zien aan jullie TA, die tekent dit af!**
 
 ## Groepsoverleg en laten zien sanity check
 Als je jullie twee taken hebt uitgevoerd kom je als groep samen om te beslissen op welke $\Delta x$ je gaat mikken in jullie ontwerp. Eerst presenteer je aan elkaar kort je bevindingen van je individuele taak. Daarna neem je als groep een beslissing: op welke $\Delta x$ ga je mikken in je ontwerp. Noteer hieronder je beslissing en **laat aan je TA zien**:
@@ -99,7 +115,7 @@ Je gaat bij verschillende meting doen van het gedrag van je opstelling. De frequ
 
 - 1 Hz of 60 beats per minute (bpm)
 - 3 Hz of 180 bpm
-- 5 Hz of 300 bpm (of zo dicht bij als het je lukt te komen, dit is heel snel)
+- 5 Hz of 300 bpm (of zo dichtbij mogenlijk als het je lukt, dit is heel snel)
 
 ### Metingen doen
 In het college en in de videos is uitgelegd hoe je metingen kan doen met je Arduino en de amplitude overdracht kan bepalen. 
@@ -107,7 +123,7 @@ In het college en in de videos is uitgelegd hoe je metingen kan doen met je Ardu
 #### filmpje resultaat
 Je moet een filmpje maken van je opstelling en je meting op je scherm. Doe dit bij een frequentie die hoger (sneller) is dan de eis, of bij een lagere frequentie waarbij je de factor van 3 in ampliture afname al haalt. Dan kunnen we namelijk in het filmpje zien dat jullie opstelling 'werkt' volgens de eis. Zorg ervoor dat je filmpje niet langer dan 30 seconden is (en liefst korter)
 
-**Dit filmpje lever je op Brightspace in, niet naar Vocareum uploaden!**
+**Dit filmpje lever je op Brightspace in, niet naar Github uploaden!**
 
 ### Resultaat metingen
 Maak opnieuw de grafiek van amplitude overdracht versus frequentie die je aan het einde van Evaluatie ook gemaakt hebt (dus met twee overdrachten) en voeg daar je meetpunten aan toe. Doe dit bij opdracht 7 in de template. 
@@ -121,21 +137,32 @@ Kijk of het nodig is om nog een iteratie te doen. Dat kan het geval zijn als:
 Als je gaat itereren, kopieer dan benodigde cellen in het template. Leg goed je proces vast in het template zodat wij zien wat je gedaan hebt. Lever sowieso een foto, met korte beschrijving, van je uiteindelijke opstelling in zodat we kunnen zien wat er gemaakt is.
 
 ## Leerdoelen
-Lees de leerdoelen nog eens terug. In de cel bij opdracht 8 in de template kan je met twee grafieken die je vandaag als het goed is al gemaakt heb laten zien dat je de leerdoelen onder de knie hebt. Als je de grafieken als figuren hebt opgeslagen, kan je deze makkelijk bij opdracht 8 in het template invoegen zonder exta python te hoeven schrijven of kopieren. Je kan ze ook opnieuw uitrekenen, maar let dan heel goed op dat door de code te runnen je misschien niet precies dezelfde resultaten als erboven krijgt wanneer je niet netjes hebt geprogammeerd met namen van variabellen.
+Lees de leerdoelen nog eens terug. In de cel bij opdracht 8 in de template kan je met twee grafieken die je vandaag als het goed is al gemaakt heb laten zien dat je de leerdoelen onder de knie hebt. Als je de grafieken als figuren hebt opgeslagen, kan je deze makkelijk bij opdracht 8 in het template invoegen zonder exta python te hoeven schrijven of kopieren. Je kan ze ook opnieuw uitrekenen, maar let dan heel goed op dat, door de code te runnen, je misschien niet precies dezelfde resultaten als erboven krijgt wanneer je niet netjes hebt geprogammeerd met namen van variabelen.
       
 ## Inleveren resultaten
-Als alles gelukt is, kan je je resultaten inleveren. **Laat voordat je dit doet je resultaten aan je TA zien ter controle!**
+Je bent nu klaar met het invul template en kan deze op Github en Brightspace inleveren. 
 
-- Controleer eerst nog goed of alles klopt. Klik boven in het template op Kernel -> Restart and Run all en check of er geen errors zijn. 
-- Één student opent de opdracht in Vocareum en nodigt de andere twee studenten uit.
-- upload het template en alle bestanden die nodig zijn naar vocareum
-- klik ook in Vocareum op op Kernel -> Restart and Run all en controleer of alles goed staat
-- pas dan klik je op submit en daarna op end lab.
+- **Klik bovenin je notebook op Kernel -> Restart and Run all**
+- Check of er geen errors zijn en alle afbeeldingen zichtbaar zijn.
+- Save je notebook (klik op save icoon).
+- Commit en push je werk naar Github.
+- Maak een pull request op Github aan van je huidige branch naar je main branch.
+- Nodig (in GitHub) je TA uit om deze pull request te reviewen.
+- Kopieer de link (URL) van je pull request en plak deze op brightspace bij de assignment voor de ontwerpopdracht van vandaag.
 
-Op Brightspace is een aparte assignment waar je de video moet inleveren. Zet deze video niet bij het template in Vocareum!
+**Wanneer je klaar bent, zet je je stoplicht op rood voor de TA. Laat je Pull Request binnen Github aan de TA zien. Je TA tekent dit af**
 
-## Samenwerking feedback geven, noteren en inleveren
-Net als bij elke workshop geef je elkaar weer feedback op de samenwerking. Kijk als nodig nog even de videos daarvan terug. De feedback die je krijgt noteer je in je logboek en dat lever je weer in.
+Op Brightspace is een aparte assignment waar je de video moet inleveren. Zet deze video niet bij het template op Github!
 
-## Opruimen en door TA af laten tekenen dat je weg gaat
-Als alles ingeleverd is ruim je je tafel op. **Laat je TA controleren dat je tafel er ok uitziet voordat je weg gaat.**
+## Feedback op samenwerken geven
+Kijk als herinnering nog even de video over feedback geven: https://www.youtube.com/watch?v=16uW1kPoiww. 
+Pak je logboek van vorige week erbij en geef elkaar allemaal feedback. 
+Noteer je feedback in je logboek.
+
+Verder levert elke student individueel het feedback logboek in. Ook hiervoor is de deadline 17.30. Let op dat je deze inlevert bij de assignment van de huidige ontwerpopdracht.
+
+## Opruimen en aftekenen
+
+Zodra alles ingeleverd is ruim je de tafel op. 
+
+**Als je klaar bent met opruimen laat je je tafel aan je TA zien. Je TA geeft je toestemming om weg te gaan als alles netjes is.**

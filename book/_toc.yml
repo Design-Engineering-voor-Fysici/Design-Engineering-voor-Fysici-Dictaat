@@ -2,14 +2,15 @@ format: jb-book
 root: intro.md
 
 parts:
+
   - caption: Theoretische Leerdoelen
     chapters:
     - file: leerdoelen/ontwerpen.md
-    - file: leerdoelen/schattendRekenen.md
-    - file: leerdoelen/onzekerheidToleranties.md
+    - file: leerdoelen/SchattendRekenen.md
+    - file: leerdoelen/OnzekerheidToleranties.md
       sections:
       - file: leerdoelen/OnzekerheidOefenopgaves.md
-    - file: leerdoelen/lifeCycleAnalysis.md
+    - file: leerdoelen/LifeCycleAnalysis.md
 
   - caption: Praktische Leerdoelen
     chapters:
@@ -27,28 +28,56 @@ parts:
       - file: PraktischeLeerdoelen/Arduino/ArduinoOpdr6.md
 
 
-  - caption: Ontwerpopdrachten
+  - caption: Fysieke Ontwerpopdrachten
     chapters:
     - file: ontwerpopdrachten/1KalibreerEenSensorDigitaalAnaloog/DEFOntwerpopdracht1KalibreerEenSensor.md
       sections:
-      - file: ontwerpopdrachten/1KalibreerEenSensorDigitaalAnaloog/DEFOntwerpopdracht1KalibreerEenSensorInvulTemplate.ipynb
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/1KalibreerEenSensorDigitaalAnaloog/DEFOntwerpopdracht1KalibreerEenSensorInvulTemplate.ipynb
     - file: ontwerpopdrachten/2OntwerpEenSensorCondensator/DEFOntwerpopdracht2OntwerpEenSensor.md
       sections:
-      - file: ontwerpopdrachten/2OntwerpEenSensorCondensator/DEFOntwerpopdracht2OntwerpEenSensorInvulTemplate.ipynb
-    - file: ontwerpopdrachten/3OntwerpEenTransistor/DEFontwerpopdracht3OntwerpEenTransistor.md
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/2OntwerpEenSensorCondensator/DEFOntwerpopdracht2OntwerpEenSensorInvulTemplate.ipynb
+    - file: ontwerpopdrachten/3OntwerpEenTransistor/DEFOntwerpopdracht3OntwerpEenTransistor.md
     - file: ontwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritme.md
       sections:
-      - file: ontwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritmeInvulTemplate.ipynb
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritmeInvulTemplate.ipynb
     - file: ontwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpOpdrachtTrillingsvrij.md
       sections:
-      - file: ontwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb
     - file: ontwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpOpdrachtMicroscoop.md
       sections:
-      - file: ontwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpopdracht6MaakEenMicroscoopInvulTemplate.ipynb
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpopdracht6MaakEenMicroscoopInvulTemplate.ipynb
 
+  - caption: Digitale Ontwerpopdrachten
+    chapters:
+      - file: ElektromagnetismeProject/condensator.md
+        sections:
+          - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/electromagnetisme_project/Condensator_opdracht/electrostatics_def_d.ipynb
+      - file: ElektromagnetismeProject/spoel.md
+
+  - caption: Dictaten
+    chapters:
+      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
+        title: Dictaat DEF E
+      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
+        title: Dictaat DEF F
+
+  - caption: GitHub
+    chapters:
+      - file: GitExtra/0GitIntro.md
+        sections:
+          - url: https://contemporary-physicslab.github.io/thermolab/uitleg/
+            title: Git van IP
+      - file: GitExtra/1GitFork.md
+      - file: GitExtra/2GitBranches.md
+      - file: GitExtra/3GitPush.md
+      - file: GitExtra/4GitCooperation.md
+      - file: GitExtra/5GitPr.md
+      - file: GitExtra/6GitConflicts.md
+      - file: GitExtra/7_fork_syncen.md
+      - file: GitExtra/00GitRecap.md
 
   - caption: Overig
     chapters:
-    - file: ontwerpopdrachten/0kickOffDag/kickoffdagTestAssignment.ipynb
+    - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/ontwerpopdrachten/0kickOffDag/kickoffdagTestAssignment.ipynb
     - file: references.md
     - file: credits.md

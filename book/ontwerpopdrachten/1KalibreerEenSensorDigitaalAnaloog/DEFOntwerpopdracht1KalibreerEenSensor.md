@@ -12,15 +12,20 @@ De leerdoelen voor vandaag zijn (deze lijst komt uit de studiehandleiding):
 3.	voor een gegeven sensor & analoog-digitaal convertor en gegeven (of zelf gekozen) toepassing een kalibratie meting ontwerpen, inclusief het circuit om de sensor aan te sluiten op de analoog-digitaal convertor, de opstelling bouwen, en meetresultaten verwerken en concluderen of de combinatie van sensor en analoog-digitaal conversie geschikt is voor de toepassing.
 
 ### Groep aanmelden 
-Deze opdracht doe je in groepen van 3 studenten. Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 1: Kalibreer een sensor. Allereerst moet je aan de juiste tafel zitten: check of je met de juiste teamgenoten aan tafel zit! ga je naar het juiste notebook in vocareum (link op Brightspace) en geef je hier met de knop 'Send Invite' je groepsgenoten aan zodat jullie gezamelijk in dezelfde notebook kunnen werken. 
+Deze opdracht doe je in groepen van 3 studenten. 
+Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 1: Kalibreer een sensor. 
+Allereerst moet je aan de juiste tafel zitten: check of je met de juiste teamgenoten aan tafel zit! 
+Je hebt als het goed is allemaal de github repo geforked van het vak. 
+Maak een nieuwe branch aan voor deze opdracht.
+Daarin vind je het invul-notebook. Open dat op één laptop. 
 
-**Laat het aan je TA weten zodra je succesvol het notebook heb geopend en jouw groepsgenoten heb uitgenodigd.**
+**Laat het aan je TA weten zodra je succesvol het notebook heb geopend en jullie namen hebt ingevuld.**
 
-Als jouw groep om 10.55 niet compleet is, trek dan aan de bel bij de TA (vinger opsteken). Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
+Als jouw groep om 10.55 niet compleet is, trek dan aan de bel bij de TA (stoplicht op rood). Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
 
 
 ### Samenwerken
-Overleg bij alles wat je in het notebook invult met jouw team: wat je inlevert is van jullie alle drie. Je zal dus goed moeten samenwerken. Jullie hebben allemaal als het goed is het hele notebook doorgelezen. Maak nu samen een planning waarin je aangeeft
+Overleg bij alles wat je in het notebook invult met jouw team: wat je inlevert, is van jullie alle drie. Je zal dus goed moeten samenwerken. Jullie hebben allemaal als het goed is het hele notebook doorgelezen. Maak nu samen een planning waarin je aangeeft:
 
 - Hoe laat je bij de mijlpalen verwacht te zijn. Als je een mijlpaal niet haalt omdat je vast zit, dan is het een goed idee om een TA om hulp te vragen.
 - Op welke tijden je als team niet werkt: jullie pauzes, plan deze in! Continue werken is niet effectief.
@@ -42,13 +47,13 @@ Het aansluiten van deze sensoren gaat precies zoals je maandag gedaan hebt in he
 **Laat aan je TA zien dat alle drie de sensoren werken. Je TA tekent dit af.** 
 
 ## Ontwerpstap Analyse
-Als eerste gaan we verzinnen wat je met deze sensoren zou kunnen doen. **LET OP: JE GAAT DEZE OPSTELLING NIET BOUWEN: JE VERZINT HIER WAT ER MOGELIJK KAN MET DEZE SENSOR** Bijvoorbeeld: met een geluidsensor kan je de geluidsoverlast van een overkomend vliegtuig meten. Schets individueel op een papier (liefst A3) per sensor drie verschillende toepassingen van de sensor die je op jouw Arduino hebt aangesloten (dus als groep 9 toepassingen per sensor in totaal). Leg je schetsen naast elkaar, maak één foto en upload die bij *Opdracht 1* van het invul template.
+Als eerste gaan we verzinnen wat je met deze sensoren zou kunnen doen. **LET OP: JE GAAT DEZE OPSTELLING NIET BOUWEN: JE VERZINT HIER WAT ER MOGELIJK KAN MET DEZE SENSOR** Bijvoorbeeld: met een geluidsensor kan je de geluidsoverlast van een overkomend vliegtuig meten. Schets individueel op een papier (liefst A3) per sensor drie verschillende toepassingen van de sensor die je op jouw Arduino hebt aangesloten (dus als groep **9 toepassingen per sensor** in totaal). Leg je schetsen naast elkaar, maak één foto en upload die bij *Opdracht 1* van het invul template.
 
 ## Ontwerpstap Criteria
-Bepaal voor de bedachte toepassingen de criteria waarbij de sensor geschikt is. Definieer je criteria als een harde grens. Gebruik natuurkundige eenheden. Denk aan **SM**a**R**t uit het college. Het kunnen per toepassing meerdere criteria zijn. Kies vervolgens één van de drie sensoren uit om de rest van de dag mee verder te gaan. Vul je criteria en keuze in bij *Opdracht 2* van het template. 
+Bepaal voor de bedachte toepassingen de criteria waarbij de sensor geschikt is. Definieer je criteria als een harde grens. Gebruik natuurkundige eenheden. Denk aan **SMART** uit het college. Het kunnen per toepassing meerdere criteria zijn. Kies vervolgens één van de drie sensoren uit om de rest van de dag mee verder te gaan. Vul je criteria en keuze in bij *Opdracht 2* van het template. 
 
 ##  Sanity Check
-**Laat je criteria aan je TA zien. Laat ook aan je TA zien dat de gekozen sensor werkt: dat de meetwaarde wijzigt als je de sensor beinvloedt (warmer maakt, erin knijpt, etc). Je TA tekent dit af!**. Dit laat ons zien dat het jullie allemaal gelukt is in ieder geval de sensor werkend aan te sluiten. Als je niet voor 12.00 iets laat zien komen we bij jullie groep langs om te vragen wat er mis is en om jullie te helpen.
+**Laat je criteria aan je TA zien. Laat ook aan je TA zien dat de gekozen sensor werkt: dat de meetwaarde wijzigt als je de sensor beinvloedt (warmer maakt, erin knijpt, etc). Je TA tekent dit af!**. Dit laat ons zien dat het jullie allemaal gelukt is om in ieder geval de sensor werkend aan te sluiten. Als je niet voor 12.00 iets laat zien komen we bij jullie groep langs om te vragen wat er mis is en om jullie te helpen.
 
 ## Ontwerpstap simulatie en evaluatie: kalibratie opstelling maken!
 Je gaat een kalibratieopstelling ontwerpen en bouwen om je sensor mee te evalueren. Het ontwerpen van je opstelling is een aparte ontwerp ronde binnen deze evaluatie stap! 
@@ -85,7 +90,7 @@ bij *Opdracht 6* van het invul template staan Python cellen waar je zelf code ka
 
 - Zet je data in een handig formaat
 - maak een grafiek zoals je geleerd hebt bij het practicum.
-- Voeg een fit-lijn aan je grafiek toe. Denk goed na over de vorm van deze lijn.
+- Voeg een fit-lijn aan je grafiek toe. Denk goed na over de vorm van deze lijn!
 
 ### sub-ontwerpstap: iteratie nodig?
 
@@ -107,18 +112,19 @@ Je hebt vandaag gewerkt aan het onder de knie krijgen van de volgende leerdoelen
 
 Als het goed is laat je werk in het template zien dat je deze leerdoelen nu beheert. Het is aan jullie om zelf aan te geven welke cellen van het template bij welk leerdoel horen. Lees het template door, kijk goed naar de cellen met LEERDOEL in de titel. Kopieer deze cellen en zet ze bij het juiste leerdoel in het template bij *Opdracht 9*.
 
-## Inleveren op Vocareum
-Je bent nu klaar met het invul template en kan deze op vocareum inleveren. 
+## Inleveren op Brightspace
 
-- Open Vocareum via de link op Brightspace. 
-- Nodig je groepsgenoten uit
-- Upload je notebook en alle foto's naar vocareum via de 'upload' knop.
-- Open je notebook in Vocareum
-- **Klik boven op Kernel -> Restart and Run all**
+Je bent nu klaar met het invul template en kan deze op Github en Brightspace inleveren. 
+
+- **Klik bovenin je notebook op Kernel -> Restart and Run all**
 - Check of er geen errors zijn en alle afbeeldingen zichtbaar zijn.
-- Als je helemaal klaar bent kan het notebook worden ingeleverd door bovenaan op **submit** te klikken. Je kan meerdere keren iets inleveren en alleen de laatste versie wordt bewaard. Na de deadline is het niet meer mogelijk om in te leveren.
+- Save je notebook (klik op save icoon).
+- Commit en push je werk naar Github.
+- Maak een pull request op Github aan van je huidige branch naar je main branch.
+- Nodig (in GitHub) je TA uit om deze pull request te reviewen.
+- Kopieer de link (URL) van je pull request en plak deze op brightspace bij de assignment voor de ontwerpopdracht van vandaag.
 
-**Wanneer je klaar bent, roep je de TA. Laat je notebook binnen Vocareum aan de TA zien. Je TA tekent dit af**
+**Wanneer je klaar bent, zet je je stoplicht op rood voor de TA. Laat je Pull Request binnen Github aan de TA zien. Je TA tekent dit af**
 
 ## Evalueren groepswerk
 Voordat je het uiteindelijke resultaat inlevert geef je binnen je groep feedback op hoe het samenwerken vandaag ging. Kijk eerst allemaal deze youtube video: https://www.youtube.com/watch?v=16uW1kPoiww. Lees daarna het PDF document 'instructie feedback geven' dat op Brightspace staat. Geef ten slotte elkaar feedback. Noteer de feedback die je krijgt in het 'logboek ontvangen feedback' dat ook op Brightspace staat. Bewaar dit logboek goed: je moet het elke week aanvullen met de feedback die je die week krijgt.

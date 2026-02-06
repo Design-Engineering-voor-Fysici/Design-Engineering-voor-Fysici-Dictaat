@@ -44,8 +44,6 @@ parts:
       sections:
       - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb
     - file: FysiekeOntwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpOpdrachtMicroscoop.md
-      sections:
-      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpopdracht6MaakEenMicroscoopInvulTemplate.ipynb
 
   - caption: Digitale Ontwerpopdrachten
     chapters:

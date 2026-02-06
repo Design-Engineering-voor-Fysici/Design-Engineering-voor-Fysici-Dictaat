@@ -52,12 +52,12 @@ parts:
           - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/DigitaleOntwerpopdrachten/1CondensatorOpdracht/CondensatorOntwerpopdracht.ipynb
       - file: DigitaleOntwerpopdrachten/spoel.md
 
-  - caption: Dictaten
-    chapters:
-      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-        title: Dictaat DEF E
-      - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
-        title: Dictaat DEF F
+  # - caption: Dictaten
+  #   chapters:
+  #     - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
+  #       title: Dictaat DEF E
+  #     - url: https://rolfhut.github.io/Design-Engineering-voor-Fysici-Dictaat/main/leerdoelen/onzekerheidToleranties.html
+  #       title: Dictaat DEF F
 
   - caption: GitHub
     chapters:

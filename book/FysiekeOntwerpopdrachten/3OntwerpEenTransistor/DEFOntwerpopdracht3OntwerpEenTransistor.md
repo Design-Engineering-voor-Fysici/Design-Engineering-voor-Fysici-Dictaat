@@ -37,7 +37,7 @@ Both the exact value of $R_{Chip}$ and the behavior of the transistor is determi
 We will create a resistor on the chip by just making a suitably long strip of material that conducts electricity. We could use the top layer of aluminium, but as our aluminium ($Al$) has a very low resistivity ($2.8×10^{-8}$ Ω-m), making a resistor of $Al$ with a value of several kΩ would either require a very thin or very long resistor. This is not practical; however, it is also possible to use doped $Si$ as a resistor. A region doped with another type of implants as the substrate will formed a depletion region between the doped area and the substrate. When biased correctly this will act as a diode between the doped region and the substrate, therefore insulating the implanted region from the surrounding $Si$.
 We will use the SN region as resistor, which is a n-type region surrounded by the p-type substrate. Hence a diode is formed between the SN and the substrate, which remains reverse biased if the substrate has a lower potential than the SN region. Therefore, the substrate must be grounded. We will create a beam shaped resistor. Remember from high school that for a beam:
 
-$R = \rho_{s}\frac{l}{b d} $
+$$ R = \rho_{s}\frac{l}{b d} $$
 
 where $R$ is the resistance, $\rho_{s}$ is the specific resistance which depends on the material, $l$ is the length (in the direction of the current) and $b d$ is the area (perpendicular to the current), with $b$ the width of the beam and $d$ the depth. On our chip, how deep the $Si$ is doped and with how many doped atoms per volume is determined by the factory. This means that for the resistor on the chip, the factory controls $\rho_{s}$ and $d$. As a designer, you can control the length and the width. Seperating what we control:
 
@@ -47,7 +47,7 @@ The part we don't control we call $R_{S}$ and is provided by the factory. The SN
 
 Note that the resistance is determined by the ratio of $l$ over $b$, not by the absolute values. Without loss of generality we can write the length as a number of times the with: $l = nb$. This gives 
 
-$R_{Chip} = nR_{S}$
+$$ R_{Chip} = nR_{S} $$
 
 With $n$ the amount of times that the width fits in the length. This makes it easy to translate geometry into total resistance through RS: just count the number of squares (of width $b$ in a line. For instance, a 5 µm wide and 25 µm long line consists of five 5x5 µm squares, therefore $R = 5 R_S$. This is especially useful when a meandering resistor is used to reduce the area of $Si$ required for the resistor. However, as shown in the figure below, the corners of a meandering resistor must be counted as 0.56 square. This is because of current-crowding effects at the corner.
 
@@ -72,7 +72,7 @@ While in the linear regime (relevant for analog assignment below):
 
 $R_{Transistor} = \frac{1}{\mu_n C_{ox} \frac{W}{L} V_{DS}} = \frac{L}{\mu_n C_{ox} W V_{DS}}$(4)
 
-Where $µ_n$­ is the mobility of electrons in $Si$ (596 $cm^2 \text{/} Vs$ in our model), $C_{ox}$ the capacitance per unit area of the 100 nm thick gate-oxide, and $V_{Th}$ the threshold voltage ($1.1 ± 0.1$ V). These are process-depended and cannot be controlled by the designer (which is you in this assignment). Only the W and L can be changed, within the specifications of the design rules as mentioned in the KLayout manual. In the digital assignment the relevant $V_{GS}$ are 0V and 5V, in the analog assignment you can assume VDS is typically between 2-3 V with an uncertainty of about 1 mV
+Where $µ_n$ is the mobility of electrons in $Si$ (596 $cm^2 \text{/} Vs$ in our model), $C_{ox}$ the capacitance per unit area of the 100 nm thick gate-oxide, and $V_{Th}$ the threshold voltage ($1.1 ± 0.1$ V). These are process-depended and cannot be controlled by the designer (which is you in this assignment). Only the W and L can be changed, within the specifications of the design rules as mentioned in the KLayout manual. In the digital assignment the relevant $V_{GS}$ are 0V and 5V, in the analog assignment you can assume VDS is typically between 2-3 V with an uncertainty of about 1 mV
 
 The transistor as you will see it in KLayout is shown in the following figure, in which the length (L) and width (W) are indicated. Note that the L is the distance between the two implanted SN regions and not the width of the gate for our process! These dimensions can be changed into the L and W used in LTSpice, if they abide to the design rules described in the next sections. Don’t forget that beside the SN-layer, all other masks will also have to be resized to match!
 
@@ -152,13 +152,13 @@ Do not change the values without thinking: use your problem -> cause -> solution
 Once you have this working you should try to improve the performance of your chip using the below steps, which differ per assignment:
 
 #### improvements assignment 1: digital invertor
-1. The power consumption when the transistor is on can be quite high. This is undesired behavior and can be reduced by optimizing the W/L and $R_{Chip}$ values. Add the power dissipated by $R_{Chip}$ (remember, $P = U∙I$) to the simulation window and try to reduce the power consumption in the on-state ($V_{in}$ = 5 V) to below 2.0 mW without sacrificing the previous specification. The maximum allowed dissipation is 3.0 mW.
+1. The power consumption when the transistor is on can be quite high. This is undesired behavior and can be reduced by optimizing the W/L and $R_{Chip}$ values. Add the power dissipated by $R_{Chip}$ (remember, $P = U \cdot I$) to the simulation window and try to reduce the power consumption in the on-state ($V_{in}$ = 5 V) to below 2.0 mW without sacrificing the previous specification. The maximum allowed dissipation is 3.0 mW.
 2. Optional (if time permits): Digital circuits are fast! Try to determine the maximum frequency your circuit can operate at while still coming within 500 mV of the desired value at the end of the pulse. Can you improve your circuit to increase this maximum frequency? What happens to your power consumption? 
 3. The dimensions on the chip can vary due to fluctuations in the exposure energy or resist thickness as you have calculated above. Before moving on to drawing the lay-out it is good practice to check the tolerances of your circuit. Simulate the impact of these variations on your circuit. If the factory reaches the edges of the specified variations, will your circuit still satisfy the criteria of the design?
 
 
 #### improvements assignment 2: analog amplifier
-1. Optimize the system such that it is also a good (at least 4 x) amplifier for higher frequencies. Try to get the biggest spread (ie. bandwith) of frequencies for which your amplifier works. Ideally at least 4x gain at 20 kHz for audio, but see if you can get it as high as 100 kHz. 
+1. Optimize the system such that it is also a good (at least 4 x) amplifier for higher frequencies. Try to get the biggest spread (ie. bandwidth) of frequencies for which your amplifier works. Ideally at least 4x gain at 20 kHz for audio, but see if you can get it as high as 100 kHz. 
 2. Optional (only if time permits) Explore for which amplitudes of the sine at the input the amplifier still gives a correct output, that is no distortion takes place. To analyze distortion, you can use the Fourier transform in the simulator: right-click the plot – View and select FFT. Now select the input and output signal. For an undistorted signal you should only see a peak at 1 kHz, once the signal starts to be deformed by the circuit additional peaks at higher frequencies will appear. Try to obtain a circuit which can at least process a sine with 0.2 V as amplitude for Vin with less than -20 dB distortion (= difference in dB between the fundamental frequency of 1 kHz and its first harmonic).
 
 *You have to write down details from your LTSpice simulation, including some graphs, on your sheet and show this to your TA before moving on the phase two: Layout.*

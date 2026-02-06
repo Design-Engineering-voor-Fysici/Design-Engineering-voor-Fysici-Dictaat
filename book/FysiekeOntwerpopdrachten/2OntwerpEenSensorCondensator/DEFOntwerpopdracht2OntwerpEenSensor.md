@@ -155,7 +155,7 @@ Dit pakket simuleert het gedrag van elektrische schakelingen.
     
 - Open het bestand ```LTSpiceTemplateCapacitor.asc``` in LTSpice. (staat op Brightspace en [hier](LTSpiceTemplateCapacitor.asc)). 
 - Run de simulatie (klik op het groene pijltje icoon)
-- Klik met rechtermuisknop in de lege grafiek die verschijnt en kies \add trace\ (of druk op A)
+- Klik met rechtermuisknop in de lege grafiek die verschijnt en kies `add trace` (of druk op A)
 - Kies V(vin) en V(vout) en druk op ok. Je zou nu twee grafieken moeten zien.
 - Verander de waarde van de condensator door er met de rechtermuisknop op te klikken. Een van de groepsleden kiest als waarde het midden van het verwachte bereik aan capaciteit (midden van je grafiek hierboven). De andere twee groepsleden kiezen het maximum en het minimum. 
 - druk weer op 'run' en zie de grafieken veranderen. Lees af hoeveel Vpp LTSpice berekend bij de uitgang (Vout). Je kan de assen aanpassen door erop te klikken met je rechtermuisknop.
@@ -163,7 +163,7 @@ Dit pakket simuleert het gedrag van elektrische schakelingen.
 
 **Elk groepslid heeft nu succesvol met LTSpice gewerkt, dit is belangrijk voor de ontwerpopdracht van volgende week**
     
-Is de verwachte verandering in capaciteit goed meetbaar? Zo nee, ga dan terug in de ontwerp cyclus. Bepaal zelf hoe ver terug je moet stappen of vraag je TA om advies. 
+Is de verwachte verandering in capaciteit goed meetbaar? Zo nee, ga dan terug in de ontwerpcyclus. Bepaal zelf hoe ver terug je moet stappen of vraag je TA om advies. 
 
 **Is de verandering wel meetbaar, laat dan je ontwerpgrafiek en tabel aan je TA zien voor je verder gaat. Je TA tekent dit af. Deze grafiek moet voor de pauze af zijn!**
 
@@ -254,6 +254,3 @@ Zodra alles ingeleverd is ruim je de tafel op.
 Zorg dat alles spullen die in de caddy horen daar weer netjes terug gelegd worden (zie de lijst bovenop de caddy!). 
 
 **Als je klaar bent met opruimen laat je je tafel aan je TA zien. Je TA geeft je toestemming om weg te gaan als alles netjes is.**
-
-
-   

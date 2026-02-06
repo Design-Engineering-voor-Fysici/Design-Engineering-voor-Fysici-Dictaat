@@ -19,7 +19,7 @@ parts:
       - file: PraktischeLeerdoelen/college3.md
       - file: PraktischeLeerdoelen/college4.md
       - file: PraktischeLeerdoelen/college5.md
-    - file: PraktischeLeerdoelen/ontwerpopdrachten.md
+    - file: PraktischeLeerdoelen/FysiekeOntwerpopdrachten.md
       sections:
       - file: PraktischeLeerdoelen/ontwerpopdracht1.md
       - file: PraktischeLeerdoelen/ontwerpopdracht2.md

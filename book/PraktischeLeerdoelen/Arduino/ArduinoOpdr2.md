@@ -3,7 +3,7 @@
 ##  Een knipperende LED
 Nu kan je je led wel laten branden, maar daar heb je nog niet veel aan… 
 Een volgende stap is de LED aansturen met behulp van een stukje code. 
-Om de LED aan te sturen met behulp van code moet je de een uitvoerpoort van de Arduino verbinden met je LED. 
+Om de LED aan te sturen met behulp van code moet je de uitvoerpoort van de Arduino verbinden met je LED. 
 De 5V output heb je niet nodig, de uitvoerpoort van deArduino levert nu 5V.
 
 a) Bouw de opstelling die je ziet in de tekening en sluit de Arduino aan op de computer.

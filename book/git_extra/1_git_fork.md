@@ -1,7 +1,7 @@
 # Forking
 
 Een *repository* (*repo*) *clonen* is handig om er zelf op jouw laptop aan te werken, maar hoe deel je nu wat jij hebt gedaan met je groepsgenoot?
-Dit gaan we oplossen door de opdrachten eerst te *forken* naar je eigen GitHub account.
+Dit gaan we oplossen door de opdrachten eerst te *forken* naar je eigen GitHub-account.
 In essentie kopiëer je dus eerst de *repo* naar jouw account en van daar *clone* je hem naar je eigen laptop. 
 Dit betekent dat een kopie van de *repo*, met alle notebooks, daadwerkelijk op de harde schijf van jouw laptop staat en je eraan kan werken als je laptop niet met internet verbonden is. 
 Je kan er dan aan werken in welke omgeving je wilt, veel van jullie gebruiken daarvoor VSCode.

@@ -1,6 +1,6 @@
 # De Recap
 
-1. *Fork* de DEF-D *repo* naar je eigen github account.
+1. *Fork* de DEF-D *repo* naar je eigen GitHub-account.
 2. Nodig de hoofdTA's uit als *collaborators*.
 3. Maak een *branch* van `main` naar je huidige opdracht.
    - werk aan opdracht (in de juiste *branch*!) totdat je klaar bent met *commits* tussendoor.

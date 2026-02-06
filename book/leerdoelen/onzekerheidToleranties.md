@@ -15,7 +15,7 @@ fabrikant.
 * De precisie van een (correct gerapporteerde!) literatuurwaarde (indien geen onzekerheid is
 opgegeven) is $\pm$ 1 in de laatste decimaal.
 * De nauwkeurigheid wordt negatief beïnvloed door systematische fouten, zoals defecte of verkeerd
-gecalibreerde meetinstrumenten, fouten in de meetmethode, niet in rekening gebrachte verstoringen
+gecalibreerde meetinstrumenten, fouten in de meetmethode, geen rekening houden met verstoringen
 etc.
 * Wanneer een correct experiment (juiste meetmethode, correcte meetapparatuur) N maal herhaald is,
 dan: Geven we de uitkomst van de meetserie aan als $x=\mu \pm \frac{\sigma}{\sqrt{N}}$ met $\mu$ het gemiddelde van $N$ de metingen, en $\sigma$ de standaardafwijking van de $N$ metingen.
@@ -60,12 +60,12 @@ Als Z het resultaat is van uitsluitend vermenigvuldigingen en delingen van macht
 
 
 ## Verschil onzekerheid bij practicum en ontwerpen
-Bij het natuurkundig practicum was de uitdaging om bij een gegeven opstelling te bepalen wat de (on)nauwkeurigheid in het gene was dat gemeten was. Ook wordt bij het practicum al een belangrijke stap naar het ontwerpen van experimenten gedaan door uit te rekenen hoe vaak een experiment herhaald moet worden om met gegeven apperatuur een gewenste nauwkeurigheid te halen.
+Bij het natuurkundig practicum was de uitdaging om bij een gegeven opstelling te bepalen wat de (on)nauwkeurigheid in het gene was dat gemeten was. Ook wordt bij het practicum al een belangrijke stap naar het ontwerpen van experimenten gedaan door uit te rekenen hoe vaak een experiment herhaald moet worden om met gegeven apparatuur een gewenste nauwkeurigheid te halen.
 
 Bij het ontwerpen van een meet-apparaat of een meet-opstelling worden dezelfde vergelijkingen gebruikt om een ander probleem op te lossen, namelijk: hoe nauwkeurig moeten onderdelen van mijn oplossing zijn om een gewenste nauwkeurigheid te behalen. De maximaal toegelaten nauwkeurigheid ($U\left( Z\right)$ in bovenstaande vergelijkingen) is dan gegeven. De op te lossen vraag is welke combinatie van ontwerpkeuzes ervoor zorgt dat de opstelling aan dit criteria gaat voldoen. Realiseer je daarbij dat een opstelling relatief nauwkeuriger maken vaak zowel kan door $U\left( A\right)$ te verlagen als door $A$ te vergroten.
 
 ### Voorbeeld: Maximaal vermogen
-Stel je hebt een simpele schakeling van een LEDje, een weerstand en een variabelle spanningsbron. Het maximale vermogen dat door de schakeling mag is bekend, daarboven gaat de schakeling kapot. De spanningsbron heeft een bereik van 0 tot 220 Volt en een onzekerheid van 1 Volt. De spanning over de LED verwaarlozen we. Je hebt weerstanden met een nauwkeurigheid van 1% of 5% tot je beschikking. Je wilt dat de onzekerheid in het vermogen lager dan 10% is zodat je niet per ongelukt de schakeling kapot maakt. Deel het bereik van de spanningsdeler op en geef voor elk gebied aan welke weerstand je moet kiezen.
+Stel je hebt een simpele schakeling van een LEDje, een weerstand en een variabele spanningsbron. Het maximale vermogen dat door de schakeling mag is bekend, daarboven gaat de schakeling kapot. De spanningsbron heeft een bereik van 0 tot 220 Volt en een onzekerheid van 1 Volt. De spanning over de LED verwaarlozen we. Je hebt weerstanden met een nauwkeurigheid van 1% of 5% tot je beschikking. Je wilt dat de onzekerheid in het vermogen lager dan 10% is zodat je niet per ongelukt de schakeling kapot maakt. Deel het bereik van de spanningsdeler op en geef voor elk gebied aan welke weerstand je moet kiezen.
 
 #### Uitwerking voorbeeld: Maximaal vermogen
 Gebruik de wet van Ohm, het vermogen $P$ in een schakeling is gegeven door:

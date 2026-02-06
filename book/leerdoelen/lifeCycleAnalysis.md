@@ -1,5 +1,6 @@
-# Duurzaam ontwerpen 
-Samenvatting van de stof door Bas Flipsen, Universitair Hoofddocent, Industrieel Ontwerpen (2024)
+# Duurzaam Ontwerpen 
+
+Samenvatting van de stof door Bas Flipsen, Universitair Hoofddocent, Industrieel Ontwerpen (2026)
 
 ## Introductie
 

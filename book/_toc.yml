@@ -6,11 +6,11 @@ parts:
   - caption: Theoretische Leerdoelen
     chapters:
     - file: leerdoelen/ontwerpen.md
-    - file: leerdoelen/schattendRekenen.md
-    - file: leerdoelen/onzekerheidToleranties.md
+    - file: leerdoelen/SchattendRekenen.md
+    - file: leerdoelen/OnzekerheidToleranties.md
       sections:
       - file: leerdoelen/OnzekerheidOefenopgaves.md
-    - file: leerdoelen/lifeCycleAnalysis.md
+    - file: leerdoelen/LifeCycleAnalysis.md
 
   - caption: Praktische Leerdoelen
     chapters:

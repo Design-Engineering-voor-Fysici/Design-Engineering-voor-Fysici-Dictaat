@@ -63,18 +63,18 @@ parts:
 
   - caption: GitHub
     chapters:
-      - file: git_extra/0_git_intro.md
+      - file: GitExtra/0GitIntro.md
         sections:
           - url: https://contemporary-physicslab.github.io/thermolab/uitleg/
             title: Git van IP
-      - file: git_extra/1_git_fork.md
-      - file: git_extra/2_git_branches.md
-      - file: git_extra/3_git_push.md
-      - file: git_extra/4_git_cooperation.md
-      - file: git_extra/5_git_pr.md
-      - file: git_extra/6_git_conflicts.md
-      - file: git_extra/7_fork_syncen.md
-      - file: git_extra/00_git_recap.md
+      - file: GitExtra/1GitFork.md
+      - file: GitExtra/2GitBranches.md
+      - file: GitExtra/3GitPush.md
+      - file: GitExtra/4GitCooperation.md
+      - file: GitExtra/5GitPr.md
+      - file: GitExtra/6GitConflicts.md
+      - file: GitExtra/7_fork_syncen.md
+      - file: GitExtra/00GitRecap.md
 
   - caption: Overig
     chapters:

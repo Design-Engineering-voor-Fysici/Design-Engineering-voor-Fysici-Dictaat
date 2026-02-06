@@ -5,10 +5,10 @@ parts:
   - caption: Leerdoelen
     chapters:
     - file: leerdoelen/ontwerpen.md
-    - file: leerdoelen/schattendRekenen.md
+    - file: leerdoelen/SchattendRekenen.md
     - file: leerdoelen/fabricagetechnieken.md
-    - file: leerdoelen/onzekerheidToleranties.md
-    - file: leerdoelen/lifeCycleAnalysis.md
+    - file: leerdoelen/OnzekerheidToleranties.md
+    - file: leerdoelen/LifeCycleAnalysis.md
   - caption: Activiteiten
     chapters:
     - file: PraktischeLeerdoelen/activiteitenOverzicht.md
@@ -19,7 +19,7 @@ parts:
       - file: PraktischeLeerdoelen/college3.md
       - file: PraktischeLeerdoelen/college4.md
       - file: PraktischeLeerdoelen/college5.md
-    - file: PraktischeLeerdoelen/ontwerpopdrachten.md
+    - file: PraktischeLeerdoelen/FysiekeOntwerpopdrachten.md
       sections:
       - file: PraktischeLeerdoelen/ontwerpopdracht1.md
       - file: PraktischeLeerdoelen/ontwerpopdracht2.md

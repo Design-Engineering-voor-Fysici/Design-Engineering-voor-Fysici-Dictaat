@@ -5,6 +5,5 @@ This repo holds the [teachbook](https://design-engineering-voor-fysici.github.io
 The branch "main" contains the version at the start of the course, however, using the flexibility of teachbooks, the material is often updated (bug fixes, improvements suggested by students) while the course runs. 
 When the course is active, there is a branch with a specific year to indicate that is the active branch for that year.
 
-The online teachbook associated with this repos main branch can be found here: [https://design-engineering-voor-fysici.github.io/Design-Engineering-voor-Fysici-Dictaat/main/intro.html](https://design-engineering-voor-fysici.github.io/Design-Engineering-voor-Fysici-Dictaat/main/intro.html). 
+The online teachbook associated with this repo's main branch can be found here: [https://design-engineering-voor-fysici.github.io/Design-Engineering-voor-Fysici-Dictaat/main/intro.html](https://design-engineering-voor-fysici.github.io/Design-Engineering-voor-Fysici-Dictaat/main/intro.html). 
 
-[todo: add referencing information for citing this repo]

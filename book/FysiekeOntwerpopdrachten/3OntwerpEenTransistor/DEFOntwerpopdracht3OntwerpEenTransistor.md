@@ -5,11 +5,12 @@
 In this assignment, you will design, on a single chip, a two components integrated circuit consisting of a transistor and a resistor. 
 You will first have to simulate the circuit in the computer program “LTSpice” to obtain the required behavior and component values. After this, the lay-out of the devices must be drawn in another computer program: “KLayout”. 
 Based on this lay-out, chips will be fabricated with the dimensions you designed.
-![Electrical circuit for design assignment.](../../figures/FysiekeOpdracht3/img_2.png)
-Figure 1: Electrical circuit for design assignment. 
+
+![Electrical circuit for design assignment. 
 The components in the dashed box will be your integrated circuit. 
 The voltage sources are for power and supplying the input signal. 
-Later on in the LTSpice simulation circuit, additional parasitic components are added to account for the pad and wire capacitances.
+Later on in the LTSpice simulation circuit, additional parasitic components are added to account for the pad and wire capacitances.](../../figures/FysiekeOpdracht3/img_2.png)
+
 
 Figure 1 shows the electrical circuit you will be working with. 
 It consists of a transistor (labelled NMOS1 in LTSPICE) and a resistor called $R_{Chip}$. 
@@ -75,7 +76,7 @@ This is especially useful when a meandering resistor is used to reduce the area 
 However, as shown in the figure below, the corners of a meandering resistor must be counted as 0.56 square. 
 This is because of current-crowding effects at the corner.
 
-![Resistor squares](../../figures/FysiekeOpdracht3/Nmos_resistor_squares.jpg)
+![Resistor squares.](../../figures/FysiekeOpdracht3/Nmos_resistor_squares.jpg)
 
 You can use any shape and dimensions to draw your resistor to match the value used in the simulation if it follows the design rules in the next section. 
 The SP guard ring should also follow the meandering structure for best performance of the device and enclose the entire resistor, as shown in the template. 
@@ -89,7 +90,7 @@ Between two areas of well conductive doped $Si$ (S and D) we create a small chan
 On top of this channel, seperated by an insulator, a piece of well conductive metal is applied called the gate (G). 
 When a voltage is applied to the gate, the charge on the gate either pushed away electrons in the channel, increasing the resistance between S and D, or attracts electrons, lowering the resistance.
 
-![Mosfet](../../figures/FysiekeOpdracht3/mosfet.png)
+![Mosfet.](../../figures/FysiekeOpdracht3/mosfet.png)
 
 The value of $R_{Transistor}$ depends on its operation region and its dimensions W and L. 
 Here W is the width of the channel and L the length of the channel. 
@@ -112,7 +113,7 @@ Note that the L is the distance between the two implanted SN regions and not the
 These dimensions can be changed into the L and W used in LTSpice, if they abide to the design rules described in the next sections. 
 Don't forget that beside the SN-layer, all other masks will also have to be resized to match!
 
-![Klayout transistor](../../figures/FysiekeOpdracht3/klayout_transistor.png)
+![Klayout transistor.](../../figures/FysiekeOpdracht3/klayout_transistor.png)
 
 ### CMOS: Layers
 

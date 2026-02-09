@@ -37,13 +37,13 @@ parts:
       sections:
       - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/2OntwerpEenSensorCondensator/DEFOntwerpopdracht2OntwerpEenSensorInvulTemplate.ipynb
     - file: FysiekeOntwerpopdrachten/3OntwerpEenTransistor/DEFOntwerpopdracht3OntwerpEenTransistor.md
-    - file: FysiekeOntwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritme.md
+    - file: FysiekeOntwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdracht4Algoritme.md
       sections:
       - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritmeInvulTemplate.ipynb
-    - file: FysiekeOntwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpOpdrachtTrillingsvrij.md
+    - file: FysiekeOntwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpOpdracht5Trillingsvrij.md
       sections:
       - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb
-    - file: FysiekeOntwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpOpdrachtMicroscoop.md
+    - file: FysiekeOntwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpOpdracht6Microscoop.md
 
   - caption: Digitale Ontwerpopdrachten
     chapters:

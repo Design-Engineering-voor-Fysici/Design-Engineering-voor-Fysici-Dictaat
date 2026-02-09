@@ -12,9 +12,12 @@ for md in markdown_files:
 
     pypandoc.convert_file(input, 'pdf', outputfile=output,
                           extra_args=[
+                              # '-V', 'documentclass=extarticle',
                               '-V', 'geometry:margin=2cm',
-                              '-V', 'font-size=16pt',
-                              '-V', 'mainfont=Arial'
+                              '-V', 'fontsize=12pt',
+                              '-V', 'mainfont=Arial',
+                              '-V', 'pdf-engine=xelatex'
+
                           ])
 
     print(f"done converting {output}")

@@ -99,9 +99,12 @@ Zet je berekening op hetzelfde papier als je ontwerpschets.
 Bouw vervolgens je plaatcondensator en sluit deze aan zoals de referentie condensator bij sanity check 2. 
 Bereken de amplitude van $V_{out}$ die je op de oscilloscoop verwacht te gaan zien. 
     
-Meet op de oscilloscoop en gebruik de formules die je bij santiy check 2 afgeleidt hebt om de daadwerkelijke capaciteit van je plaatcondensator te bepalen.
+Meet op de oscilloscoop en gebruik de formules die je bij sanity check 2 afgeleid hebt om de daadwerkelijke capaciteit van je plaatcondensator te bepalen.
 
-**De cellen in de template bij *opdracht 1: sanity check 3* kunnen nu ingevuld worden. Bij de eerste python cell voeg je een formule in die op basis van de afmetingen en materiaal van de condensator uitrekent wat de capaciteit gaat zijn. Bij de tweede cell voorspel je, met hulp van die formule, wat de capaciteit van jullie condensator gaat zijn. Laat je plaatcondensator, je ontwerp en je berekening, allemaal in het template, aan je TA zien. Die tekent dit af.**
+**De cellen in de template bij *opdracht 1: sanity check 3* kunnen nu ingevuld worden. 
+Bij de eerste python cell voeg je een formule in die op basis van de afmetingen en materiaal van de condensator uitrekent wat de capaciteit gaat zijn. 
+Bij de tweede cell voorspel je, met hulp van die formule, wat de capaciteit van jullie condensator gaat zijn. 
+Laat je plaatcondensator, je ontwerp en je berekening, allemaal in het template, aan je TA zien. Die tekent dit af.**
 
 
 ## Ontwerp opdracht: Maak je eigen sensor.
@@ -156,7 +159,7 @@ Dit pakket simuleert het gedrag van elektrische schakelingen.
 - Open het bestand ```LTSpiceTemplateCapacitor.asc``` in LTSpice. (staat op Brightspace en [hier](LTSpiceTemplateCapacitor.asc)). 
 - Run de simulatie (klik op het groene pijltje icoon)
 - Klik met rechtermuisknop in de lege grafiek die verschijnt en kies `add trace` (of druk op A)
-- Kies V(vin) en V(vout) en druk op ok. Je zou nu twee grafieken moeten zien.
+- Kies V(vin) en V(vout) en druk op OK. Je zou nu twee grafieken moeten zien.
 - Verander de waarde van de condensator door er met de rechtermuisknop op te klikken. Een van de groepsleden kiest als waarde het midden van het verwachte bereik aan capaciteit (midden van je grafiek hierboven). De andere twee groepsleden kiezen het maximum en het minimum. 
 - druk weer op 'run' en zie de grafieken veranderen. Lees af hoeveel Vpp LTSpice berekend bij de uitgang (Vout). Je kan de assen aanpassen door erop te klikken met je rechtermuisknop.
 - Vul nu de tabel in deze staat in de template bij opdracht 5. 
@@ -182,9 +185,7 @@ Dit zijn de foto's die we gebruiken om te zien of jullie sensoren werken.
 Sluit vervolgens je sensor aan op je Arduino (zie de schakeling hieronder) en upload de code die op Brightspace, of [hier](CapMeas_UNO_1r.ino), staat naar je Arduino. 
 Je kan nu heel snel heel veel metingen doen van de capaciteit, veel sneller dan wanneer je dat steeds op de scope moet aflezen.
 
-<p>
-  <img align="left" src="capaciteitMetArduino.png" width="40%" title="Arduino" border = "2">
-</p>
+![Arduino schakeling](../../figures/FysiekeOpdracht2/capaciteitMetArduino.png)
     
 Doe metingen over het bereik waar je de sensor voor ontworpen hebt (denk aan je berekende ontwerpgrafiek). 
 Meet de bijbehorende capaciteit. 
@@ -237,7 +238,7 @@ Je bent nu klaar met het invul template en kan deze op Github en Brightspace inl
 - Commit en push je werk naar Github.
 - Maak een pull request op Github aan van je huidige branch naar je main branch.
 - Nodig (in GitHub) je TA uit om deze pull request te reviewen.
-- Kopieer de link (URL) van je pull request en plak deze op brightspace bij de assignment voor de ontwerpopdracht van vandaag.
+- Kopieer de link (URL) van je pull request en plak deze op Brightspace bij de assignment voor de ontwerpopdracht van vandaag.
 
 **Wanneer je klaar bent, zet je je stoplicht op rood voor de TA. Laat je Pull Request binnen Github aan de TA zien. Je TA tekent dit af**
 

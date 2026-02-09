@@ -7,19 +7,25 @@ Lees dit vooraf goed door zodat je weet wat er vandaag van je verwacht wordt.
 ## Introductie 
 
 ### Leerdoel
+
 De leerdoelen van vandaag zijn: 
 
 - Inzien dat het maken van een algoritme een ontwerpproces.
 - De ontwerpcyclus optimaal inrichten op de randvoorwaarden van de ontwerpopdracht.
 
-Aan het einde van de dag laat je zien dat je dit leerdoel onder de knie hebt door relevant zaken aan te leveren. Je hebt als het goed is allemaal de github repo geforked van het vak. Maak een nieuwe branch aan voor deze opdracht. Daarin vind je het invul-notebook. Open dat op één laptop.
+Aan het einde van de dag laat je zien dat je dit leerdoel onder de knie hebt door relevant zaken aan te leveren. 
+Je hebt als het goed is allemaal de github repo geforked van het vak. 
+Maak een nieuwe branch aan voor deze opdracht. 
+Daarin vind je het invul-notebook. Open dat op één laptop.
+
 ### Groep aanmelden 
+
 Deze opdracht doe je in groepen van 3 studenten. 
 Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 4: maak een algoritme. 
 Vervolgens maak je de juiste opdracht branch aan en open je de juiste notebook op één laptop. 
 Start de opdracht nog niet! 
 Dat doe je pas aan het einde van de dag als je klaar bent om in te leveren. 
-Uiteindelijk lever je het ingevulde template weer in via een pull request met de link op brightspace en de juiste TA als collaborator.
+Uiteindelijk lever je het ingevulde template weer in via een pull request met de link op Brightspace en de juiste TA als collaborator.
 
 Als je groep om 11:00 niet compleet is, trek dan aan de bel je TA erbij te roepen (gebruik je stoplicht). 
 Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
@@ -34,7 +40,7 @@ Maak nu samen een planning waarin je aangeeft
 - Hoe laat je bij de mijlpalen verwacht te zijn. Als je een mijlpaal niet haalt omdat je vast zit is het een goed idee om je TA om hulp te vragen
 - Op welke tijden je als team niet met de opdracht bezig gaat zijn (je pauzes, plan deze in! continue werken is niet effectief)
 
-Vul de planning tabel in bij *opdracht 1* in het template. 
+Vul de planning tabel in bij *opdracht 1* in de template. 
 **Laat de planning aan je TA zien om deze te controleren. De planning moet uiterlijk om 11.00 gezien zijn**.
 
 ### Schermen: max twee laptops, geen AI (chat-GPT)
@@ -58,7 +64,8 @@ Download de volgende bestanden naar één van jullie laptops. Zorg dat deze in d
 - [het template (een Jupyter notebook)](DEFOntwerpopdrachtAlgoritmeInvulTemplate.ipynb)
 - [een library voor beeldvorming](imagingDEF2024.py)
 
-Run de python cel onder *opdracht 2* in de template om alle benodigde libraries te laden. Mogelijk voeg je er zelf nog een aantal toe later vandaag. Als dit een error geeft, roep dan je TA erbij.
+Run de python cel onder *opdracht 2* in de template om alle benodigde libraries te laden. Mogelijk voeg je er zelf nog een aantal toe later vandaag. 
+Als dit een error geeft, roep dan je TA erbij.
 
 Je hebt een leeg oppervlak van (minstens) 70 cm bij 70 cm nodig. Op de tafels hebben we een assenstelsel aangebracht. Daarnaast heb je nodig:
 
@@ -68,7 +75,7 @@ Je hebt een leeg oppervlak van (minstens) 70 cm bij 70 cm nodig. Op de tafels he
 
 Sluit je Arduino aan volgens deze schakeling, zorg ervoor dat je USB kabel niet in je laptop zit terwijl je de schakeling aansluit!
 
-<img src="schakeling.png" width="2000">
+![Arduino schakeling.](../../figures/FysiekeOpdracht4/schakeling.png)
 
 ### Stap 1: Kalibreren sensor 
 
@@ -104,9 +111,12 @@ Jullie gaan 7 metingen doen om het imaging algoritme te testen.
 Zet het papier met de vouw op (20,20) en met een hoek van 90 graden.
 Zie onderstaande figuur.
  
-<img src="testMeting.png" width="400">
+![Test meting](../../figures/FysiekeOpdracht4/testMeting.png)
  
-Doe metingen met je bron en ontvanger op de volgende posities. Noteer de totaal afgelegde afstand van het geluid zoals je Arduino die meet. Noteer je resultaten in je fysieke notebook. Als je al je metingen hebt vol je deze in bij *opdracht 4* in het template.
+Doe metingen met je bron en ontvanger op de volgende posities. 
+Noteer de totaal afgelegde afstand van het geluid zoals je Arduino die meet. 
+Noteer je resultaten in je fysieke notebook. 
+Als je al je metingen hebt vol je deze in bij *opdracht 4* in de template.
 - bron (0,40), ontvanger (0,30)
 - bron (0,30), ontvanger (0,20)
 - bron (0,10), ontvanger (0,20)
@@ -115,7 +125,7 @@ Doe metingen met je bron en ontvanger op de volgende posities. Noteer de totaal 
 - bron (10,0), ontvanger (20,0)
 - bron (10,0), ontvanger (0,10)
 
-Dit moet nu een uitkomst opleveren dichtbij de verwachte waarden: x0=20 cm y0=20 cm alpha=0 graden, beta=0 graden met kleine std. dev.
+Dit moet nu een uitkomst opleveren dicht bij de verwachte waarden: x0=20 cm y0=20 cm alpha=0 graden, beta=0 graden met kleine std. deviatie.
 
 Laat dit zien aan je TA. **De deadline hiervoor is 12:00. Als het voor die tijd niet gelukt is komen we kijken wat er mis gaat en hoe we jullie kunnen helpen.**
  
@@ -135,7 +145,8 @@ Daarna ga je als 1e iteratie de beste ideeën van de verschillende algoritmes co
 
 ### Synthese
 
-Beschrijf bij *opdracht 5* in de template jullie algoritmes. Voeg foto's van gemaakte schetsen in.
+Beschrijf bij *opdracht 5* in de template jullie algoritmes. 
+Voeg foto's van gemaakte schetsen in.
 
 ### Simulatie 
 
@@ -146,9 +157,13 @@ Kies als groep zelf een combinatie van x0, y0, alpha en beta.
 Zet het reflectie-paper op deze zelf gekozen positie en voer één voor één minimaal twee van de drie algoritmes uit. 
 Dat levert een hele reeks aan meetgegevens op die je bij *opdracht 6* in de template invult.
 
-**Alleen de metingen die een bruikbare waarde opgeven kun je in de data array in de volgende stap toevoegen. De rest van de metingen kan niet gebruikt worden door het imagingDEF programma en moet je dus met een ```#``` commentarieren. **
+**Alleen de metingen die een bruikbare waarde opgeven kun je in de data array in de volgende stap toevoegen. 
+De rest van de metingen kan niet gebruikt worden door het imagingDEF programma en moet je dus met een ```#``` commentariëren.**
 
-Hieronder staat een voorbeeld van hoe dat eruit kan zien voor een groep van drie studenten geboren in de jaren 1980 genaamd "Rolf", "Eric" en "Rutger" (verrassing...). De data in dit voorbeeld is verzonnen. De tweede en zesde meting van Rolf leverde in dit voorbeeld een ongeldige waarde op. Erik had een algoritme waar maar twee metingen uit kwamen (onmogelijk) en Rutger had bij Rolf afgekeken qua algoritme (ook niet slim).
+Hieronder staat een voorbeeld van hoe dat eruit kan zien voor een groep van drie studenten geboren in de jaren 1980 genaamd "Rolf", "Eric" en "Rutger" (verrassing...). 
+De data in dit voorbeeld is verzonnen. 
+De tweede en zesde meting van Rolf leverde in dit voorbeeld een ongeldige waarde op. 
+Erik had een algoritme waar maar twee metingen uit kwamen (onmogelijk) en Rutger had bij Rolf afgekeken qua algoritme (ook niet slim).
 
 ```pyton
 data ={'Rolf' :  pd.DataFrame(columns=["xs", "ys", "xr", "yr", "R"], data=[
@@ -180,27 +195,44 @@ data ={'Rolf' :  pd.DataFrame(columns=["xs", "ys", "xr", "yr", "R"], data=[
 Run de cellen onder *opdracht 7* in de template om de evaluatie uit te kunnen voeren. 
 
 ## Iteratie 1+
+
 ### Synthese
-Maak als groep één nieuwe blokkenschema op A3 van wat je nu als algoritme gaat proberen. Als het kleine wijzigingen zijn ten opzichte van een vorige iteratie, kras dan gewoon in de oude blokkenschema als dat duidelijk blijft. Maak een foto en zet die bij *opdracht 8* van de template. Zorg dat het iteratienummer goed op de foto te zien is.
+
+Maak als groep één nieuwe blokkenschema op A3 van wat je nu als algoritme gaat proberen. 
+Als het kleine wijzigingen zijn ten opzichte van een vorige iteratie, kras dan gewoon in de oude blokkenschema als dat duidelijk blijft.
+Maak een foto en zet die bij *opdracht 8* van de template. Zorg dat het iteratienummer goed op de foto te zien is.
 
 ### Simulatie en evaluatie
-Je gaat nu weer metingen doen om je algoritme te controleren. Kies een nieuwe target plek en hoek waar je het papiertje neerzet. We raden je aan om minstens twee meetseries te doen met verschillende locaties. Deze meetseries kunnen verwerkt worden bij *opdracht 9* in de template.
+
+Je gaat nu weer metingen doen om je algoritme te controleren. 
+Kies een nieuwe target plek en hoek waar je het papiertje neerzet. 
+We raden je aan om minstens twee meetseries te doen met verschillende locaties. 
+Deze meetseries kunnen verwerkt worden bij *opdracht 9* in de template.
 
 ### Decision
-Is je algoritme goed genoeg, of valt er nog wat te verbeteren? Voldoet het aan de eisen (1 cm en 5 graden?). Kan je het aantal benodigde metingen nog omlaag brengen? Als je algoritme nog verbeteringen nodig heeft, kopieer cellen vanaf opdracht 8 en 9. Plaats deze onder opdracht 9 in de template en maak daarin de volgende iteratie. 
+
+Is je algoritme goed genoeg, of valt er nog wat te verbeteren? 
+Voldoet het aan de eisen (1 cm en 5 graden?). 
+Kan je het aantal benodigde metingen nog omlaag brengen? 
+Als je algoritme nog verbeteringen nodig heeft, kopieer cellen vanaf opdracht 8 en 9. 
+Plaats deze onder opdracht 9 in de template en maak daarin de volgende iteratie. 
 
 Is je algoritme klaar dan ga je hieronder door.
 
 ## Algoritme aan TA laten zien
 
-Hierboven heb je als het goed is een aantal keren ge-itereerd.
-**Als je tevreden bent met je algoritme roep je je TA erbij en laat deze meekijken met de laatste versie van je algoritme. Als je TA tevreden is met jullie algoritme krijg je van je TA een locaties voor het papier voor de uiteindelijke test.**
-Doe metingen op deze locatie en voer je algoritme voor de laatste keer uit. Gebruik hier bij *Opdracht 10* in de template.
+Hierboven heb je als het goed is een aantal keren geïtereerd.
+**Als je tevreden bent met je algoritme roep je je TA erbij en laat deze meekijken met de laatste versie van je algoritme. 
+Als je TA tevreden is met jullie algoritme krijg je van je TA een locaties voor het papier voor de uiteindelijke test.**
+Doe metingen op deze locatie en voer je algoritme voor de laatste keer uit.
+Gebruik hier bij *Opdracht 10* in de template.
 
 ## Leerdoel: ontwerpcyclus
 
 Om te laten zien dat je begrepen hebt hoe je vandaag met de ontwerpcyclus om moet gaan, zet je bij *opdracht 11* in de template: onder elkaar alle blokkenschema's van alle versies van je algoritme. 
-Zet ze in de goede volgorde (op tijd). Licht hierbij de gemaakte evaluaties en beslissingen kort toe. Dit, samen met het resultaat dat het gelukt is hierboven, laat zien dat je het leerdoel voor vandaag onder de knie hebt.
+Zet ze in de goede volgorde (op tijd). 
+Licht hierbij de gemaakte evaluaties en beslissingen kort toe. 
+Dit, samen met het resultaat dat het gelukt is hierboven, laat zien dat je het leerdoel voor vandaag onder de knie hebt.
 
 ## Inleveren
 Als je helemaal klaar bent kan je je uiteindelijke versie inleveren.
@@ -211,6 +243,8 @@ Zorg dat alle benodigde bestanden zijn gepusht in GitHub en dat de afbeeldingen 
 Als je helemaal klaar bent kan je de pull request starten.
 
 ## Opruimen en feedback geven
-**Ruim je tafel op en laat de opgeruimde tafel aan je TA zien.** Je mag pas naar huis als je TA heeft afgetekend dat er netjes opgeruimd is. Geef ten slotte elkaar zoals elke week feedback en lever je feedback logboek weer in op Brightspace (dit mag ook op het VvTP plein of elders).
+**Ruim je tafel op en laat de opgeruimde tafel aan je TA zien.** 
+Je mag pas naar huis als je TA heeft afgetekend dat er netjes opgeruimd is. 
+Geef ten slotte elkaar zoals elke week feedback en lever je feedback logboek weer in op Brightspace (dit mag ook op het VvTP plein of elders).
 
    

@@ -40,7 +40,7 @@ Hoe dit moet staat [hier](https://contemporary-physicslab.github.io/thermolab/in
 #### 3 hoofdTA GitHub accounts
 
 - Martijn Sonneveld: MartijnSonneveld
-- Emma Nielen: Enielen
+- Emma Aspeslagh Nielen: Enielen
 - Sjoerd Hoogeman: SHoogeman
 
 Als je het niet zeker weet, dan kan je [hier](https://github.com/orgs/Design-Engineering-voor-Fysici/teams/hoofd-ta/members) de hoofd TA's zien.
@@ -69,4 +69,4 @@ Druk op `Add branch rule`, geef de goede 'Ruleset Name', zet hem op active en ge
 Scroll dan naar beneden en vink aan: 'Require a pull request before merging' en zet Required approvals op 1:
 ![protecting main 3](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protect_main_3.png)
 
-Druk dan op `save changes`!
+Druk dan op `Create`!

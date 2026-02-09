@@ -40,7 +40,7 @@ Hoe dit moet staat [hier](https://contemporary-physicslab.github.io/thermolab/in
 #### 3 hoofdTA GitHub accounts
 
 - Martijn Sonneveld: MartijnSonneveld
-- Emma Nielen: Enielen
+- Emma Aspeslagh Nielen: Enielen
 - Sjoerd Hoogeman: SHoogeman
 
 Als je het niet zeker weet, dan kan je [hier](https://github.com/orgs/Design-Engineering-voor-Fysici/teams/hoofd-ta/members) de hoofd TA's zien.

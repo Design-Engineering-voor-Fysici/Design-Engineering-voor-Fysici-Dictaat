@@ -69,4 +69,4 @@ Druk op `Add branch rule`, geef de goede 'Ruleset Name', zet hem op active en ge
 Scroll dan naar beneden en vink aan: 'Require a pull request before merging' en zet Required approvals op 1:
 ![protecting main 3](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protect_main_3.png)
 
-Druk dan op `save changes`!
+Druk dan op `Create`!

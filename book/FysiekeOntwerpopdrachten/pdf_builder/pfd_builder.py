@@ -16,7 +16,7 @@ for md in markdown_files:
                               '-V', 'geometry:margin=2cm',
                               '-V', 'fontsize=12pt',
                               '-V', 'mainfont=Arial',
-                              '-V', 'pdf-engine=xelatex'
+                              '--pdf-engine=xelatex'
 
                           ])
 

@@ -39,10 +39,10 @@ parts:
     - file: FysiekeOntwerpopdrachten/3OntwerpEenTransistor/DEFOntwerpopdracht3OntwerpEenTransistor.md
     - file: FysiekeOntwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdracht4Algoritme.md
       sections:
-      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdrachtAlgoritmeInvulTemplate.ipynb
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/4OntwerpEenAlgoritmeEchoAkoestisch/DEFOntwerpopdracht4AlgoritmeInvulTemplate.ipynb
     - file: FysiekeOntwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpOpdracht5Trillingsvrij.md
       sections:
-      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/5MaakEenOpstellingTrillingsvrij/OntwerpopdrachtMaakEenOpstellingTrillingsvrijInvulTemplate.ipynb
+      - external: https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D/blob/main/FysiekeOntwerpopdrachten/5MaakEenOpstellingTrillingsvrij/Ontwerpopdracht5MaakEenOpstellingTrillingsvrijInvulTemplate.ipynb
     - file: FysiekeOntwerpopdrachten/6MaakEenMicroscoop/DEFOntwerpOpdracht6Microscoop.md
 
   - caption: Digitale Ontwerpopdrachten

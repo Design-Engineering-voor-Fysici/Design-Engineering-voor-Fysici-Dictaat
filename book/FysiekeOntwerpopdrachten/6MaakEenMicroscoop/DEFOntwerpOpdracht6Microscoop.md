@@ -33,7 +33,7 @@ Daarnaast moet je documentatie natuurlijk in orde zijn.
 - Documentatie: Hebben jullie je proces van de dag gedocumenteerd en daarbij de regels die je over documenteren bij het practicum geleerd hebt toegepast?
 
 
-## Inleveren.
+## Inleveren
 
 Uiteindelijk maken jullie op deze manier een heel "labjournaal" van jullie ontwerp. 
 Aan het einde van de dag, leveren jullie in:

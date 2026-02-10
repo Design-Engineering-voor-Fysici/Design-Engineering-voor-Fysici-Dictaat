@@ -17,16 +17,21 @@ Dit zal voor de meeste op de kickoff dag gebeuren.
 
 We beginnen op de [DEF-D opdracht repo](https://github.com/Design-Engineering-voor-Fysici/opdrachten-DEF-D), deze gaan jullie *forken*.
 *Forken* staat rechtsbovenin aangegeven:
-![fork_image](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main/figures/git/1_1_start_fork.png)
+
+![*Fork*: waar doe je dat.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main/figures/git/1_1_start_fork.png)
+
 Klik op `Fork` dan kom je hier.
-![gaan_forken](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/1_2_create_fork.png)
+
+![De *fork* starten](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/1_2_create_fork.png)
+
 Let op dat je **alleen** de main *branch* *forked* naar jouw account, verzin een *repo* naam en `Create fork`, ik hou de naam hetzelfde: 'opdrachten-DEF-D'.
 
 Nice, je hebt nu de DEF *repo* op je eigen account!
 Het zou er nu zo uit moeten zien, dan kan je door naar het volgende onderdeel.
-![forken_gelukt](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/1_3_forken_succeeded.png)
 
-Dit is een andere manier om de *repo* te *clonen* van wat je [eerder hebt geleerd](https://contemporary-physicslab.github.io/thermolab/intro-1/).
+![*Forken* is gelukt.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/1_3_forken_succeeded.png)
+
+Dit is een andere manier om de *repo* te *clonen* van wat je [eerder hebt geleerd bij IP](https://contemporary-physicslab.github.io/thermolab/intro-1/).
 
 **LEAVE NOOIT DE FORK**
 
@@ -34,7 +39,7 @@ Dit is een andere manier om de *repo* te *clonen* van wat je [eerder hebt geleer
 
 Nodig nu je groepsgenoot uit voor jouw *repo*, of accepteer die van je groepsgenoot, mits dit nodig is.
 **Nodig ook de 3 hoofdTA's uit**, dit is belangrijk voor nakijken later!
-Hoe dit moet staat [hier](https://contemporary-physicslab.github.io/thermolab/intro-1/#je-partner-s-uitnodigen)
+Hoe dit moet staat [hier](https://contemporary-physicslab.github.io/thermolab/intro-1/#je-partner-s-uitnodigen), bij `settings` zie je een tab *collaborators*.
 
 
 #### 3 hoofdTA GitHub accounts
@@ -50,7 +55,9 @@ Als je het niet zeker weet, dan kan je [hier](https://github.com/orgs/Design-Eng
 
 We hebben een aantal GitHub *actions* gemaakt die jullie gaan helpen: automatische checks. 
 Deze moet je wel even aanzetten op je eigen Github page, zie dit screenshot:
-![actions](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/1_4_actions.png)
+
+![GitHub actions.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/1_4_actions.png)
+
 En enable de workflows.
 
 ### Protecting main
@@ -61,12 +68,15 @@ Ook helpt het om kleine foutjes te spotten die jou zijn ontgaan.
 
 Dit zorgt er ook voor dat je met *branches* moet werken!
 Hiervoor gaan we op de GitHub page naar `settings --> branches --> Add branch rule`.
-![protecting main 1](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protect_main_1.png)
+
+![Start van: protecting main.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protect_main_1.png)
 
 Druk op `Add branch rule`, geef de goede 'Ruleset Name', zet hem op active en geef de juiste branch targeting criteria, zet deze op default:
-![protecting main 2](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protect_main_2.png)
+
+![Protecting main aanmaken.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protect_main_2.png)
 
 Scroll dan naar beneden en vink aan: 'Require a pull request before merging' en zet Required approvals op 1:
-![protecting main 3](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protect_main_3.png)
+
+![Protecting main settings.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/protect_main_3.png)
 
 Druk dan op `Create`!

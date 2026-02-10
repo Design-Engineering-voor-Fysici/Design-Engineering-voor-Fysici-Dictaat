@@ -13,11 +13,22 @@ Dit moet zodat alles goed staat en plaatjes goed inladen!
 
 Ik heb hier de kickoff opdracht gedaan:
 
-1. *stage* mijn verandering, dus eerst de vernieuwde notebook: ![stage](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_1_staging.png)
-2. Dan stage ik ook de foto en dan schrijf ik de *commit message*: ![commit](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_2_commit.png)
+1. *stage* mijn verandering, dus eerst de vernieuwde notebook: 
+
+![Geüpdate files stagen.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_1_staging.png)
+
+2. Dan stage ik ook de foto en dan schrijf ik de *commit message*: 
+
+![Geüpdate files comitten.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_2_commit.png)
+
    - Hoe je dit deed staat [hier](https://teachbooks.io/learn-programming/workflows/git/commits_local#a-closer-look-at-our-commits).
-3. Dan *sync (push)* ik mijn VSCode naar GitHub: ![sync](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_4_syncing.png)
-4. Dat ziet er nu zo uit: ![github gepusht](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_3_gepusht.png)
+3. Dan *sync (push)* ik mijn VSCode naar GitHub: 
+
+![Geüpdate files pushen/syncen.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_4_syncing.png)
+
+4. Dat ziet er nu zo uit: 
+
+![Files zijn gepusht: GitHub ziet er nu zo uit.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/3_3_gepusht.png)
 
 
 ### Terminal (optioneel)

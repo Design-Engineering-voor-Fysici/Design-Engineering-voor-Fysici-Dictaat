@@ -19,35 +19,67 @@ Op Brightspace houden we uiteindelijk bij of de opdracht namelijk succesvol is a
 
 Nu alles is gesynct op mijn GitHub account ga ik een *pull request* doen van mijn `opdracht` branch naar `main`.
 
-1. Ik klik op 'Compare & pull request': ![pr](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_1_compare.png)
-2. Nu zijn we in het *pull request* menu: ![pr menu](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_2_in_pr.png)
-3. We moeten zorgen dat we niet een *PR* openen naar de DEF-D opdrachten *repo*, maar naar jouw eigen `main` *branch*, dit doe je hier: ![change_base](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_3_verander_base_repo.png)
+1. Ik klik op 'Compare & pull request': 
+
+![Pull request starten.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_1_compare.png)
+
+2. Nu zijn we in het *pull request* menu: 
+
+![Pull request menu.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_2_in_pr.png)
+
+3. We moeten zorgen dat we niet een *PR* openen naar de DEF-D opdrachten *repo*, maar naar jouw eigen `main` *branch*, dit doe je hier: 
+
+![Base veranderen naar jouw eigen `main` branch.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_3_verander_base_repo.png)
+
 4. Bij *reviewers* moet je jouw nakijker toevoegen, in mijn geval is dit hoofdTA: MartijnSonneveld.
    - Je hoort op de dag zelf wie jouw nakijker is.
 5. Zet nu de link van jouw *PR* op de juiste plek in Brightspace.
     - Voor DEF-D moet je meestal zodra je je *pull request* hebt aangemaakt dit op Brightspace melden in een assignment. Dat is belangrijk om voor je DEF-D onderwijs je punten te krijgen. Dat doe je door de URL/link te kopieren. Dus de link van de pagina van je *PR* to kopiëren en die te plakken in de juiste assignment op Brightspace.
-6. Martijn heeft nagekeken en was niet tevreden: ![niet goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_4_review_niet_geaccepteerd.png)
-7. Ik maak veranderingen en commit en push die, daarna kan ik nog een review aanvragen van Martijn: ![nieuwe review](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_5_rerequest_review.png)
-8. Deze keer vond Martijn het goed! ![feedback goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_6_feedback_verwerkt.png) Nu willen we mergen met de `main` *branch*, *squash & merge* om precies te zijn!
+6. Martijn heeft nagekeken en was niet tevreden: 
+
+![Feedback: niet goed genoeg.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_4_review_niet_geaccepteerd.png)
+
+7. Ik maak veranderingen en commit en push die, daarna kan ik nog een review aanvragen van Martijn: 
+
+![Nieuwe review aanmaken.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_5_rerequest_review.png)
+
+8. Deze keer vond Martijn het goed!
+
+![Feedback: goed gekeurd.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_6_feedback_verwerkt.png) 
+
+Nu willen we mergen met de `main` *branch*, *squash & merge* om precies te zijn!
     
 Nu het is goedgekeurd door de TA en zal hij zorgen dat alles op jullie `main` *branch* komt!
 Dit doet hij door deze stappen te volgen:
-- ![merge](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_7_merge.png)
-- ![squashmerge](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_8_squash_merge.png)
-- Dan deleten we de branch: ![delete](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_9_delete_branch.png)
+
+- ![Branches mergen.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_7_merge.png)
+
+- ![Squash mergen selecteren.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_8_squash_merge.png)
+
+- Dan deleten we de *branch*: 
+
+![De branch verwijderen.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_9_delete_branch.png)
  
 ### Automatische Checks
 
 Wij hebben een paar automatische checks toegevoegd, de TA's kijken pas na als al die checks zijn goed gegaan.
 Vraag dus ook pas voor een review als de checks goed zijn gekeurd. 
 Als de checks niet goed zijn, lees goed wat er mis is, pas dat aan in je opdracht, *commit & push* opnieuw, dan gaan de checks opnieuw kijken of het nu wel in orde is.
-- ![check niet goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/automatische_check_niet_blij.png)
-- ![check goed](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/automatische_check_wel_blij.png)
+
+![Checks zijn niet goed.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/automatische_check_niet_blij.png)
+
+![De checks zijn goed.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/automatische_check_wel_blij.png)
 
 ### Deel je werk met je groepsgenoot
 
-Als je je werk wilt delen met je groepsgenoten, zodat hun *repo* ook geupdate is met jullie opdracht, kan dit ook via een *PR*.
+Als je je werk wilt delen met je groepsgenoten, zodat hun *repo* ook geüpdate is met jullie opdracht, kan dit ook via een *PR*.
 Maak dus nog een *PR* aan vanuit jouw *branch* waar je in hebt gewerkt, naar de `main` branch van de forks van je groepsgenoten.
-1. Maak dus nog een *PR* aan en kies hier je groepsgenoten: ![werk delen](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_10_deel_met_medestudenten.png)
-2. Mijn groepsgenoot is Danielle, ik push mijn `opdracht` *branch* naar haar `main` *branch*: ![pr medestudent](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_11_pr_groepsgenoot.png)
-3. Zij moet dan ook de reviewer zijn en de *PR* pas accepteren als de TA de normale *PR* heeft goedgekeurd.
+1. Maak dus nog een *PR* aan en kies hier je groepsgenoten: 
+
+![Werk delen met je groepsgenoot.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_10_deel_met_medestudenten.png)
+
+2. Mijn groepsgenoot is Danielle, ik push mijn `opdracht` *branch* naar haar `main` *branch*: 
+
+![Pull request naar je medestudent.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/6_11_pr_groepsgenoot.png)
+
+3. Zij moet dan ook de reviewer zijn, samen met de hoofdTA, en de *PR* pas accepteren als de TA de normale *PR* heeft goedgekeurd.

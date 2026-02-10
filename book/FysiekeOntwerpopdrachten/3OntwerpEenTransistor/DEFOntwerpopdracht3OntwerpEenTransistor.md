@@ -61,7 +61,7 @@ where $R$ is the resistance, $\rho_{s}$ is the specific resistance which depends
 On our chip, how deep the $Si$ is doped and with how many doped atoms per volume is determined by the factory. This means that for the resistor on the chip, the factory controls $\rho_{s}$ and $d$. 
 As a designer, you can control the length and the width. Separating what we control:
 
-$R_{Chip} = \frac{l}{b}\frac{\rho_{s}}{d}$
+$$R_{Chip} = \frac{l}{b}\frac{\rho_{s}}{d}$$
 
 The part we don't control we call $R_{S}$ and is provided by the factory. The SN in our process has a typical $R_S$ of $60$ $\Omega$.
 
@@ -106,7 +106,9 @@ While in the linear regime (relevant for analog assignment below):
 
 $$R_{Transistor} = \frac{1}{\mu_n C_{ox} \frac{W}{L} V_{DS}} = \frac{L}{\mu_n C_{ox} W V_{DS}}$$ 
 
-Where $\mu_n$ is the mobility of electrons in $Si$ (596 $cm^2 \text{/} Vs$ in our model), $C_{ox}$ the capacitance per unit area of the 100 nm thick gate-oxide, and $V_{Th}$ the threshold voltage ($1.1 \pm 0.1$ V). These are process-depended and cannot be controlled by the designer (which is you in this assignment). Only the W and L can be changed, within the specifications of the design rules as mentioned in the KLayout manual. In the digital assignment the relevant $V_{GS}$ are 0V and 5V, in the analog assignment you can assume VDS is typically between 2-3 V with an uncertainty of about 1 mV
+Where $\mu_n$ is the mobility of electrons in $Si$ (596 $cm^2 \text{/} Vs$ in our model), $C_{ox}$ the capacitance per unit area of the 100 nm thick gate-oxide, and $V_{Th}$ the threshold voltage ($1.1 \pm 0.1$ V). These are process-depended and cannot be controlled by the designer (which is you in this assignment). 
+Only the W and L can be changed, within the specifications of the design rules as mentioned in the KLayout manual. 
+In the digital assignment the relevant $V_{GS}$ are 0V and 5V, in the analog assignment you can assume $V_{DS}$ is typically between 2-3 V with an uncertainty of about 1 mV
 
 The transistor as you will see it in KLayout is shown in the following figure, in which the length (L) and width (W) are indicated. 
 Note that the L is the distance between the two implanted SN regions and not the width of the gate for our process! 
@@ -137,7 +139,7 @@ First, you will simulate the design you chose in LTSpice, after this, you will t
 
 Read the two assignments below. As a team, choose which one you want to work on today. 
 
-### Assignment option 1: digital inverter
+### Assignment option 1: Digital inverter
 
 A digital inverter gives a high output when the input is low, and vice versa, and is the basic building block of any digital circuit.
 Here the transistor acts like a switch with a finite on-resistance. 
@@ -148,7 +150,7 @@ This means that when 0 V is supplied to the gate the output should be close to 5
 
 *When you get your own chip, you will have to show that this works!*
 
-### Assignment option 2: audio amplifier
+### Assignment option 2: Audio amplifier
 
 The circuit can also be used as an audio amplifier, for instance, to amplify the signal coming from a microphone. 
 In this case, a small changing voltage is supplied to the gate, which is amplified at the output. 
@@ -160,8 +162,9 @@ The goal is to design an amplifier which can amplify a sine input by at least a 
 
 Make your choice of assignment and let your TA know your choice. You will get a form from your TA based on your choice.
 
-## Part one: simulations
-### Warm-up: contact pad capacitance
+## Part one: Simulations
+
+### Warm-up: Contact pad capacitance
 In both versions of the assignment (described below) you will have to consider that the 1 by 1 mm contact pads on your chip will have a capacitance that is not neglectable. 
 Remember the assignment from last week and realize that the contact pads together with the grounded bottom of the chip can be considered as 1 by 1 mm plate capacitors with 100 nm silicon dioxide as isolating material. 
 Calculate what the capacitance of the contact pads is. 
@@ -207,21 +210,21 @@ Do not change the values without thinking: use your problem -> cause -> solution
 
 Once you have this working you should try to improve the performance of your chip using the below steps, which differ per assignment:
 
-#### improvements assignment 1: digital inverter
+#### improvements assignment 1: Digital inverter
 
 1. The power consumption when the transistor is on can be quite high. This is undesired behavior and can be reduced by optimizing the W/L and $R_{Chip}$ values. Add the power dissipated by $R_{Chip}$ (remember, $P = U \cdot I$) to the simulation window and try to reduce the power consumption in the on-state ($V_{in}$ = 5 V) to below 2.0 mW without sacrificing the previous specification. The maximum allowed dissipation is 3.0 mW.
 2. Optional (if time permits): Digital circuits are fast! Try to determine the maximum frequency your circuit can operate at while still coming within 500 mV of the desired value at the end of the pulse. Can you improve your circuit to increase this maximum frequency? What happens to your power consumption? 
 3. The dimensions on the chip can vary due to fluctuations in the exposure energy or resist thickness as you have calculated above. Before moving on to drawing the lay-out it is good practice to check the tolerances of your circuit. Simulate the impact of these variations on your circuit. If the factory reaches the edges of the specified variations, will your circuit still satisfy the criteria of the design?
 
 
-#### improvements assignment 2: analog amplifier
+#### improvements assignment 2: Analog amplifier
 
 1. Optimize the system such that it is also a good (at least 4 x) amplifier for higher frequencies. Try to get the biggest spread (ie. bandwidth) of frequencies for which your amplifier works. Ideally at least 4x gain at 20 kHz for audio, but see if you can get it as high as 100 kHz. 
 2. Optional (only if time permits) Explore for which amplitudes of the sine at the input the amplifier still gives a correct output, that is no distortion takes place. To analyze distortion, you can use the Fourier transform in the simulator: right-click the plot – View and select FFT. Now select the input and output signal. For an undistorted signal you should only see a peak at 1 kHz, once the signal starts to be deformed by the circuit additional peaks at higher frequencies will appear. Try to obtain a circuit which can at least process a sine with 0.2 V as amplitude for Vin with less than -20 dB distortion (= difference in dB between the fundamental frequency of 1 kHz and its first harmonic).
 
 *You have to write down details from your LTSpice simulation, including some graphs, on your sheet and show this to your TA before moving on the phase two: Layout.*
 
-## Phase two: lay-out
+## Phase two: Lay-out
 
 Now that you obtained an integrated circuit that meets the specification it is time to translate this into a physical lay-out. 
 For this KLayout will be used. First do the following steps:

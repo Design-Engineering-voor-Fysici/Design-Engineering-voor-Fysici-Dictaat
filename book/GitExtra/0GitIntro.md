@@ -4,7 +4,7 @@ Voor DEF-D gaan we iets verder in op werken met *Git*.
 We gaan nu echt werken met *version control*; dit betekent dat er een aantal nieuwe dingen geleerd moeten worden!
 Namelijk:
 - Een *repository forken*
-- *Branch* aanmaken
+- *Branches* aanmaken
 - *Collaborators* toevoegen
 - *Committen* en *pushen*
 - *Branches* *mergen*: *pull requests*

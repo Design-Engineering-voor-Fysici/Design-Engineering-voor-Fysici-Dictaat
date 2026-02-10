@@ -66,7 +66,7 @@ Om zeker te weten dat al je apparatuur werkt, doe je eerst een paar controles.
 Op Brightspace staat een powerpoint met een handleiding voor deze drie sanity checks. 
 Deze handleiding ligt ook geprint op tafel.
     
-### Sanity check 1: apparatuur in orde? 
+### Sanity check 1: Apparatuur in orde? 
 
 Sluit de functiegenerator aan op de scope. 
 Zie slides 1 tot en met 6 van de handleiding. 
@@ -75,7 +75,7 @@ Let op de assen, klopt het echt?
 
 **Laat dit zien aan je TA die tekent dit af.**
     
-### Sanity check 2: bekende condensator meten 
+### Sanity check 2: Bekende condensator meten 
 
 Je gaat berekenen wat de capaciteit van je referentie-condensator is. Gebruik hierbij het volgende
     

@@ -43,7 +43,7 @@ Maak nu samen een planning waarin je aangeeft
 Vul de planning tabel in bij *opdracht 1* in de template. 
 **Laat de planning aan je TA zien om deze te controleren. De planning moet uiterlijk om 11.00 gezien zijn**.
 
-### Schermen: max twee laptops, geen AI (chat-GPT)
+### Schermen: Max twee laptops, geen AI (chat-GPT)
 
 Vandaag werk je op als team van drie met twee laptops en één fysiek notebook. 
 
@@ -165,7 +165,7 @@ De data in dit voorbeeld is verzonnen.
 De tweede en zesde meting van Rolf leverde in dit voorbeeld een ongeldige waarde op. 
 Erik had een algoritme waar maar twee metingen uit kwamen (onmogelijk) en Rutger had bij Rolf afgekeken qua algoritme (ook niet slim).
 
-```pyton
+```python
 data ={'Rolf' :  pd.DataFrame(columns=["xs", "ys", "xr", "yr", "R"], data=[
     [0,40,0,30,81.0],
     # [0,30,0,20,ongeldig],
@@ -227,7 +227,7 @@ Als je TA tevreden is met jullie algoritme krijg je van je TA een locaties voor 
 Doe metingen op deze locatie en voer je algoritme voor de laatste keer uit.
 Gebruik hier bij *Opdracht 10* in de template.
 
-## Leerdoel: ontwerpcyclus
+## Leerdoel: Ontwerpcyclus
 
 Om te laten zien dat je begrepen hebt hoe je vandaag met de ontwerpcyclus om moet gaan, zet je bij *opdracht 11* in de template: onder elkaar alle blokkenschema's van alle versies van je algoritme. 
 Zet ze in de goede volgorde (op tijd). 

@@ -7,12 +7,12 @@ De leerdoelen voor vandaag zijn:
 
 Om die leerdoelen onder de knie te krijgen gaan jullie een opstelling maken die in staat is om een gevoelige meetopstelling te isoleren van trillingen van de buitenwereld. Je gaat dat doen door parametrisch te ontwerpen: we reduceren het ontwerpprobleem tot een gering aantal fysische parameters die we kunnen controleren. Dit notebook helpt je daar stap voor stap doorheen. Je moet meerdere dingen inleveren:
 
-##### voor de lunch (sanity checks, aan je TA laten zien):
+##### Voor de lunch (sanity checks, aan je TA laten zien):
 
 - een berekende grafiek die je bij je ontwerp nodig hebt (zie onder)
 - laat zien dat je de Arduino werkend aangesloten hebt.
 
-##### voor einde van de dag (ontwerpopdracht)
+##### Voor einde van de dag (ontwerpopdracht)
 
 - Het invul-notebook. Maak een nieuwe branch aan voor deze opdracht. Daarin vind je het invul-notebook. Open dat op één laptop.
 - Een video bestand (liefst gif!) met een video die laat zien dat je opstelling 'werkt', op Brightspace
@@ -53,13 +53,13 @@ Dat is prima, zolang je ons maar laat zien welke ontwerpstappen je genomen hebt.
 Dus niet het notebook aan het einde van de rit invullen, maar gedurende het ontwerpen en maken continue invullen en aanpassen waar nodig. 
 Succes!
 
-## Opsplitsen: twee taken
+## Opsplitsen: Twee taken
 
 Als voorbereiding ga je opsplitsen: één teamlid doet taak 1. 
 Twee teamleden doen taak 2. 
 Zodra je daarmee klaar bent heb je groepsoverleg waar je belangrijke beslissingen samen neemt. 
 
-### Taak 1: sanity check Arduino & Processing software
+### Taak 1: Sanity check Arduino & Processing software
 
 Bekijk dit filmpje: [https://www.youtube.com/watch?v=VqTxH3CenRw](https://www.youtube.com/watch?v=VqTxH3CenRw) (link ook op Brightspace) waarin de docent uitlegt hoe je twee acceleratiemeters aansluit op je Arduino en een meting doet. 
 **De docent zegt hierin dat je een video moet maken, dat hoeft niet meer. 
@@ -70,7 +70,7 @@ Aan het einde van de dag maak je wel een video van je totale opstelling** Aan he
 - hoe lang je verwacht dat het duurt om één meting te doen.
 - welke nauwkeurigheid je verwacht te kunnen halen.
 
-### Taak 2: ontwerp-eis omrekenen naar parameters
+### Taak 2: Ontwerp-eis omrekenen naar parameters
 
 De tweede en derde student gaan Het onderstaande tot 'Groepsoverleg' uitwerken bij *opdracht 2b* in de template.
 
@@ -155,7 +155,7 @@ Bevestig zo snel en makkelijk mogelijk je massa aan je veer / verend materiaal.
 Dit moet niet meer dan 5 minuten duren.** Wordt de veer met minimaal $\Delta x$ ingeduwd of uitgerekt? 
 **Laat dit aan je TA zien** voordat je verder gaat met je hele opstelling bouwen!"
 
-## Evaluatie en Beslissing
+## Evaluatie en beslissing
 Vul de evaluatie en beslissing in bij opdracht 6 in de template.
 
 ## Fabricage
@@ -167,7 +167,7 @@ Maak nu het massa-veer systeem dat je ontworpen had.
 
 Nu gaan jullie meten of het daadwerkelijk gelukt is de amplitude-overdracht die geëist is te behalen.
 
-#### extra sanity check
+#### Extra sanity check
 
 De metingen kunnen best tijdrovend zijn. 
 Als sanity-check: til je massa op (of duw hem omhoog) totdat je veer / verend materiaal niet meer onder spanning staat. 
@@ -191,7 +191,7 @@ Zorg er altijd voor dat je zowel lager, als hoger, dan je kantelfrequentie minim
 
 In het college en in de videos is uitgelegd hoe je metingen kan doen met je Arduino en de amplitude overdracht kan bepalen. 
 
-#### filmpje resultaat
+#### Filmpje resultaat
 
 Je moet een filmpje maken van je opstelling en je meting op je scherm. 
 Doe dit bij een frequentie die hoger (sneller) is dan de eis, of bij een lagere frequentie waarbij je de factor van 3 in amplitude afname al haalt. 

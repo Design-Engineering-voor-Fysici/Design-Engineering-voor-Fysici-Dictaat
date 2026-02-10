@@ -85,7 +85,7 @@ Als je niet voor 12.00 iets laat zien komen we bij jullie groep langs om te vrag
 Je gaat een kalibratieopstelling ontwerpen en bouwen om je sensor mee te evalueren. 
 Het ontwerpen van je opstelling is een aparte ontwerp ronde binnen deze evaluatie stap! 
 
-### sub-ontwerpstap: Synthese
+### Sub-ontwerpstap: Synthese
 
 Welk experiment wil je gaan doen om jouw sensor te evalueren? 
 Schets hieronder de meetopstelling die je voor ogen hebt. 
@@ -96,7 +96,7 @@ Jouw schets hoeft niet mooi te zijn, maar moet wel duidelijk zijn.
 Geef waar nodig aan met labels wat je bedoelt. 
 Maak een foto van je schets en zet die bij *Opdracht 3* in het invul template. 
 
-### sub-ontwerpstap: Evaluatie
+### Sub-ontwerpstap: Evaluatie
 
 In deze stap bepaal je of jouw opstelling in staat gaat zijn om de evaluatie uit te voeren. Beantwoord de volgende vragen:
 
@@ -109,7 +109,7 @@ In deze stap bepaal je of jouw opstelling in staat gaat zijn om de evaluatie uit
 Als je bij vraag 5 nee antwoord, ga dan terug naar sub-ontwerpstap: Synthese hierboven en pas jouw ontwerp aan. 
 Als het antwoord ja is, vul je antwoorden dan in bij *Opdracht 4* van het template en **laat dit dan aan je TA zien voordat je verder gaat.**
 
-### sub-ontwerpstap: simulatie: bouwen en meten
+### Sub-ontwerpstap: Simulatie: Bouwen en meten
 
 - Bouw de kalibratieopstelling.
 - doe je kalibratie metingen (noteer op papier!)
@@ -121,7 +121,7 @@ Als het antwoord ja is, vul je antwoorden dan in bij *Opdracht 4* van het templa
 - Ga daarna door met het meetplan uitvoeren.
 - Maak een foto van de opstelling. Zet deze foto bij *Opdracht 5* van het invul template
 
-### sub-ontwerpstap: simulatie
+### Sub-ontwerpstap: Simulatie
 
 bij *Opdracht 6* van het invul template staan Python cellen waar je zelf code kan schrijven. 
 
@@ -129,7 +129,7 @@ bij *Opdracht 6* van het invul template staan Python cellen waar je zelf code ka
 - maak een grafiek zoals je geleerd hebt bij het practicum.
 - Voeg een fit-lijn aan je grafiek toe. Denk goed na over de vorm van deze lijn!
 
-### sub-ontwerpstap: iteratie nodig?
+### Sub-ontwerpstap: Iteratie nodig?
 
 Op dit punt moet je beslissen: hebben we genoeg gegevens om een conclusie te trekken: is deze sensor geschikt voor de door ons gekozen toepassingen? 
 Overleg dit met jouw groep. 
@@ -140,7 +140,7 @@ Dat is prima en hoort bij ontwerpen.
 
 Als je niet gaat itereren, meld dat dan bij *Opdracht 7*
 
-### sub-ontwerpstap: Conclusie
+### Sub-ontwerpstap: Conclusie
 
 Op basis van jouw metingen zou je een conclusie moeten kunnen trekken over de bruikbaarheid van jouw sensor voor de gekozen toepassing. 
 Schrijf bij *Opdracht 8* jouw conclusie.

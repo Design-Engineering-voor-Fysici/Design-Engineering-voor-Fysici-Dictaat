@@ -12,8 +12,6 @@ Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: o
 Als je groep om 11.00 niet compleet is, trek dan aan de bel door je TA erbij te roepen. 
 Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
 
-
-
 ## Zelf ontwerp proces inrichten
 
 In tegenstelling tot de andere ontwerpopdrachten, wordt deze zesde opdracht volledig analoog uitgevoerd. 

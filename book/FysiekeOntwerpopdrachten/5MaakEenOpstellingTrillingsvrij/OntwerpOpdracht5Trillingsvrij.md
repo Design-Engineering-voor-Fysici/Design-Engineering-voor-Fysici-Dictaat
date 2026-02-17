@@ -45,8 +45,8 @@ Maak nu samen een planning waarin je aangeeft:
 - Op welke tijden je als team pauzes neemt. Continu werken is niet effectief.
 
 Vul bij *opdracht 1* in de template de tabel in (en eventueel aan als je meer regels nodig hebt). 
-**Laat de planning aan je TA zien.**
-De planning moet uiterlijk om **11.00** gezien zijn.
+Doe vervolgens alvast een commit & push naar de goede branch in GitHub en maak alvast de pull request aan.
+**Laat je planning en de PR aan je TA zien.** De planning moet uiterlijk om **11.15** klaar zijn.
 
 Jullie keuzes in de ontwerpcyclus kunnen betekenen dat je in het template zelf cellen toevoegt of verwijdert aan de template.
 Dat is prima, zolang je ons maar laat zien welke ontwerpstappen je genomen hebt. 

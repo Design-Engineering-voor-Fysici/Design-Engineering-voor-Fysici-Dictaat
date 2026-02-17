@@ -14,7 +14,8 @@ De leerdoelen van vandaag zijn:
 - De ontwerpcyclus optimaal inrichten op de randvoorwaarden van de ontwerpopdracht.
 
 Aan het einde van de dag laat je zien dat je dit leerdoel onder de knie hebt door relevant zaken aan te leveren. 
-Je hebt als het goed is allemaal de github repo geforked van het vak. 
+Je hebt als het goed is allemaal de github repo geforked van het vak.
+Je gaat op één laptop werken met zijn drieën, werk dus op de repo van de persoon waar de laptop ook van is.
 Maak een nieuwe branch aan voor deze opdracht. 
 Daarin vind je het invul-notebook. Open dat op één laptop.
 
@@ -41,7 +42,8 @@ Maak nu samen een planning waarin je aangeeft
 - Op welke tijden je als team niet met de opdracht bezig gaat zijn (je pauzes, plan deze in! continue werken is niet effectief)
 
 Vul de planning tabel in bij *opdracht 1* in de template. 
-**Laat de planning aan je TA zien om deze te controleren. De planning moet uiterlijk om 11.00 gezien zijn**.
+Doe vervolgens alvast een commit & push naar de goede branch in GitHub en maak alvast de pull request aan.
+**Laat je planning en de PR aan je TA zien.** De planning moet uiterlijk om **11.15** klaar zijn.
 
 ### Schermen: Max twee laptops, geen AI (chat-GPT)
 

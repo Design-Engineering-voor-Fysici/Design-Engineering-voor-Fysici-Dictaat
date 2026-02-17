@@ -14,7 +14,8 @@ De leerdoelen van vandaag zijn:
 - De ontwerpcyclus optimaal inrichten op de randvoorwaarden van de ontwerpopdracht.
 
 Aan het einde van de dag laat je zien dat je dit leerdoel onder de knie hebt door relevant zaken aan te leveren. 
-Je hebt als het goed is allemaal de github repo geforked van het vak. 
+Je hebt als het goed is allemaal de github repo geforked van het vak.
+Je gaat op één laptop werken met zijn drieën, werk dus op de repo van de persoon waar de laptop ook van is.
 Maak een nieuwe branch aan voor deze opdracht. 
 Daarin vind je het invul-notebook. Open dat op één laptop.
 

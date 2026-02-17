@@ -11,7 +11,10 @@ Aan het einde van de dag moet je een (filmpje van een) werkende sensor laten zie
 Deze opdracht doe je in groepen van 3 studenten. 
 Je kan jouw groepsnummer en jouw medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 2: ontwerp een sensor. 
 Als eerste moet je je voorstellen aan jouw teamgenoten en zeker weten dat je met de juiste studenten aan de juiste tafel zit. 
-Je hebt als het goed is allemaal de github repo geforked van het vak. Maak een nieuwe branch aan voor deze opdracht. Daarin vind je het invul-notebook. Open dat op één laptop.
+Je hebt als het goed is allemaal de github repo geforked van het vak. 
+Je gaat op één laptop werken met zijn drieën, werk dus op de repo van de persoon waar de laptop ook van is.
+Maak een nieuwe branch aan voor deze opdracht. 
+Daarin vind je het invul-notebook. Open dat op één laptop.
 Als je groep om 11:00 niet compleet is, zet je stoplicht op rood. 
 Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
 

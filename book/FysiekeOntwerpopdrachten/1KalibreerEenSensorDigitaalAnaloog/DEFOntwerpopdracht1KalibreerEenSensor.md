@@ -17,7 +17,8 @@ De leerdoelen voor vandaag zijn (deze lijst komt uit de studiehandleiding):
 Deze opdracht doe je in groepen van 3 studenten. 
 Je kan je groepsnummer en je medestudenten vinden op Brightspace onder Groups: ontwerpopdracht 1: Kalibreer een sensor. 
 Allereerst moet je aan de juiste tafel zitten: check of je met de juiste teamgenoten aan tafel zit! 
-Je hebt als het goed is allemaal de github repo geforked van het vak. 
+Je hebt als het goed is allemaal de github repo geforked van het vak.
+Je gaat op één laptop werken met zijn drieën, werk dus op de repo van de persoon waar de laptop ook van is.
 Maak een nieuwe branch aan voor deze opdracht.
 Daarin vind je het invul-notebook. Open dat op één laptop. 
 
@@ -25,7 +26,6 @@ Daarin vind je het invul-notebook. Open dat op één laptop.
 
 Als jouw groep om 10.55 niet compleet is, trek dan aan de bel bij de TA (stoplicht op rood). 
 Wij komen dan kijken wie er mist en schuiven met studenten in incomplete groepen om jullie in volledige groepen te krijgen.
-
 
 ### Samenwerken
 
@@ -36,7 +36,9 @@ Maak nu samen een planning waarin je aangeeft:
 - Hoe laat je bij de mijlpalen verwacht te zijn. Als je een mijlpaal niet haalt omdat je vast zit, dan is het een goed idee om een TA om hulp te vragen.
 - Op welke tijden je als team niet werkt: jullie pauzes, plan deze in! Continue werken is niet effectief.
 
-Vul onderstaande tabel in (en eventueel aan als je meer regels nodig hebt). **Laat je planning aan je TA zien.** De planning moet uiterlijk om **11.15** klaar zijn.
+Vul de tabel in bij je opdrachten (en eventueel aan als je meer regels nodig hebt). 
+Doe vervolgens alvast een commit & push naar de goede branch in GitHub en maak alvast de pull request aan.
+**Laat je planning en de PR aan je TA zien.** De planning moet uiterlijk om **11.15** klaar zijn.
 
 ## Voorbereiding: Sanity Checks
 

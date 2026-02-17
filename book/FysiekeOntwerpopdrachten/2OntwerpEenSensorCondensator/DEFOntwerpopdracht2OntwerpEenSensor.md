@@ -50,8 +50,8 @@ Jullie hebben allemaal als het goed is de gehele opdracht doorgelezen. Maak nu s
     
 In de template staat een tabel. 
 Vul deze in (en eventueel aan als je meer regels nodig hebt). 
-**Laat de planning aan je TA zien, die tekent dit af!** 
-De planning moet uiterlijk om **11.15** binnen zijn.
+Doe vervolgens alvast een commit & push naar de goede branch in GitHub en maak alvast de pull request aan.
+**Laat je planning en de PR aan je TA zien.** De planning moet uiterlijk om **11.15** klaar zijn.
 
 
 Hieronder begint de opdracht. 

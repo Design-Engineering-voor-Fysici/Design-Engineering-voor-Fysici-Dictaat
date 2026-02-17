@@ -42,7 +42,8 @@ Maak nu samen een planning waarin je aangeeft
 - Op welke tijden je als team niet met de opdracht bezig gaat zijn (je pauzes, plan deze in! continue werken is niet effectief)
 
 Vul de planning tabel in bij *opdracht 1* in de template. 
-**Laat de planning aan je TA zien om deze te controleren. De planning moet uiterlijk om 11.00 gezien zijn**.
+Doe vervolgens alvast een commit & push naar de goede branch in GitHub en maak alvast de pull request aan.
+**Laat je planning en de PR aan je TA zien.** De planning moet uiterlijk om **11.15** klaar zijn.
 
 ### Schermen: Max twee laptops, geen AI (chat-GPT)
 

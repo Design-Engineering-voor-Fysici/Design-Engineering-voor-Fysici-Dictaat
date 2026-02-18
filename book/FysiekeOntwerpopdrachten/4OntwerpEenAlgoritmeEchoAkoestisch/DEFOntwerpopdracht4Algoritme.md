@@ -16,8 +16,8 @@ De leerdoelen van vandaag zijn:
 Aan het einde van de dag laat je zien dat je dit leerdoel onder de knie hebt door relevant zaken aan te leveren. 
 Je hebt als het goed is allemaal de github repo geforked van het vak.
 Je gaat op één laptop werken met zijn drieën, werk dus op de repo van de persoon waar de laptop ook van is.
-Maak een nieuwe branch aan voor deze opdracht. 
-Daarin vind je het invul-notebook. Open dat op één laptop.
+Maak een nieuwe branch aan voor deze opdracht op GitHub. 
+Daarin vind je het invul-notebook. Open dat op één laptop door `git fetch` te gebruiken en de nieuwe branch te kiezen.
 
 ### Groep aanmelden 
 

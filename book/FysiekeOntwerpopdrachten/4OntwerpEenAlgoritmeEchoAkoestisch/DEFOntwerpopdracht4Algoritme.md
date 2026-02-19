@@ -239,10 +239,11 @@ Dit, samen met het resultaat dat het gelukt is hierboven, laat zien dat je het l
 ## Inleveren
 Als je helemaal klaar bent kan je je uiteindelijke versie inleveren.
 
-Controleer eerst nog goed of alles klopt. **Klik boven op Kernel -> Restart and Run all en check of er geen errors zijn.** 
+Controleer eerst nog goed of alles klopt. 
+**Klik boven op Kernel -> Restart and Run all en check of er geen errors zijn.** 
 Zorg dat alle benodigde bestanden zijn gepusht in GitHub en dat de afbeeldingen zichtbaar zijn in het notebook.
 
-Als je helemaal klaar bent kan je de pull request starten.
+Als het goed is heb je de pull request al aangemaakt en de hoofdTA's uitgenodigd.
 
 ## Opruimen en feedback geven
 **Ruim je tafel op en laat de opgeruimde tafel aan je TA zien.** 

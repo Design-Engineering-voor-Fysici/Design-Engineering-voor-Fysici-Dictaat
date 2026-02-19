@@ -232,9 +232,9 @@ Je bent nu klaar met het invul template en kan deze op Github en Brightspace inl
 - Check of er geen errors zijn en alle afbeeldingen zichtbaar zijn.
 - Save je notebook (klik op save icoon).
 - Commit en push je werk naar Github.
-- Maak een pull request op Github aan van je huidige branch naar je main branch.
-- Nodig (in GitHub) je TA uit om deze pull request te reviewen.
-- Kopieer de link (URL) van je pull request en plak deze op Brightspace bij de assignment voor de ontwerpopdracht van vandaag.
+- Je hebt de pull request al aangemaakt en daar komen de updates automatisch bij!
+- Nodig (in GitHub) je TA uit om deze pull request te reviewen, als je dat nog niet had gedaan.
+- Kopieer de link (URL) van je pull request en plak deze op Brightspace bij de assignment voor de ontwerpopdracht van vandaag, als je dat nog niet had gedaan.
 
 **Wanneer je klaar bent, zet je je stoplicht op rood voor de TA. Laat je Pull Request binnen Github aan de TA zien. Je TA tekent dit af**
 

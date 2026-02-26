@@ -33,3 +33,42 @@ Die spreken voor zich, maar pas op met accept both changes, soms is het makkelij
 Als alles is 'geresolved' ziet het er zo uit en moet je dit nog **committen**!
 
 ![Het conflict is gefixt.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/5_4_conflict_gefixt.png)
+
+
+## Grote conflicts in VSCode
+
+Als je samen in 1 branch werkt en *pullt* om te gaan werken aan de opdracht bestaat de kans dat je een *merge conflict* krijgt.
+Door *(git) sync* te gebruiken in VSCode doet VSCode automatisch een *pull-rebase-push*.
+Dit zou dus de meeste *conflicten* meteen moeten oplossen.
+
+De meeste van deze *conflicten* kan je zelf oplossen, hier is een lijstje van de 2 meest voorkomende:
+- *execution count* is anders, kies 1 van de 2 en doe later een *restart run all*
+- Python versie
+
+Al zie je deze error in VSCode, dan moet je het volgende stuk even lezen:
+![Merge error in VSCode.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/5_5_er_pull_conflict.png)
+
+Klik dan op "Show Command Output" en dan zie je het volgende:
+![We moeten gaan mergen.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/5_6_1_we_moeten_mergen.png)
+
+En druk op het knopje die omcirkelt is, dit gaat een *merge* file aanmaken en dat ziet er zo uit:
+
+![Zo ziet de merge eruit in VSCode.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/5_6_2_moeten_mergen.png)
+
+Druk dan op "Resolve in Merge Editor", dit is de VSCode versie van hoe ze omgaan met *merge conflicts*.
+Dit zou er bekend uit moeten zien, het lijkt erg op de GitHub versie:
+![Zo ziet conflict eruit in VSCode.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/5_7_herkenbaan_conflict.png)
+
+Ik accepteer de "incoming changes" bij deze omdat dat een betere oplossing is.
+Dan fix ik de andere *merge conflicts* en klik ik op "complete merge":
+![Merge completen.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/5_8_links_geaccepteert_complete_merge.png)
+
+Dan zullen we links zien dat we kunnen *mergen*, druk op "continue":
+![Merge completen.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/5_9_mergen.png)
+
+Dan kan je een *commit message* maken en *commit+Syncen*!
+![Merge completen.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/5_10_commit_sync.png)
+
+
+
+

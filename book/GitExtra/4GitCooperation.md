@@ -19,7 +19,7 @@ Aan het einde kan je van de *repo* waar je in werkt een *PR* aan maken naar je g
 Nu je hebt gekozen in 1 repo te werken, moet de groepsgenoot deze *repo* ook *clonen* naar zijn laptop. 
 En maak een *branch* aan voor de opdracht, nu kan je op 2 manieren aan de opdracht werken:
 1. Je gaat beide op je eigen laptop werken.
-   - Werk op 1 *branch*: mits je op verschillende tijden aan de opdracht werkt, spreek dit dus dan ook af! Elke keer als je dan gaat werken, moet je eerst *git pullen*.
+   - Werk op 1 *branch*: mits je op verschillende tijden aan de opdracht werkt, spreek dit dus dan ook af! Elke keer als je dan gaat werken, moet je eerst *git pullen*. Ook voordat je *pusht*, *pull* eerst!
    - Als je tegelijk aan de opdracht wilt werken, maak dan van je opdracht *branch*, 2 nieuwe *branches* aan. Eentje voor jullie beiden, zo voorkom je dat je elkaars werk kan overschrijven op GitHub.
 
 2. Je werkt op 1 laptop samen: pair programming.

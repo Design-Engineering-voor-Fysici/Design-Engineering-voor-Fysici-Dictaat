@@ -71,7 +71,8 @@ parts:
       - file: GitExtra/4GitCooperation.md
       - file: GitExtra/5GitPr.md
       - file: GitExtra/6GitConflicts.md
-      - file: GitExtra/7_fork_syncen.md
+      - file: GitExtra/7GitForkSyncen.md
+      - file: GitExtra/8GitChecks.md
       - file: GitExtra/00GitRecap.md
 
   - caption: Overig

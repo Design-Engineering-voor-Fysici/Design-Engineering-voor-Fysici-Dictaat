@@ -48,7 +48,7 @@ De meeste van deze *conflicten* kan je zelf oplossen, hier is een lijstje van de
 Al zie je deze error in VSCode, dan moet je het volgende stuk even lezen:
 ![Merge error in VSCode.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/5_5_er_pull_conflict.png)
 
-Klik dan op "Show Command Output" en dan zie je het volgende:
+Klik dan op "Show Git Log" en dan zie je het volgende:
 ![We moeten gaan mergen.](https://raw.githubusercontent.com/Design-Engineering-voor-Fysici/plaatjes-DEF/main//figures/git/5_6_1_we_moeten_mergen.png)
 
 En druk op het knopje die omcirkelt is, dit gaat een *merge* file aanmaken en dat ziet er zo uit:
